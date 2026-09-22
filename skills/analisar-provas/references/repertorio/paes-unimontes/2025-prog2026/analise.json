@@ -1,0 +1,6866 @@
+{
+  "schema_version": 1,
+  "exam": "PAES Unimontes",
+  "exam_id": "paes-unimontes",
+  "editions": [
+    2025
+  ],
+  "program_editions": [
+    2026
+  ],
+  "status": "partial",
+  "inventory_complete": true,
+  "sources": [
+    {
+      "id": "s1",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\Gabaritos PAES 2025.pdf",
+      "sha256": "dd955bc342c1023484864cd1233c46df27e5a220f32a2388819c8a5b63bc305a",
+      "pages": 2,
+      "kind": "answer_key"
+    },
+    {
+      "id": "s2",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\Matriz de conteúdos PAES 1 - versão 2.pdf",
+      "sha256": "854e615fc7f6ae0c565493d7674ca114e91e604fba117bb08a3e2c7c4c681985",
+      "pages": 42,
+      "kind": "program"
+    },
+    {
+      "id": "s3",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\Matriz de conteúdos PAES 2 - versão 2.pdf",
+      "sha256": "86e196a8225b77a9c64858bab721e77f983bd6b3846f6734d0e8305469b07885",
+      "pages": 41,
+      "kind": "program"
+    },
+    {
+      "id": "s4",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\Matriz de conteúdos PAES 3.pdf",
+      "sha256": "55e4718b583ee33c2f8c5c9201a3bcdd4d123f4c8911b90446b67789916ae410",
+      "pages": 76,
+      "kind": "program"
+    },
+    {
+      "id": "s5",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\PAES 1 2025.pdf",
+      "sha256": "1ad1a1f9d51afd1e345db71327cdc4020956a04c7e3f76b1878a52389bffc190",
+      "pages": 19,
+      "kind": "exam"
+    },
+    {
+      "id": "s6",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\PAES 2 2025.pdf",
+      "sha256": "0546d0fe6ccae19e9212555a792d7191b73d247ed70b8293034514e6d442f4f8",
+      "pages": 25,
+      "kind": "exam"
+    },
+    {
+      "id": "s7",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\PAES 3 2025 - Bloco 1 - Biológicas.pdf",
+      "sha256": "f74247d60753e7b727ce865aee22518c67f5e2700e6f687d9ea3197bc76ef82e",
+      "pages": 23,
+      "kind": "exam"
+    },
+    {
+      "id": "s8",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\PAES 3 2025 - Bloco 2 - Humanas.pdf",
+      "sha256": "7c9e3cc0b524c1ac632e15a71d2a206d73960212cad411966a1dd87cf9574782",
+      "pages": 27,
+      "kind": "exam"
+    },
+    {
+      "id": "s9",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\PAES 3 2025 - Bloco 3 - Sociais Aplicadas.pdf",
+      "sha256": "8889ba28a9989a42bc2155b9238442e073eb2a8198a049cc67417321595650e8",
+      "pages": 25,
+      "kind": "exam"
+    },
+    {
+      "id": "s10",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\PAES 3 2025 - Bloco 4 - Exatas.pdf",
+      "sha256": "89ec04afd25c531b87b3f6772f3b6caa0675342b2ae3f96d4cab32b372cfab7c",
+      "pages": 23,
+      "kind": "exam"
+    },
+    {
+      "id": "s11",
+      "path": "C:\\Users\\arthu\\Downloads\\Unimontes\\Programa PAES 2026.pdf",
+      "sha256": "a6744cb853a5284fdc3f90ebcc15ec172e58e87d0e8a47c8a567a7acff9d9941",
+      "pages": 5,
+      "kind": "program"
+    }
+  ],
+  "expected_occurrences": [
+    "s5:comum:1",
+    "s5:comum:2",
+    "s5:comum:3",
+    "s5:comum:4",
+    "s5:comum:5",
+    "s5:comum:6",
+    "s5:comum:7",
+    "s5:comum:8",
+    "s5:comum:9",
+    "s5:comum:10",
+    "s5:comum:11",
+    "s5:comum:12",
+    "s5:comum:13",
+    "s5:comum:14",
+    "s5:comum:15",
+    "s5:espanhol:16",
+    "s5:espanhol:17",
+    "s5:espanhol:18",
+    "s5:espanhol:19",
+    "s5:inglês:16",
+    "s5:inglês:17",
+    "s5:inglês:18",
+    "s5:inglês:19",
+    "s5:comum:20",
+    "s5:comum:21",
+    "s5:comum:22",
+    "s5:comum:23",
+    "s5:comum:24",
+    "s5:comum:25",
+    "s5:comum:26",
+    "s5:comum:27",
+    "s5:comum:28",
+    "s5:comum:29",
+    "s5:comum:30",
+    "s5:comum:31",
+    "s5:comum:32",
+    "s5:comum:33",
+    "s5:comum:34",
+    "s5:comum:35",
+    "s5:comum:36",
+    "s5:comum:37",
+    "s5:comum:38",
+    "s5:comum:39",
+    "s5:comum:40",
+    "s5:comum:41",
+    "s5:comum:42",
+    "s5:comum:43",
+    "s5:comum:44",
+    "s5:comum:45",
+    "s5:comum:46",
+    "s5:comum:47",
+    "s5:comum:48",
+    "s5:comum:49",
+    "s5:comum:50",
+    "s5:comum:51",
+    "s5:comum:52",
+    "s5:comum:53",
+    "s5:comum:54",
+    "s5:comum:55",
+    "s5:comum:56",
+    "s5:comum:57",
+    "s5:comum:58",
+    "s5:comum:59",
+    "s5:comum:60",
+    "s6:comum:1",
+    "s6:comum:2",
+    "s6:comum:3",
+    "s6:comum:4",
+    "s6:comum:5",
+    "s6:comum:6",
+    "s6:comum:7",
+    "s6:comum:8",
+    "s6:comum:9",
+    "s6:comum:10",
+    "s6:comum:11",
+    "s6:comum:12",
+    "s6:comum:13",
+    "s6:comum:14",
+    "s6:comum:15",
+    "s6:espanhol:16",
+    "s6:espanhol:17",
+    "s6:espanhol:18",
+    "s6:espanhol:19",
+    "s6:inglês:16",
+    "s6:inglês:17",
+    "s6:inglês:18",
+    "s6:inglês:19",
+    "s6:comum:20",
+    "s6:comum:21",
+    "s6:comum:22",
+    "s6:comum:23",
+    "s6:comum:24",
+    "s6:comum:25",
+    "s6:comum:26",
+    "s6:comum:27",
+    "s6:comum:28",
+    "s6:comum:29",
+    "s6:comum:30",
+    "s6:comum:31",
+    "s6:comum:32",
+    "s6:comum:33",
+    "s6:comum:34",
+    "s6:comum:35",
+    "s6:comum:36",
+    "s6:comum:37",
+    "s6:comum:38",
+    "s6:comum:39",
+    "s6:comum:40",
+    "s6:comum:41",
+    "s6:comum:42",
+    "s6:comum:43",
+    "s6:comum:44",
+    "s6:comum:45",
+    "s6:comum:46",
+    "s6:comum:47",
+    "s6:comum:48",
+    "s6:comum:49",
+    "s6:comum:50",
+    "s6:comum:51",
+    "s6:comum:52",
+    "s6:comum:53",
+    "s6:comum:54",
+    "s6:comum:55",
+    "s6:comum:56",
+    "s6:comum:57",
+    "s6:comum:58",
+    "s6:comum:59",
+    "s6:comum:60",
+    "s7:comum:1",
+    "s8:comum:1",
+    "s9:comum:1",
+    "s10:comum:1",
+    "s7:comum:2",
+    "s8:comum:2",
+    "s9:comum:2",
+    "s10:comum:2",
+    "s7:comum:3",
+    "s8:comum:3",
+    "s9:comum:3",
+    "s10:comum:3",
+    "s7:comum:4",
+    "s8:comum:4",
+    "s9:comum:4",
+    "s10:comum:4",
+    "s7:comum:5",
+    "s8:comum:5",
+    "s9:comum:5",
+    "s10:comum:5",
+    "s7:comum:6",
+    "s8:comum:6",
+    "s9:comum:6",
+    "s10:comum:6",
+    "s7:comum:7",
+    "s8:comum:7",
+    "s9:comum:7",
+    "s10:comum:7",
+    "s7:comum:8",
+    "s8:comum:8",
+    "s9:comum:8",
+    "s10:comum:8",
+    "s7:comum:9",
+    "s8:comum:9",
+    "s9:comum:9",
+    "s10:comum:9",
+    "s7:espanhol:10",
+    "s8:espanhol:10",
+    "s9:espanhol:10",
+    "s10:espanhol:10",
+    "s7:espanhol:11",
+    "s8:espanhol:11",
+    "s9:espanhol:11",
+    "s10:espanhol:11",
+    "s7:espanhol:12",
+    "s8:espanhol:12",
+    "s9:espanhol:12",
+    "s10:espanhol:12",
+    "s7:inglês:10",
+    "s8:inglês:10",
+    "s9:inglês:10",
+    "s10:inglês:10",
+    "s7:inglês:11",
+    "s8:inglês:11",
+    "s9:inglês:11",
+    "s10:inglês:11",
+    "s7:inglês:12",
+    "s8:inglês:12",
+    "s9:inglês:12",
+    "s10:inglês:12",
+    "s7:comum:13",
+    "s8:comum:13",
+    "s9:comum:13",
+    "s10:comum:13",
+    "s7:comum:14",
+    "s8:comum:14",
+    "s9:comum:14",
+    "s10:comum:14",
+    "s7:comum:15",
+    "s8:comum:15",
+    "s9:comum:15",
+    "s10:comum:15",
+    "s7:comum:16",
+    "s8:comum:16",
+    "s9:comum:16",
+    "s10:comum:16",
+    "s7:comum:22",
+    "s8:comum:17",
+    "s9:comum:17",
+    "s10:comum:17",
+    "s7:comum:23",
+    "s8:comum:18",
+    "s9:comum:18",
+    "s10:comum:18",
+    "s7:comum:24",
+    "s8:comum:19",
+    "s9:comum:19",
+    "s10:comum:19",
+    "s7:comum:25",
+    "s8:comum:20",
+    "s9:comum:20",
+    "s10:comum:20",
+    "s7:comum:26",
+    "s8:comum:21",
+    "s9:comum:21",
+    "s10:comum:26",
+    "s7:comum:27",
+    "s8:comum:22",
+    "s9:comum:22",
+    "s10:comum:27",
+    "s7:comum:28",
+    "s8:comum:23",
+    "s9:comum:23",
+    "s10:comum:28",
+    "s7:comum:29",
+    "s8:comum:24",
+    "s9:comum:24",
+    "s10:comum:29",
+    "s7:comum:30",
+    "s8:comum:30",
+    "s9:comum:25",
+    "s10:comum:30",
+    "s7:comum:31",
+    "s8:comum:31",
+    "s9:comum:26",
+    "s10:comum:31",
+    "s7:comum:32",
+    "s8:comum:32",
+    "s9:comum:27",
+    "s10:comum:32",
+    "s7:comum:33",
+    "s8:comum:33",
+    "s9:comum:28",
+    "s10:comum:33",
+    "s7:comum:34",
+    "s8:comum:39",
+    "s9:comum:34",
+    "s10:comum:34",
+    "s7:comum:35",
+    "s8:comum:40",
+    "s9:comum:35",
+    "s10:comum:35",
+    "s7:comum:36",
+    "s8:comum:41",
+    "s9:comum:36",
+    "s10:comum:36",
+    "s7:comum:37",
+    "s8:comum:42",
+    "s9:comum:37",
+    "s10:comum:37",
+    "s7:comum:38",
+    "s8:comum:43",
+    "s9:comum:43",
+    "s10:comum:43",
+    "s7:comum:39",
+    "s8:comum:44",
+    "s9:comum:44",
+    "s10:comum:44",
+    "s7:comum:40",
+    "s8:comum:45",
+    "s9:comum:45",
+    "s10:comum:45",
+    "s7:comum:41",
+    "s8:comum:46",
+    "s9:comum:46",
+    "s10:comum:46",
+    "s7:comum:47",
+    "s8:comum:47",
+    "s9:comum:47",
+    "s10:comum:47",
+    "s7:comum:48",
+    "s8:comum:48",
+    "s9:comum:48",
+    "s10:comum:48",
+    "s7:comum:49",
+    "s8:comum:49",
+    "s9:comum:49",
+    "s10:comum:49",
+    "s7:comum:50",
+    "s8:comum:50",
+    "s9:comum:50",
+    "s10:comum:50",
+    "s7:comum:17",
+    "s7:comum:18",
+    "s7:comum:19",
+    "s7:comum:20",
+    "s7:comum:21",
+    "s7:comum:42",
+    "s7:comum:43",
+    "s7:comum:44",
+    "s7:comum:45",
+    "s7:comum:46",
+    "s8:comum:25",
+    "s8:comum:26",
+    "s8:comum:27",
+    "s8:comum:28",
+    "s8:comum:29",
+    "s8:comum:34",
+    "s9:comum:29",
+    "s8:comum:35",
+    "s9:comum:30",
+    "s8:comum:36",
+    "s9:comum:31",
+    "s8:comum:37",
+    "s9:comum:32",
+    "s8:comum:38",
+    "s9:comum:33",
+    "s9:comum:38",
+    "s10:comum:38",
+    "s9:comum:39",
+    "s10:comum:39",
+    "s9:comum:40",
+    "s10:comum:40",
+    "s9:comum:41",
+    "s10:comum:41",
+    "s9:comum:42",
+    "s10:comum:42",
+    "s10:comum:21",
+    "s10:comum:22",
+    "s10:comum:23",
+    "s10:comum:24",
+    "s10:comum:25"
+  ],
+  "items": [
+    {
+      "id": "PAES1-2025-01",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Analogia histórico-social e denúncia do racismo em Boa esperança",
+      "operation": "Reconhecer paráfrase da conclusão apresentada",
+      "difficulty": "fácil",
+      "difficulty_reason": "O comando já afirma continuidade de controle e violência; basta localizar elo passado-presente entre opções que a negam.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            2
+          ],
+          "number": 1,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:1"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-02",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Variação diastrática e diafásica no rap",
+      "operation": "Classificar marca linguística em duas dimensões",
+      "difficulty": "média",
+      "difficulty_reason": "Requer distinguir grupo social de situação de uso; exclusões categóricas dos distratores reduzem a exigência terminológica.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            2
+          ],
+          "number": 2,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:2"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-03",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Gênero letra musical e oralidade",
+      "operation": "Reconhecer características do gênero",
+      "difficulty": "fácil",
+      "difficulty_reason": "Resposta por repertório geral sobre canção; não exige interpretar o excerto e três opções descaracterizam o gênero.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            2
+          ],
+          "number": 3,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:3"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-04",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Charge: composição verbal-visual e função crítica",
+      "operation": "Reconhecer características do gênero",
+      "difficulty": "fácil",
+      "difficulty_reason": "A classificação genérica basta; alternativas de neutralidade e descrição fiel são facilmente elimináveis.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            3
+          ],
+          "number": 4,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:4"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-05",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Contraste entre mães branca e negra em charge de Junião",
+      "operation": "Relacionar contraste verbal e visual à crítica racial",
+      "difficulty": "fácil",
+      "difficulty_reason": "Diferença entre voltar logo e voltar vivo é explícita; título da charge e alternativas antecipam a leitura.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            3
+          ],
+          "number": 5,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:5"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-06",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Estranhamento e naturalização da violência racial",
+      "operation": "Identificar intenção discursiva",
+      "difficulty": "fácil",
+      "difficulty_reason": "O mesmo contraste de Q05 resolve; distratores homogeneízam experiências que o suporte distingue.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            3
+          ],
+          "number": 6,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:6"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-07",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Prosopopeia em Persistência de Cuti",
+      "operation": "Associar definição à nomenclatura",
+      "difficulty": "fácil",
+      "difficulty_reason": "O enunciado define atribuição de ação humana a abstrato, eliminando a necessidade de descobri-la no poema.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            4
+          ],
+          "number": 7,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:7"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-08",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Metáfora e superação de obstáculos em Persistência",
+      "operation": "Associar explicação do verso à figura de linguagem",
+      "difficulty": "fácil",
+      "difficulty_reason": "O comando já interpreta vão da pedra como desafios; extensão das opções aumenta leitura sem elevar inferência.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            4
+          ],
+          "number": 8,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:8"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-09",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Gênero notícia jornalística: factualidade e fontes",
+      "operation": "Reconhecer traços de notícia no relato de racismo no futebol",
+      "difficulty": "fácil",
+      "difficulty_reason": "Fatos datados e fala atribuída são ostensivos; rivais descrevem ficção, opinião e subjetividade literária.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            5
+          ],
+          "number": 9,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:9"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-10",
+      "stage": 1,
+      "subject": "Língua Portuguesa",
+      "content": "Detalhamento jornalístico da violência simbólica",
+      "operation": "Identificar efeito discursivo",
+      "difficulty": "fácil",
+      "difficulty_reason": "Alternativas humor, normalização e irrelevância contradizem o relato; não há inferência fina.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            5
+          ],
+          "number": 10,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:10"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-11",
+      "stage": 1,
+      "subject": "Literatura Brasileira",
+      "content": "Retórica religiosa e causa portuguesa no sermão de Vieira",
+      "operation": "Identificar perspectiva religiosa no fragmento",
+      "difficulty": "fácil",
+      "difficulty_reason": "O excerto repete oposição confessional; as três opções rivais negam sua dimensão religiosa ou inventam crítica régia.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            5
+          ],
+          "number": 11,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:11"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-12",
+      "stage": 1,
+      "subject": "Literatura Brasileira",
+      "content": "Narrador e memória paterna em O avesso da pele",
+      "operation": "Reconhecer organização narrativa da obra obrigatória",
+      "difficulty": "fácil",
+      "difficulty_reason": "Exige repertório de leitura da obra, com falsificações claras de narrador, gênero e profissão nos distratores.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            6
+          ],
+          "number": 12,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:12"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-13",
+      "stage": 1,
+      "subject": "Literatura Brasileira",
+      "content": "Zumbi: memória da escravidão e diálogo com Vieira e Tenório",
+      "operation": "Reconhecer síntese interdiscursiva de resistência",
+      "difficulty": "fácil",
+      "difficulty_reason": "Apesar da extensão e de três obras, comando anuncia resistência e crítica; rivais negam ambas, permitindo atalho temático.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            6
+          ],
+          "number": 13,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:13"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-14",
+      "stage": 1,
+      "subject": "Literatura Brasileira",
+      "content": "Metáforas, analogias bíblicas e persuasão em Vieira",
+      "operation": "Reconhecer recurso e vínculo catolicismo-Portugal",
+      "difficulty": "fácil",
+      "difficulty_reason": "Repete núcleo de Q11; tolerância, crítica à monarquia e ausência de religião destoam do sermão já fornecido.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            6
+          ],
+          "number": 14,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:14"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-15",
+      "stage": 1,
+      "subject": "Literatura Brasileira",
+      "content": "Temas sociais e realismo em O avesso da pele",
+      "operation": "Reconhecer interpretação global da obra",
+      "difficulty": "fácil",
+      "difficulty_reason": "Alternativa verdadeira reúne temas centrais; rivais alteram personagens, narrador e papel do racismo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            6
+          ],
+          "number": 15,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:15"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-16-ES",
+      "stage": 1,
+      "subject": "Língua Espanhola",
+      "content": "Compreensão global de notícia sobre série Chespirito",
+      "operation": "Localizar alcance biográfico da série",
+      "difficulty": "fácil",
+      "difficulty_reason": "Abertura enumera infância, família e carreira; basta confrontar a abrangência com opções distorcidas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            7
+          ],
+          "number": 16,
+          "booklet": "PAES 1",
+          "language": "espanhol",
+          "key": "s5:espanhol:16"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-17-ES",
+      "stage": 1,
+      "subject": "Língua Espanhola",
+      "content": "Florinda Meza: inferência referencial e homonímia",
+      "operation": "Relacionar nome da atriz ao de sua personagem",
+      "difficulty": "média",
+      "difficulty_reason": "Resposta combina identificação nominal e leitura precisa de relações familiares; opções trocam eventos e atitudes.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            7
+          ],
+          "number": 17,
+          "booklet": "PAES 1",
+          "language": "espanhol",
+          "key": "s5:espanhol:17"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-18-ES",
+      "stage": 1,
+      "subject": "Língua Espanhola",
+      "content": "Localização de papéis interpretados por Florinda Meza",
+      "operation": "Recuperar lista de personagens explicitada",
+      "difficulty": "fácil",
+      "difficulty_reason": "A sequência dos três papéis é reproduzida; rivais acrescentam relações ausentes do texto.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            7
+          ],
+          "number": 18,
+          "booklet": "PAES 1",
+          "language": "espanhol",
+          "key": "s5:espanhol:18"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-19-ES",
+      "stage": 1,
+      "subject": "Língua Espanhola",
+      "content": "Vocabulário espanhol: chavo, ajena, hacerse, rehusar",
+      "operation": "Identificar equivalência lexical",
+      "difficulty": "fácil",
+      "difficulty_reason": "Chavo-garoto é conhecimento lexical direto; texto não oferece mecanismo complexo de inferência.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            7
+          ],
+          "number": 19,
+          "booklet": "PAES 1",
+          "language": "espanhol",
+          "key": "s5:espanhol:19"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-16-EN",
+      "stage": 1,
+      "subject": "Língua Inglesa",
+      "content": "Sentido global e metáforas em Where the streets have no name",
+      "operation": "Inferir desejo de romper barreiras",
+      "difficulty": "média",
+      "difficulty_reason": "Integra walls, run e hide em leitura figurada; distinguir mensagem mais abrangente de tema político exige seleção.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            8
+          ],
+          "number": 16,
+          "booklet": "PAES 1",
+          "language": "inglês",
+          "key": "s5:inglês:16"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-17-EN",
+      "stage": 1,
+      "subject": "Língua Inglesa",
+      "content": "Humor e frustração de expectativas em cartum de Sarah Andersen",
+      "operation": "Integrar quatro quadros e desfecho",
+      "difficulty": "média",
+      "difficulty_reason": "Troca desejada e rotina de trabalho produzem desilusão; compreensão visual e verbal evita leitura apenas tecnológica.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            9
+          ],
+          "number": 17,
+          "booklet": "PAES 1",
+          "language": "inglês",
+          "key": "s5:inglês:17"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-18-EN",
+      "stage": 1,
+      "subject": "Língua Inglesa",
+      "content": "Expectativa diplomática no críquete Índia-Paquistão",
+      "operation": "Distinguir expectativa e fato; interpretar expressão figurada",
+      "difficulty": "média",
+      "difficulty_reason": "Cool the off-field heat indica aproximação, não extinção dos conflitos nem a recusa ocorrida.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            9
+          ],
+          "number": 18,
+          "booklet": "PAES 1",
+          "language": "inglês",
+          "key": "s5:inglês:18"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-19-EN",
+      "stage": 1,
+      "subject": "Língua Inglesa",
+      "content": "Preço de pré-venda e desconto em nota comercial",
+      "operation": "Localizar preço e subtrair desconto",
+      "difficulty": "fácil",
+      "difficulty_reason": "35 menos 5 resulta em 30; opções são números do texto ou o resultado, sem modelagem complexa.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            9
+          ],
+          "number": 19,
+          "booklet": "PAES 1",
+          "language": "inglês",
+          "key": "s5:inglês:19"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-20",
+      "stage": 1,
+      "subject": "Biologia",
+      "content": "Método científico: hipóteses verificáveis empiricamente",
+      "operation": "Reconhecer condição de testabilidade",
+      "difficulty": "fácil",
+      "difficulty_reason": "Preâmbulo já enfatiza rigor e verificação; rivais dispensam teste ou tratam resultados como definitivos.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            9
+          ],
+          "number": 20,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:20"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-21",
+      "stage": 1,
+      "subject": "Biologia",
+      "content": "Origem da vida: hipótese heterotrófica e fermentação anaeróbia",
+      "operation": "Recordar características da hipótese",
+      "difficulty": "fácil",
+      "difficulty_reason": "Contexto regional não fornece dados necessários; basta diferenciar heterotrofia de fotossíntese e aerobiose.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            10
+          ],
+          "number": 21,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:21"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-22",
+      "stage": 1,
+      "subject": "Biologia",
+      "content": "Membrana plasmática: permeabilidade seletiva",
+      "operation": "Nomear propriedade previamente descrita",
+      "difficulty": "fácil",
+      "difficulty_reason": "Regulação de trocas já aparece no suporte; rivais são absoluta rigidez ou ausência total de regulação.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            10
+          ],
+          "number": 22,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:22"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-23",
+      "stage": 1,
+      "subject": "Biologia",
+      "content": "Metabolismo energético: produto da glicólise",
+      "operation": "Recordar produto final",
+      "difficulty": "fácil",
+      "difficulty_reason": "Pergunta factual por piruvato, sem balanço de ATP ou relação com fermentação; contextualização regional removível.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            10
+          ],
+          "number": 23,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:23"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-24",
+      "stage": 1,
+      "subject": "Biologia",
+      "content": "Genética mendeliana: dominância em AA × aa",
+      "operation": "Reconhecer dominância a partir de F1 uniforme",
+      "difficulty": "fácil",
+      "difficulty_reason": "Genótipos e fenótipos já dados; não exige quadro de cruzamento nem probabilidade.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            10
+          ],
+          "number": 24,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:24"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-25",
+      "stage": 1,
+      "subject": "Física",
+      "content": "Encontro de MRU e MRUV",
+      "operation": "Igualar posições e excluir encontro inicial",
+      "difficulty": "média",
+      "difficulty_reason": "Modelar 1,25t²=10t, obter t=8 e distância80; duas leis e seleção da raiz física.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            11
+          ],
+          "number": 25,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:25"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-26",
+      "stage": 1,
+      "subject": "Física",
+      "content": "Queda, ressalto e aceleração média vetorial",
+      "operation": "Obter velocidades pelas alturas e calcular variação com sinais",
+      "difficulty": "média",
+      "difficulty_reason": "Módulos10 e8 têm sentidos opostos; usar18/0,012. Trabalho aritmético maior, mas repertório escolar rotineiro.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            11
+          ],
+          "number": 26,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:26"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-27",
+      "stage": 1,
+      "subject": "Física",
+      "content": "Lei de Hooke, equilíbrio e trabalho elástico",
+      "operation": "Converter deformação e combinar força e energia",
+      "difficulty": "média",
+      "difficulty_reason": "Com equilíbrio implícito, x=0,20, M=40 e trabalho40; opções testam fatores2 e uso do comprimento total.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            11
+          ],
+          "number": 27,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:27"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-28",
+      "stage": 1,
+      "subject": "Física",
+      "content": "Dinâmica e energia em plano inclinado sem atrito",
+      "operation": "Projetar peso e calcular velocidade",
+      "difficulty": "média",
+      "difficulty_reason": "F=mgsen30=5 e v²=2gLsen30=100; duas respostas combinadas, figura esclarece geometria.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            11
+          ],
+          "number": 28,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:28"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-29",
+      "stage": 1,
+      "subject": "Física",
+      "content": "Relatividade restrita e invariância da velocidade da luz",
+      "operation": "Localizar grandeza absoluta na terceira posição",
+      "difficulty": "fácil",
+      "difficulty_reason": "Só uma alternativa coloca c ao final; massa relativa sem convenção é ressalva conceitual, não dificuldade legítima.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            11
+          ],
+          "number": 29,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:29"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-30",
+      "stage": 1,
+      "subject": "Geografia",
+      "content": "Escala cartográfica numérica",
+      "operation": "Converter distância de mapa em distância real",
+      "difficulty": "fácil",
+      "difficulty_reason": "Multiplicar5cm por100000 e converter em5km; distratores diferem por fatores10.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            12
+          ],
+          "number": 30,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:30"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-31",
+      "stage": 1,
+      "subject": "Geografia",
+      "content": "Vegetação urbana, evapotranspiração e microclima",
+      "operation": "Reconhecer efeito ambiental da arborização",
+      "difficulty": "fácil",
+      "difficulty_reason": "Relação geral árvores-temperatura/umidade basta; opções invertem efeitos ou associam vegetação a criminalidade.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            12
+          ],
+          "number": 31,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:31"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-32",
+      "stage": 1,
+      "subject": "Geografia",
+      "content": "Geodiversidade e recursos minerais de Minas Gerais",
+      "operation": "Aplicar definição geral ao território mineiro",
+      "difficulty": "fácil",
+      "difficulty_reason": "A única opção coerente reconhece variedade; outras negam potencial já conhecido ou generalizam solos.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            12
+          ],
+          "number": 32,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:32"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-33",
+      "stage": 1,
+      "subject": "Geografia",
+      "content": "Ação antrópica e mudanças climáticas",
+      "operation": "Reconhecer consequência socioambiental geral",
+      "difficulty": "fácil",
+      "difficulty_reason": "A correta retoma integração sociedade-natureza; rivais fazem afirmações exclusivas ou geograficamente frágeis.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            12
+          ],
+          "number": 33,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:33"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-34",
+      "stage": 1,
+      "subject": "Geografia",
+      "content": "Impactos socioambientais da energia eólica",
+      "operation": "Identificar fonte energética descrita",
+      "difficulty": "fácil",
+      "difficulty_reason": "Torres que geram energia do vento nomeiam o mecanismo; impactos longamente descritos não precisam ser analisados.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            13
+          ],
+          "number": 34,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:34"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-35",
+      "stage": 1,
+      "subject": "História",
+      "content": "Democracia ateniense, fascismo e desinformação contemporânea",
+      "operation": "Reconhecer papel da informação confiável na cidadania",
+      "difficulty": "fácil",
+      "difficulty_reason": "Apesar de três períodos, rivais legitimam fake news ou negam efeitos políticos; comando já explica ameaça democrática.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            13
+          ],
+          "number": 35,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:35"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-36",
+      "stage": 1,
+      "subject": "História",
+      "content": "Feudalismo: corveia e trabalho servil",
+      "operation": "Identificar obrigação camponesa",
+      "difficulty": "fácil",
+      "difficulty_reason": "Requer associação factual; opções trocam instituições e épocas. Corveia e servidão não são sinônimos estritos.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            13
+          ],
+          "number": 36,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:36"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-37",
+      "stage": 1,
+      "subject": "História",
+      "content": "Administração colonial: câmaras, capitanias, ordenanças e tribunais",
+      "operation": "Discriminar funções institucionais",
+      "difficulty": "média",
+      "difficulty_reason": "Conhecimento prévio deve separar poder local, militar, judiciário e governo geral; Faoro apenas contextualiza.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            14
+          ],
+          "number": 37,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:37"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-38",
+      "stage": 1,
+      "subject": "História",
+      "content": "Pioneirismo português e Revolução de Avis",
+      "operation": "Reconhecer fator histórico de expansão marítima",
+      "difficulty": "fácil",
+      "difficulty_reason": "Rivais introduzem industrialização, vapor e dependência espanhola; anacronismos reduzem a demanda.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            14
+          ],
+          "number": 38,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:38"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-39",
+      "stage": 1,
+      "subject": "História",
+      "content": "Período pré-colonial: feitorias e pau-brasil",
+      "operation": "Associar estratégia à cronologia1500–1530",
+      "difficulty": "fácil",
+      "difficulty_reason": "Distinguir feitorias de colonização por capitanias e vilas; não exige interpretar documento.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            14
+          ],
+          "number": 39,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:39"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-40",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Algarismos significativos e arredondamento",
+      "operation": "Arredondar número decimal",
+      "difficulty": "fácil",
+      "difficulty_reason": "Contar três algarismos e observar o seguinte produz5,37; sem contexto de medição.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 40,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:40"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-41",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Relações de Viète e coeficientes de função quadrática",
+      "operation": "Eliminar coeficiente entre soma e produto das raízes",
+      "difficulty": "média",
+      "difficulty_reason": "b=-2a e c=5a dão5b+2c=0; ausência de raízes reais torna domínio pressuposto problemático.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 41,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:41"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-42",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Sequência: termo a partir de soma parcial",
+      "operation": "Subtrair S4-S3",
+      "difficulty": "média",
+      "difficulty_reason": "Decisão central é distinguir termo e acumulado;44-24=20, sem precisar obter lei geral.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 42,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:42"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-43",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "PG: razão a partir de duas somas parciais",
+      "operation": "Relacionar blocos consecutivos de dois termos",
+      "difficulty": "média",
+      "difficulty_reason": "S4=S2(1+q²), logo q²=9 e q=3 positivo; estruturar os blocos evita fórmula extensa.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 43,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:43"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-44",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Equação exponencial redutível a quadrática",
+      "operation": "Substituir e^x ou testar alternativas",
+      "difficulty": "média",
+      "difficulty_reason": "y²-3y+2=0 dá y=1 ou2; opções permitem testar e^ln2, sem calcular todas as raízes.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 44,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:44"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-45",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Equação logarítmica elementar",
+      "operation": "Converter definição de logaritmo em equação linear",
+      "difficulty": "fácil",
+      "difficulty_reason": "4x+2=8 dá1,5; um procedimento direto.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 45,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:45"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-46",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Propriedade do produto e domínio logarítmico",
+      "operation": "Combinar logaritmos e resolver com restrição",
+      "difficulty": "média",
+      "difficulty_reason": "x²-1=9 e x>1 dão√10; distratores exploram resultado anterior à soma de1.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 46,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:46"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-47",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Monotonicidade de funções afim e quadrática",
+      "operation": "Comparar comportamento em intervalos",
+      "difficulty": "média",
+      "difficulty_reason": "Afim decresce sempre; quadrática decresce só para x<0, sem necessidade de desenhar.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 47,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:47"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-48",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Radicais aninhados e potência fracionária",
+      "operation": "Compor três raízes quadradas",
+      "difficulty": "fácil",
+      "difficulty_reason": "x^(1/8)=16 implica16^8; nenhuma conta numérica extensa é necessária.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            15
+          ],
+          "number": 48,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:48"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-49",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Mudança de base de logaritmos",
+      "operation": "Reconhecer expressão equivalente",
+      "difficulty": "fácil",
+      "difficulty_reason": "Aplicação direta de log_b a=log a/log b; calculadora ambienta necessidade real.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            16
+          ],
+          "number": 49,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:49"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-50",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "Intercepto no eixo y e equação em parâmetro",
+      "operation": "Igualar termos constantes e resolver quadrática",
+      "difficulty": "média",
+      "difficulty_reason": "k+3=k²-k dá k=3 ou-1; reconhecer f(0) é a decisão geométrica e há teste por opções.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            16
+          ],
+          "number": 50,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:50"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-51",
+      "stage": 1,
+      "subject": "Matemática",
+      "content": "União e interseção de conjuntos",
+      "operation": "Executar duas operações sobre listas pequenas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Selecionar elementos de C presentes em A ou B fornece0,5,10; baixa carga.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            16
+          ],
+          "number": 51,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:51"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-52",
+      "stage": 1,
+      "subject": "Química",
+      "content": "Osmose: meio extracelular mais concentrado e água celular",
+      "operation": "Inferir sentido do fluxo osmótico",
+      "difficulty": "média",
+      "difficulty_reason": "Exige relacionar sal e tonicidade à saída de água; relação com hipertensão é simplificação a delimitar.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            17
+          ],
+          "number": 52,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:52"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-53",
+      "stage": 1,
+      "subject": "Química",
+      "content": "Concentração percentual massa-volume",
+      "operation": "Converter10g/100mL para5L",
+      "difficulty": "fácil",
+      "difficulty_reason": "Resulta500g; texto nutricional é ambientação e só concentração/volume entram na conta.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            17
+          ],
+          "number": 53,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:53"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-54",
+      "stage": 1,
+      "subject": "Química",
+      "content": "Energia de ionização, raio e formação de cátions",
+      "operation": "Relacionar perda de elétron à propriedade periódica",
+      "difficulty": "fácil",
+      "difficulty_reason": "Metais perdem elétrons com menor energia; uma opção contradiz diretamente premissa fornecida.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            17
+          ],
+          "number": 54,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:54"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-55",
+      "stage": 1,
+      "subject": "Química",
+      "content": "Irradiação de alimentos: fontes gama",
+      "operation": "Recordar aplicação de Co60/Cs137",
+      "difficulty": "fácil",
+      "difficulty_reason": "Não exige meia-vida nem mecanismo; longa explicação contextualiza e opções visível/infravermelho são fracas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            17
+          ],
+          "number": 55,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:55"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-56",
+      "stage": 1,
+      "subject": "Química",
+      "content": "Estequiometria de SO2 e porcentagem de enxofre",
+      "operation": "Extrair massa de S e aplicar razão molar de massas",
+      "difficulty": "média",
+      "difficulty_reason": "2,5% de1000kg=25kgS; multiplicar64/32 dá50kgSO2, usando tabela de apoio.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            17
+          ],
+          "number": 56,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:56"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-57",
+      "stage": 1,
+      "subject": "Filosofia",
+      "content": "Mito e racionalidade filosófica",
+      "operation": "Contrastar fundamentos do conhecimento",
+      "difficulty": "fácil",
+      "difficulty_reason": "Fragmento caracteriza afetividade do mito; alternativas negam racionalidade filosófica ou desqualificam mito em absoluto.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            18
+          ],
+          "number": 57,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:57"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-58",
+      "stage": 1,
+      "subject": "Filosofia",
+      "content": "Linguagem humana simbólica, abstração e cultura",
+      "operation": "Reconhecer desenvolvimento da tese do fragmento",
+      "difficulty": "fácil",
+      "difficulty_reason": "A correta amplia o que o texto já afirma; rivais reduzem linguagem a sinais instintivos ou sobrevivência.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            18
+          ],
+          "number": 58,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:58"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-59",
+      "stage": 1,
+      "subject": "Sociologia",
+      "content": "Etnocentrismo e diversidade religiosa na escola",
+      "operation": "Aplicar conceito a argumento de pais",
+      "difficulty": "fácil",
+      "difficulty_reason": "Julgar outra cultura pelos próprios valores corresponde diretamente ao caso; rivais invocam segurança ou qualidade.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            18
+          ],
+          "number": 59,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:59"
+        }
+      ]
+    },
+    {
+      "id": "PAES1-2025-60",
+      "stage": 1,
+      "subject": "Sociologia",
+      "content": "Cientificidade e pluralidade de métodos sociológicos",
+      "operation": "Julgar quatro afirmações e selecionar combinação",
+      "difficulty": "fácil",
+      "difficulty_reason": "III eIV afrontam rigor e distinção do senso comum explicitados; configuração de opções permite eliminar rapidamente.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s5",
+          "pages": [
+            19
+          ],
+          "number": 60,
+          "booklet": "PAES 1",
+          "language": "comum",
+          "key": "s5:comum:60"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-01",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Infográfico: integração verbal, visual e numérica",
+      "operation": "Reconhecer finalidade e composição de gênero",
+      "difficulty": "fácil",
+      "difficulty_reason": "A correta C define a síntese multimodal; B troca o gênero por narrativa e A/D hierarquizam indevidamente os modos. A questão pode ser respondida pelo conceito geral sem ler todos os dados.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            3
+          ],
+          "number": 1,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:1"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-02",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Metáfora visual da violência física: corpo feminino sobre mapa",
+      "operation": "Interpretar relação imagem-território",
+      "difficulty": "fácil",
+      "difficulty_reason": "Corpo sobre o Brasil representa alcance coletivo da violência; chave B. O comando aberto e as leituras próximas de A/C/D reduzem a nitidez da exclusão, sem transformar a operação em alta complexidade.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            4
+          ],
+          "number": 2,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:2"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-03",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Saliência gráfica e crescimento percentual no infográfico",
+      "operation": "Relacionar seta e percentual ao efeito de destaque",
+      "difficulty": "fácil",
+      "difficulty_reason": "Seta ascendente e 22% destacam aumento; C é a correspondência local mais direta. Distratores extrapolam para linha do tempo, políticas ou empatia.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            4
+          ],
+          "number": 3,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:3"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-04",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Recortes territoriais e estatísticas de violência sexual",
+      "operation": "Interpretar função de destaque territorial",
+      "difficulty": "fácil",
+      "difficulty_reason": "A é a chave; requer localizar Amazônia Legal/DF/Amazonas. O comando reúne bases distintas: 69% das vítimas são meninas, 76% e 71% são taxas acima da média. Não exige cálculo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            4
+          ],
+          "number": 4,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:4"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-05",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Estabilidade temporal de taxas de homicídio",
+      "operation": "Interpretar permanência e persistência da violência",
+      "difficulty": "fácil",
+      "difficulty_reason": "Chave B; a estabilidade é explicitada e a permanência de violência é inferência imediata. A introduz recepção possível, C extrapola estados, D nega a clareza do dado.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            4
+          ],
+          "number": 5,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:5"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-06",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Charge Dona Isaura: resistência ao protagonismo feminino",
+      "operation": "Parafrasear crítica expressa pela personagem",
+      "difficulty": "fácil",
+      "difficulty_reason": "O segundo quadro nomeia a dificuldade masculina diante de mulheres empoderadas; B parafraseia. A/D são absolutos e C inverte a posição da avó.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            5
+          ],
+          "number": 6,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:6"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-07",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Condições de produção e tema social da charge",
+      "operation": "Reconhecer tema e finalidade crítica",
+      "difficulty": "fácil",
+      "difficulty_reason": "A retoma obstáculos às mulheres; B/C/D negam reflexão, contexto e interlocução. Há redundância temática com a questão 6.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            5
+          ],
+          "number": 7,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:7"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-08",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Valor semântico de porque",
+      "operation": "Classificar relação causal/explicativa em fala",
+      "difficulty": "fácil",
+      "difficulty_reason": "O trecho já está transcrito; C expressa motivo da exclusão do jogo. Opções são categorias semânticas, sem análise sintática aprofundada.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            5
+          ],
+          "number": 8,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:8"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-09",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Charge da corrida: trabalho doméstico e desigualdade de oportunidades",
+      "operation": "Interpretar metáfora visual e crítica à meritocracia",
+      "difficulty": "fácil",
+      "difficulty_reason": "D é a chave; texto introdutório já descreve a diferença de obstáculos. B também enuncia reflexão defensável, pois o comando pergunta por reflexões possíveis. Ambiguidade editorial não foi contada como dificuldade alta.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            6
+          ],
+          "number": 9,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:9"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-10",
+      "stage": 2,
+      "subject": "Língua Portuguesa",
+      "content": "Maria, Maria: caracterização poética feminina",
+      "operation": "Sintetizar representação de força, dor e esperança",
+      "difficulty": "fácil",
+      "difficulty_reason": "D integra os traços presentes; A/B/C reduzem a personagem a ausência, renúncia ou sofrimento exclusivo. Letra extensa, mas percurso interpretativo direto.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            7
+          ],
+          "number": 10,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:10"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-11",
+      "stage": 2,
+      "subject": "Literatura Brasileira",
+      "content": "Encarnação: intertextualidade romântica com ópera",
+      "operation": "Reconhecer função de referência intertextual",
+      "difficulty": "fácil",
+      "difficulty_reason": "O próprio comando enumera paixões intensas e conflito razão/emoção; C aplica esse enquadramento ao romance. A/B duplicam rejeição à Europa.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            7
+          ],
+          "number": 11,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:11"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-12",
+      "stage": 2,
+      "subject": "Literatura Brasileira",
+      "content": "Cristiane Sobral e Beauvoir: identidade feminina e emancipação pela palavra",
+      "operation": "Relacionar excertos poéticos a conceito filosófico",
+      "difficulty": "média",
+      "difficulty_reason": "Três excertos, atravessando pp.7–8, pedem relação entre socialização do feminino e afirmação da voz; A. B/C/D mantêm experiência pessoal mas atenuam a mediação social.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            8
+          ],
+          "number": 12,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:12"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-13",
+      "stage": 2,
+      "subject": "Literatura Brasileira",
+      "content": "Pinturas de Gemma Fonseca: trabalho e tradição norte-mineira",
+      "operation": "Interpretar conjuntamente duas obras visuais",
+      "difficulty": "fácil",
+      "difficulty_reason": "As lavadeiras e O pilão mostram mulheres em afazeres tradicionais; D. Demais opções negam o cotidiano visível ou impõem rótulos estilísticos e intenções não sustentados.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            8
+          ],
+          "number": 13,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:13"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-14",
+      "stage": 2,
+      "subject": "Literatura Brasileira",
+      "content": "Encarnação: idealização romântica de Julieta",
+      "operation": "Reconhecer ideal de heroína romântica",
+      "difficulty": "fácil",
+      "difficulty_reason": "O enunciado já anuncia idealização; B oferece pureza, virtude e espiritualidade. Conhecimento específico do romance pouco necessário para excluir as demais.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            8
+          ],
+          "number": 14,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:14"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-15",
+      "stage": 2,
+      "subject": "Literatura Brasileira",
+      "content": "Cristiane Sobral: metáfora da criação literária como parto",
+      "operation": "Reconhecer conotação e metáfora",
+      "difficulty": "fácil",
+      "difficulty_reason": "D interpreta o verso. A/B/C incorporam ao próprio distrator a refutação de sua análise, por expressões como não corresponde/contrariando/em contraste, vazando a alternativa pretendida.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            9
+          ],
+          "number": 15,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:15"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-ESP-16",
+      "stage": 2,
+      "subject": "Espanhol",
+      "content": "Notícia sobre Grito de Independência mexicano: protagonismo de mulheres",
+      "operation": "Localizar e sintetizar informações explícitas",
+      "difficulty": "fácil",
+      "difficulty_reason": "A sintetiza menções às diferentes mulheres. B confunde retrato na galeria e citação na cerimônia; C inverte agente da pressão; D contraria a presença usual da soberania.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            9
+          ],
+          "number": 16,
+          "booklet": "PAES 2",
+          "language": "espanhol",
+          "key": "s6:espanhol:16"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-ESP-17",
+      "stage": 2,
+      "subject": "Espanhol",
+      "content": "Notícia: primeira presidenta a conduzir cerimônia",
+      "operation": "Reconhecer informação principal explícita",
+      "difficulty": "fácil",
+      "difficulty_reason": "B reexpressa o título e primeiro parágrafo. Distratores acrescentam violação de protocolo, juramento migratório ou moderação ausentes.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            10
+          ],
+          "number": 17,
+          "booklet": "PAES 2",
+          "language": "espanhol",
+          "key": "s6:espanhol:17"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-ESP-18",
+      "stage": 2,
+      "subject": "Espanhol",
+      "content": "Léxico contextual e falsos cognatos",
+      "operation": "Associar palavra espanhola ao sentido em português",
+      "difficulty": "fácil",
+      "difficulty_reason": "Cambios=mudanças; balcón é sacada, banda é faixa no contexto e subrayó reforçou/destacou. Opções em pares curtos palavra-significado.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            10
+          ],
+          "number": 18,
+          "booklet": "PAES 2",
+          "language": "espanhol",
+          "key": "s6:espanhol:18"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-ESP-19",
+      "stage": 2,
+      "subject": "Espanhol",
+      "content": "Conector mientras: simultaneidade temporal",
+      "operation": "Classificar relação temporal entre ações",
+      "difficulty": "fácil",
+      "difficulty_reason": "Mientras articula manutenção da popularidade e pressão simultâneas. Não se cobra conjugação do pretérito nem tradução integral.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            10
+          ],
+          "number": 19,
+          "booklet": "PAES 2",
+          "language": "espanhol",
+          "key": "s6:espanhol:19"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-ING-16",
+      "stage": 2,
+      "subject": "Inglês",
+      "content": "Redemption Song: liberdade e opressão",
+      "operation": "Reconhecer tema global de canção",
+      "difficulty": "fácil",
+      "difficulty_reason": "C é sustentada pelo campo lexical de slavery/free/freedom; demais opções propõem temas sentimentais, nostálgicos ou festivos ausentes.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            10
+          ],
+          "number": 16,
+          "booklet": "PAES 2",
+          "language": "inglês",
+          "key": "s6:inglês:16"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-ING-17",
+      "stage": 2,
+      "subject": "Inglês",
+      "content": "Cartum: ironia entre tratar clientes como família e inadimplência familiar",
+      "operation": "Inferir crítica e distinguir referentes pronominais",
+      "difficulty": "média",
+      "difficulty_reason": "A fala à direita questiona o interlocutor divorciado e devedor de pensão; B. D transfere a dívida ao falante. Humor depende da relação entre os dois balões.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            11
+          ],
+          "number": 17,
+          "booklet": "PAES 2",
+          "language": "inglês",
+          "key": "s6:inglês:17"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-ING-18",
+      "stage": 2,
+      "subject": "Inglês",
+      "content": "Campanha Ketchup Fraud: objetivo comercial",
+      "operation": "Localizar finalidade explícita",
+      "difficulty": "fácil",
+      "difficulty_reason": "A retoma o combate ao reabastecimento de frascos com ketchup genérico, repetido nos três parágrafos. Contexto de campanha não requer conhecimento externo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            11
+          ],
+          "number": 18,
+          "booklet": "PAES 2",
+          "language": "inglês",
+          "key": "s6:inglês:18"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-ING-19",
+      "stage": 2,
+      "subject": "Inglês",
+      "content": "Entrevista Tom Holland: produção cinematográfica pós-pandemia",
+      "operation": "Comparar modo de produção passado e futuro",
+      "difficulty": "fácil",
+      "difficulty_reason": "D traduz locações reais e técnicas tradicionais. A inventa ausência do ator e B/C invertem o contraste.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            12
+          ],
+          "number": 19,
+          "booklet": "PAES 2",
+          "language": "inglês",
+          "key": "s6:inglês:19"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-20",
+      "stage": 2,
+      "subject": "Biologia",
+      "content": "Histologia humana: tecido epitelial",
+      "operation": "Reconhecer característica estrutural de tecido",
+      "difficulty": "fácil",
+      "difficulty_reason": "Intenção aparente A: células justapostas e pouca substância intercelular; B/C/D correspondem a conjuntivo/nervoso/muscular. Item oficialmente anulado; não há motivo oficial no gabarito.",
+      "annulled": true,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            12
+          ],
+          "number": 20,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:20"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-21",
+      "stage": 2,
+      "subject": "Biologia",
+      "content": "Circulação humana: sangue arterial e venoso",
+      "operation": "Distinguir composição gasosa e percurso circulatório",
+      "difficulty": "fácil",
+      "difficulty_reason": "Item oficialmente anulado. B descreve sangue oxigenado nas veias pulmonares e C no circuito sistêmico; ambas respondem defensavelmente ao comando. Trata-se de diagnóstico, não da causa oficial.",
+      "annulled": true,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            12
+          ],
+          "number": 21,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:21"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-22",
+      "stage": 2,
+      "subject": "Biologia",
+      "content": "Botânica: características de angiospermas",
+      "operation": "Reconhecer sinapomorfias/estruturas distintivas",
+      "difficulty": "fácil",
+      "difficulty_reason": "D contrapõe flores e frutos a esporos, dependência de água para gametas e gametófito dominante. Mata Seca serve de contexto, sem dado indispensável.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            12
+          ],
+          "number": 22,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:22"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-23",
+      "stage": 2,
+      "subject": "Biologia",
+      "content": "Zoologia: exoesqueleto e segmentação dos artrópodes",
+      "operation": "Associar estrutura corporal a funções adaptativas",
+      "difficulty": "fácil",
+      "difficulty_reason": "C; A atribui circulação fechada, B simetria radial e D corpo mole sem tagmas. O Cerrado situa o exemplo, sem exigir análise ecológica local.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            13
+          ],
+          "number": 23,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:23"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-24",
+      "stage": 2,
+      "subject": "Biologia",
+      "content": "Ecologia aquática: esgoto e eutrofização",
+      "operation": "Reconhecer consequência de aporte de matéria orgânica/nutrientes",
+      "difficulty": "fácil",
+      "difficulty_reason": "B enuncia proliferação de algas e redução posterior de oxigênio. Os demais distratores prometem aumento equilibrado/estabilidade ou redução da decomposição.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            13
+          ],
+          "number": 24,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:24"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-25",
+      "stage": 2,
+      "subject": "Física",
+      "content": "Óptica: espelho convexo e equação dos espelhos",
+      "operation": "Combinar aumento linear e relação de conjugação",
+      "difficulty": "média",
+      "difficulty_reason": "Aumento 1/20 e objeto a5m dão imagem virtual a-0,25m; foco=-5/19m≈-26cm, C. Exige sinais e conversão, sem figura.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            13
+          ],
+          "number": 25,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:25"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-26",
+      "stage": 2,
+      "subject": "Física",
+      "content": "Calorimetria: balanço térmico alumínio-água",
+      "operation": "Equacionar calor cedido e recebido",
+      "difficulty": "média",
+      "difficulty_reason": "Modelo pretendido:10×900×900=m×4200×80, m≈24,1kg, D. O enunciado chama de barra alumínio a1000°C e ignora fase/fusão; leitura do modelo é condicionada.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            13
+          ],
+          "number": 26,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:26"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-27",
+      "stage": 2,
+      "subject": "Física",
+      "content": "Ondas: comprimento de onda, período e velocidade",
+      "operation": "Aplicar v=lambda/T",
+      "difficulty": "fácil",
+      "difficulty_reason": "Picos separados3m e T0,6s dão5m/s, B. Uma única substituição.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            13
+          ],
+          "number": 27,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:27"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-28",
+      "stage": 2,
+      "subject": "Física",
+      "content": "Mudança de fase, espelhos/lentes e velocidade de ondas",
+      "operation": "Julgar quatro proposições de tópicos distintos",
+      "difficulty": "média",
+      "difficulty_reason": "I/III pretendidas corretas, A; II troca imagem virtual por real e IV iguala velocidades em meios diferentes. Exige quatro verificações; generalizações dependem de hipóteses escolares usuais.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            14
+          ],
+          "number": 28,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:28"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-29",
+      "stage": 2,
+      "subject": "Física",
+      "content": "Acústica: Doppler, ondas estacionárias, meios e comprimento de onda",
+      "operation": "Julgar quatro proposições sobre ondas",
+      "difficulty": "média",
+      "difficulty_reason": "II/III corretas, C; I inverte rapidez ar/aço e IV preserva indevidamente comprimento de onda entre meios. Quatro juízos curtos, sem cálculo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            14
+          ],
+          "number": 29,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:29"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-30",
+      "stage": 2,
+      "subject": "Geografia",
+      "content": "Problemas ambientais brasileiros: desmatamento e agropecuária/grilagem",
+      "operation": "Relacionar impacto a fatores antrópicos",
+      "difficulty": "fácil",
+      "difficulty_reason": "B é a associação principal; demais opções naturalizam desertificação ou generalizam causas de cheias/chuvas/queimadas. Não há série de dados para analisar.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            14
+          ],
+          "number": 30,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:30"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-31",
+      "stage": 2,
+      "subject": "Geografia",
+      "content": "Demografia urbana: perda populacional em capitais e expansão metropolitana",
+      "operation": "Localizar explicação causal explícita em notícia",
+      "difficulty": "fácil",
+      "difficulty_reason": "C retoma custo de vida/imobiliário. Texto atravessa pp.14–15 e inclui números não necessários ao comando.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            15
+          ],
+          "number": 31,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:31"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-32",
+      "stage": 2,
+      "subject": "Geografia",
+      "content": "Resíduos sólidos e poluição hídrica",
+      "operation": "Reconhecer consequência ambiental direta",
+      "difficulty": "fácil",
+      "difficulty_reason": "B; A/D restringem artificialmente a escala/localização e C confunde poluição com secamento do lençol. Sem texto, mapa, gráfico ou cálculo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            15
+          ],
+          "number": 32,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:32"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-33",
+      "stage": 2,
+      "subject": "Geografia",
+      "content": "Chuvas concentradas e vulnerabilidade socioambiental",
+      "operation": "Relacionar chuva intensa e população exposta em áreas de risco",
+      "difficulty": "fácil",
+      "difficulty_reason": "A; todos os demais distratores contêm apenas e restrições indevidas. Não exige previsão meteorológica ou análise de hidrograma.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            15
+          ],
+          "number": 33,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:33"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-34",
+      "stage": 2,
+      "subject": "Geografia",
+      "content": "Indústria automotiva: concentração e reestruturação produtiva em Sorocaba",
+      "operation": "Sintetizar mudança locacional de cadeia produtiva",
+      "difficulty": "média",
+      "difficulty_reason": "D é chave. Requer distinguir fechamento/transferência/concentração; texto informa concentração, mas não demonstra diretamente obsolescência ou novas instalações tecnologicamente modernas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            15
+          ],
+          "number": 34,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:34"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-35",
+      "stage": 2,
+      "subject": "História",
+      "content": "Revolução Industrial: algodão, comércio e ludismo",
+      "operation": "Integrar narrativa econômica e imagem de resistência operária",
+      "difficulty": "fácil",
+      "difficulty_reason": "A reúne comércio/proteção e conflitos. Texto e comando já fornecem relações centrais e nomeiam ludismo; imagem ilustra destruição de máquinas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            16
+          ],
+          "number": 35,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:35"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-36",
+      "stage": 2,
+      "subject": "História",
+      "content": "Tiradentes: construção republicana de memória e iconografia",
+      "operation": "Comparar notícia e pintura com contexto político",
+      "difficulty": "média",
+      "difficulty_reason": "B relaciona falta de registros visuais e idealização republicana. Exige crítica de fonte; A chama Pedro Américo de inconfidente, C/D tratam idealização como fidelidade.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            17
+          ],
+          "number": 36,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:36"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-37",
+      "stage": 2,
+      "subject": "História",
+      "content": "Iluminismo e liberalismo clássico: direitos naturais",
+      "operation": "Reconhecer princípios explicitados em texto",
+      "difficulty": "fácil",
+      "difficulty_reason": "C repete vida/liberdade/propriedade e autonomia. Distratores restabelecem absolutismo, coletivismo integral ou hierarquia de nascimento.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            17
+          ],
+          "number": 37,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:37"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-38",
+      "stage": 2,
+      "subject": "História",
+      "content": "1808–1822: abertura dos portos e independência",
+      "operation": "Relacionar processos em dois documentos de momentos distintos",
+      "difficulty": "média",
+      "difficulty_reason": "A conecta medidas de1808 à emancipação. Os outros negam continuidade, antecipam independência ou restauram pacto colonial. Dois excertos com ortografia histórica elevam leitura.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            18
+          ],
+          "number": 38,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:38"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-39",
+      "stage": 2,
+      "subject": "História",
+      "content": "Revolução Francesa e difusão de princípios políticos",
+      "operation": "Distinguir legados político e econômico de duas revoluções",
+      "difficulty": "fácil",
+      "difficulty_reason": "D retoma ideias políticas; A/B/C trocam legados britânico/francês. Texto longo com resposta global explícita.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            18
+          ],
+          "number": 39,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:39"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-40",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Porcentagem: aumentos sucessivos",
+      "operation": "Compor fatores multiplicativos",
+      "difficulty": "fácil",
+      "difficulty_reason": "1,12×1,15−1=28,8%, D. R$120 é dispensável; A representa soma simples das taxas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            19
+          ],
+          "number": 40,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:40"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-41",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Equação exponencial redutível a quadrática",
+      "operation": "Substituir 2^x, resolver e somar expoentes",
+      "difficulty": "média",
+      "difficulty_reason": "t+4/t=5 dá t=1 ou t=4, portanto x=0 ou x=2 e soma 2, B. Exige reconhecer substituição e retornar à variável.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            19
+          ],
+          "number": 41,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:41"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-42",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Geometria plana: razão de áreas de hexágono regular",
+      "operation": "Decompor polígono e comparar subáreas",
+      "difficulty": "média",
+      "difficulty_reason": "BHG corresponde visualmente à metade de um dos seis triângulos equiláteros; razão12, B. G central/H ponto médio inferidos do desenho, sem explicitação suficiente no texto.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            19
+          ],
+          "number": 42,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:42"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-43",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Princípio multiplicativo",
+      "operation": "Multiplicar opções independentes",
+      "difficulty": "fácil",
+      "difficulty_reason": "5×4×3×3=180, D. Exatamente uma escolha de cada categoria. A é soma15.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            19
+          ],
+          "number": 43,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:43"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-44",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Permutações com repetição: anagramas",
+      "operation": "Calcular duas contagens e comparar",
+      "difficulty": "média",
+      "difficulty_reason": "LILIANA=7!/(2!2!2!)=630; CAMILA=6!/2!=360; diferença270, C. Distratores ignoram ou trocam repetições.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            19
+          ],
+          "number": 44,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:44"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-45",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Probabilidade e permutação com extremos fixados",
+      "operation": "Contar casos favoráveis e dividir pelo espaço amostral",
+      "difficulty": "média",
+      "difficulty_reason": "Três algarismos internos permutam:3!/120=5%, B. Espaço amostral já fornecido.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            19
+          ],
+          "number": 45,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:45"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-46",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Sistema linear e plano cartesiano",
+      "operation": "Resolver sistema e localizar quadrante em diagrama",
+      "difficulty": "média",
+      "difficulty_reason": "4x−2y=6 e3x+3y=−3/2 dão x5/6,y−4/3; IV quadrante=Beto, A. Figura necessária ao vínculo nome-quadrante; sabores dispensáveis.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            20
+          ],
+          "number": 46,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:46"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-47",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Área de quadrado menos círculo inscrito",
+      "operation": "Obter raio e subtrair áreas",
+      "difficulty": "fácil",
+      "difficulty_reason": "36−3,14×9=7,74m², A. Losango/piscina não afeta a região pedida.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            20
+          ],
+          "number": 47,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:47"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-48",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Geometria angular: quadrado e triângulo equilátero adjacentes",
+      "operation": "Construir relações angulares auxiliares e determinar ângulo",
+      "difficulty": "difícil",
+      "difficulty_reason": "Chave C45°. Requer identificar x no vértice F entre FB/FD e combinar a igualdade dos lados com relações de triângulos, sem medidas numéricas; maior integração geométrica da seção.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            21
+          ],
+          "number": 48,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:48"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-49",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Coloração com restrição de adjacência em ciclo de quatro regiões",
+      "operation": "Separar casos de cores em regiões opostas",
+      "difficulty": "difícil",
+      "difficulty_reason": "Oficialmente anulada. Regiões rotuladas pela posição:6×5×(5+4×4)=630, ausente das opções120/340/480/600. Exige controlar fechamento do ciclo. Dificuldade da operação pretendida, excluída da síntese válida.",
+      "annulled": true,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            21
+          ],
+          "number": 49,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:49"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-50",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Probabilidade sequencial sem reposição",
+      "operation": "Multiplicar probabilidades condicionadas de eventos ordenados",
+      "difficulty": "média",
+      "difficulty_reason": "9/24×6/23=9/92, C. Deve ajustar denominador após primeira retirada; B mantém24 no segundo sorteio.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            21
+          ],
+          "number": 50,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:50"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-51",
+      "stage": 2,
+      "subject": "Matemática",
+      "content": "Porcentagem: gastos sobre o mesmo restante",
+      "operation": "Modelar saldo e reconstruir salário",
+      "difficulty": "média",
+      "difficulty_reason": "0,88×(1−0,30−0,20)S=924, S2100, A. Deve interpretar ambos os percentuais sobre o valor que restou após12%.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            22
+          ],
+          "number": 51,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:51"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-52",
+      "stage": 2,
+      "subject": "Química",
+      "content": "Fórmulas do hipoclorito de sódio e cloro molecular",
+      "operation": "Identificar fórmulas químicas",
+      "difficulty": "fácil",
+      "difficulty_reason": "NaClO e Cl2, B; opções confundem oxossais, cloreto e fórmula da substância simples. Acidentes contextualizam, mas não são necessários.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            22
+          ],
+          "number": 52,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:52"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-53",
+      "stage": 2,
+      "subject": "Química",
+      "content": "Energia solar: renovabilidade e sustentabilidade",
+      "operation": "Reconhecer propriedade de fonte energética",
+      "difficulty": "fácil",
+      "difficulty_reason": "C; A/B contradizem redução de emissões/renovabilidade e D nega limitações. O dado11,57GW não é operado.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            22
+          ],
+          "number": 53,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:53"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-54",
+      "stage": 2,
+      "subject": "Química",
+      "content": "Descarte de pilhas e contaminação ambiental",
+      "operation": "Reconhecer risco de metais em solo/água",
+      "difficulty": "fácil",
+      "difficulty_reason": "B; ilustração autoral gerada por IA mostra descarte irregular, mas opções respondem sem análise visual. Distratores negam riscos ou propõem fertilização.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            23
+          ],
+          "number": 54,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:54"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-55",
+      "stage": 2,
+      "subject": "Química",
+      "content": "Vitamina D: estrutura orgânica, polaridade e lipossolubilidade",
+      "operation": "Relacionar estrutura molecular, solubilidade e acúmulo",
+      "difficulty": "média",
+      "difficulty_reason": "A; estrutura predominantemente hidrocarbonada com uma hidroxila apoia baixa polaridade e pouca solubilidade. Pode haver atalho por memória de vitamina lipossolúvel.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            23
+          ],
+          "number": 55,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:55"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-56",
+      "stage": 2,
+      "subject": "Química",
+      "content": "Chuva ácida: SO2/NOx e pH",
+      "operation": "Associar óxidos atmosféricos à acidificação",
+      "difficulty": "fácil",
+      "difficulty_reason": "D pH<5,6; outras opções são neutra/alcalinas. Não há reação quantitativa ou cálculo logarítmico.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            23
+          ],
+          "number": 56,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:56"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-57",
+      "stage": 2,
+      "subject": "Filosofia",
+      "content": "Ética intercultural: barbárie e humanidade plural",
+      "operation": "Aplicar princípio de alteridade a atitude ética",
+      "difficulty": "fácil",
+      "difficulty_reason": "D valoriza diálogo e abertura; demais opções absolutizam relativismo, etnocentrismo ou isolamento. Pequeno excerto, uma aplicação direta.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            24
+          ],
+          "number": 57,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:57"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-58",
+      "stage": 2,
+      "subject": "Filosofia",
+      "content": "Axiologia clássica: valores objetivos e fundamento metafísico",
+      "operation": "Reconhecer paráfrase conceitual de excerto",
+      "difficulty": "fácil",
+      "difficulty_reason": "B reexpressa validade independente do sujeito. Vocabulário abstrato eleva leitura, mas o próprio excerto fornece a relação central.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            24
+          ],
+          "number": 58,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:58"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-59",
+      "stage": 2,
+      "subject": "Sociologia",
+      "content": "Marx e Durkheim: alienação, anomia e transformação social",
+      "operation": "Comparar autores e julgar quatro proposições V/F",
+      "difficulty": "média",
+      "difficulty_reason": "VFFF, C: atribuições iniciais corretas; segunda equipara revolução; terceira inverte abolição/reforma; quarta homogeniza juízo sobre capitalismo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            24
+          ],
+          "number": 59,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:59"
+        }
+      ]
+    },
+    {
+      "id": "PAES2-2025-COM-60",
+      "stage": 2,
+      "subject": "Sociologia",
+      "content": "Bauman: modernidade líquida e precarização do trabalho",
+      "operation": "Relacionar conceito a consequências sociais",
+      "difficulty": "fácil",
+      "difficulty_reason": "A associa flexibilização a incerteza; B/C/D prometem estabilidade, eliminação de riscos e proteção geral contra isolamento.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s6",
+          "pages": [
+            24
+          ],
+          "number": 60,
+          "booklet": "PAES 2",
+          "language": "comum",
+          "key": "s6:comum:60"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-01",
+      "stage": 3,
+      "subject": "Língua Portuguesa",
+      "content": "Resenha audiovisual: efeito do plano-sequência",
+      "operation": "Relacionar técnica narrativa e envolvimento do espectador",
+      "difficulty": "fácil",
+      "difficulty_reason": "O excerto e o parágrafo final explicitam tensão e transformação; basta reconhecer a paráfrase positiva.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            6
+          ],
+          "number": 1,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:1"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            6
+          ],
+          "number": 1,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:1"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            6
+          ],
+          "number": 1,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:1"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            6
+          ],
+          "number": 1,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:1"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-02",
+      "stage": 3,
+      "subject": "Língua Portuguesa",
+      "content": "Resenha: culpa familiar e efeitos psicológicos",
+      "operation": "Inferir efeito de sentido da autoinvestigação familiar",
+      "difficulty": "média",
+      "difficulty_reason": "Exige distinguir foco psíquico local de mudança do eixo investigativo; B e C são próximas em plausibilidade.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            6
+          ],
+          "number": 2,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:2"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            6
+          ],
+          "number": 2,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:2"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            6
+          ],
+          "number": 2,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:2"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            6
+          ],
+          "number": 2,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:2"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-03",
+      "stage": 3,
+      "subject": "Língua Portuguesa",
+      "content": "Resenha: autocrítica do espectador",
+      "operation": "Parafrasear a avaliação do resenhista",
+      "difficulty": "fácil",
+      "difficulty_reason": "A frase impossível não se questionar fornece diretamente a orientação interpretativa.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            7
+          ],
+          "number": 3,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:3"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            7
+          ],
+          "number": 3,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:3"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            7
+          ],
+          "number": 3,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:3"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            7
+          ],
+          "number": 3,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:3"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-04",
+      "stage": 3,
+      "subject": "Língua Portuguesa",
+      "content": "Interdiscursividade em resenha",
+      "operation": "Reconhecer diálogo entre obras e discursos",
+      "difficulty": "fácil",
+      "difficulty_reason": "A nomenclatura é abstrata, mas referências a outras séries tornam falsas as opções que negam qualquer diálogo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            7
+          ],
+          "number": 4,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:4"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            7
+          ],
+          "number": 4,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:4"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            7
+          ],
+          "number": 4,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:4"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            7
+          ],
+          "number": 4,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:4"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-05",
+      "stage": 3,
+      "subject": "Língua Portuguesa",
+      "content": "Campanha digital de combate ao cyberbullying",
+      "operation": "Identificar finalidade comunicativa",
+      "difficulty": "fácil",
+      "difficulty_reason": "Imperativos de denúncia, apoio e recusa a mensagens de ódio explicitam a finalidade.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            8
+          ],
+          "number": 5,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:5"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            8
+          ],
+          "number": 5,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:5"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            8
+          ],
+          "number": 5,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:5"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            8
+          ],
+          "number": 5,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:5"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-06",
+      "stage": 3,
+      "subject": "Língua Portuguesa",
+      "content": "Campanha: credibilidade institucional",
+      "operation": "Interpretar função dos logotipos",
+      "difficulty": "fácil",
+      "difficulty_reason": "Identifica efeito de apoio institucional sem exigir dados externos sobre as entidades.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            8
+          ],
+          "number": 6,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:6"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            8
+          ],
+          "number": 6,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:6"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            8
+          ],
+          "number": 6,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:6"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            8
+          ],
+          "number": 6,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:6"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-07",
+      "stage": 3,
+      "subject": "Literatura Brasileira",
+      "content": "Piloto automático e Mantenha fora do alcance do bebê: solidão e vazio existencial",
+      "operation": "Comparar tema de canção e diálogo teatral",
+      "difficulty": "fácil",
+      "difficulty_reason": "O próprio enunciado já nomeia dificuldade afetiva e vazio; correta os reafirma.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            8
+          ],
+          "number": 7,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:7"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            8
+          ],
+          "number": 7,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:7"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            8
+          ],
+          "number": 7,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:7"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            8
+          ],
+          "number": 7,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:7"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-08",
+      "stage": 3,
+      "subject": "Literatura Brasileira",
+      "content": "O mistério da Casa Verde: personagem Doutor Eduardo e cuidado psiquiátrico",
+      "operation": "Reconhecer caracterização e sentido na obra integral",
+      "difficulty": "média",
+      "difficulty_reason": "Sem excerto de apoio, exige memória de leitura e distinção entre personagens e motivações.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            8
+          ],
+          "number": 8,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:8"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            8
+          ],
+          "number": 8,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:8"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            8
+          ],
+          "number": 8,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:8"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            8
+          ],
+          "number": 8,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:8"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-09",
+      "stage": 3,
+      "subject": "Literatura Brasileira",
+      "content": "Murilo Rubião: Os dragões, Teleco e categorias do insólito",
+      "operation": "Aplicar classificação de Todorov a resumos",
+      "difficulty": "fácil",
+      "difficulty_reason": "Definições são fornecidas; aceitação social do dragão está explicitada na correta, enquanto opções negam o extraordinário.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            9
+          ],
+          "number": 9,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:9"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            9
+          ],
+          "number": 9,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:9"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            9
+          ],
+          "number": 9,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:9"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            9
+          ],
+          "number": 9,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:9"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-ESP-10",
+      "stage": 3,
+      "subject": "Língua Estrangeira — Espanhol",
+      "content": "Notícia sobre aposentados argentinos e veto previdenciário",
+      "operation": "Localizar síntese factual em espanhol",
+      "difficulty": "fácil",
+      "difficulty_reason": "Manifestações e grupos afetados constam expressamente do texto.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            9
+          ],
+          "number": 10,
+          "booklet": "B1",
+          "language": "espanhol",
+          "key": "s7:espanhol:10"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            9
+          ],
+          "number": 10,
+          "booklet": "B2",
+          "language": "espanhol",
+          "key": "s8:espanhol:10"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            9
+          ],
+          "number": 10,
+          "booklet": "B3",
+          "language": "espanhol",
+          "key": "s9:espanhol:10"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            9
+          ],
+          "number": 10,
+          "booklet": "B4",
+          "language": "espanhol",
+          "key": "s10:espanhol:10"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-ESP-11",
+      "stage": 3,
+      "subject": "Língua Estrangeira — Espanhol",
+      "content": "Notícia: repressão a aposentados",
+      "operation": "Recuperar informação explícita",
+      "difficulty": "fácil",
+      "difficulty_reason": "Gás, agressão e Congresso estão narrados; não requer análise política externa.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            9
+          ],
+          "number": 11,
+          "booklet": "B1",
+          "language": "espanhol",
+          "key": "s7:espanhol:11"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            9
+          ],
+          "number": 11,
+          "booklet": "B2",
+          "language": "espanhol",
+          "key": "s8:espanhol:11"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            9
+          ],
+          "number": 11,
+          "booklet": "B3",
+          "language": "espanhol",
+          "key": "s9:espanhol:11"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            9
+          ],
+          "number": 11,
+          "booklet": "B4",
+          "language": "espanhol",
+          "key": "s10:espanhol:11"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-ESP-12",
+      "stage": 3,
+      "subject": "Língua Estrangeira — Espanhol",
+      "content": "Léxico espanhol em contexto",
+      "operation": "Relacionar pelear a brigar",
+      "difficulty": "fácil",
+      "difficulty_reason": "Correspondência lexical direta apoiada pelo contexto de protesto.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            10
+          ],
+          "number": 12,
+          "booklet": "B1",
+          "language": "espanhol",
+          "key": "s7:espanhol:12"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            10
+          ],
+          "number": 12,
+          "booklet": "B2",
+          "language": "espanhol",
+          "key": "s8:espanhol:12"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            10
+          ],
+          "number": 12,
+          "booklet": "B3",
+          "language": "espanhol",
+          "key": "s9:espanhol:12"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            10
+          ],
+          "number": 12,
+          "booklet": "B4",
+          "language": "espanhol",
+          "key": "s10:espanhol:12"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-ING-10",
+      "stage": 3,
+      "subject": "Língua Estrangeira — Inglês",
+      "content": "Sunday, Bloody Sunday: violência e suas consequências",
+      "operation": "Identificar tema global de letra em inglês",
+      "difficulty": "fácil",
+      "difficulty_reason": "Imagens recorrentes de corpos, guerra e famílias separadas convergem claramente.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            10
+          ],
+          "number": 10,
+          "booklet": "B1",
+          "language": "inglês",
+          "key": "s7:inglês:10"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            10
+          ],
+          "number": 10,
+          "booklet": "B2",
+          "language": "inglês",
+          "key": "s8:inglês:10"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            10
+          ],
+          "number": 10,
+          "booklet": "B3",
+          "language": "inglês",
+          "key": "s9:inglês:10"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            10
+          ],
+          "number": 10,
+          "booklet": "B4",
+          "language": "inglês",
+          "key": "s10:inglês:10"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-ING-11",
+      "stage": 3,
+      "subject": "Língua Estrangeira — Inglês",
+      "content": "FOMO e técnicas de golpe",
+      "operation": "Parafrasear expressão definida no texto",
+      "difficulty": "fácil",
+      "difficulty_reason": "Fear of missing out é expandida e explicada com escassez e urgência.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            11
+          ],
+          "number": 11,
+          "booklet": "B1",
+          "language": "inglês",
+          "key": "s7:inglês:11"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            11
+          ],
+          "number": 11,
+          "booklet": "B2",
+          "language": "inglês",
+          "key": "s8:inglês:11"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            11
+          ],
+          "number": 11,
+          "booklet": "B3",
+          "language": "inglês",
+          "key": "s9:inglês:11"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            11
+          ],
+          "number": 11,
+          "booklet": "B4",
+          "language": "inglês",
+          "key": "s10:inglês:11"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-ING-12",
+      "stage": 3,
+      "subject": "Língua Estrangeira — Inglês",
+      "content": "Notícia: resposta da Casa Branca a Obama",
+      "operation": "Localizar fala e atribuir posição ao enunciador",
+      "difficulty": "fácil",
+      "difficulty_reason": "Última frase apresenta a acusação de divisão; necessária atenção a quem fala.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            11
+          ],
+          "number": 12,
+          "booklet": "B1",
+          "language": "inglês",
+          "key": "s7:inglês:12"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            11
+          ],
+          "number": 12,
+          "booklet": "B2",
+          "language": "inglês",
+          "key": "s8:inglês:12"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            11
+          ],
+          "number": 12,
+          "booklet": "B3",
+          "language": "inglês",
+          "key": "s9:inglês:12"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            11
+          ],
+          "number": 12,
+          "booklet": "B4",
+          "language": "inglês",
+          "key": "s10:inglês:12"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-13",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "Darwin e seleção natural",
+      "operation": "Reconhecer sobrevivência/reprodução diferencial",
+      "difficulty": "fácil",
+      "difficulty_reason": "Contexto já apresenta variabilidade e pressão ambiental; aplicação canônica.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            11
+          ],
+          "number": 13,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:13"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            11
+          ],
+          "number": 13,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:13"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            11
+          ],
+          "number": 13,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:13"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            11
+          ],
+          "number": 13,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:13"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-14",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "DNA recombinante e insulina",
+      "operation": "Identificar aplicação biotecnológica",
+      "difficulty": "fácil",
+      "difficulty_reason": "Exemplo escolar clássico; descrição conduz a microrganismo modificado.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            11
+          ],
+          "number": 14,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:14"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            11
+          ],
+          "number": 14,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:14"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            11
+          ],
+          "number": 14,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:14"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            11
+          ],
+          "number": 14,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:14"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-15",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "Espécies exóticas e impacto ecológico",
+      "operation": "Reconhecer competição com espécies nativas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Efeito negativo previsível, oposto a neutralidade e benefício universal.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            11
+          ],
+          "number": 15,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:15"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            11
+          ],
+          "number": 15,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:15"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            11
+          ],
+          "number": 15,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:15"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            11
+          ],
+          "number": 15,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:15"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-16",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "Primeira lei de Mendel: Aa × Aa",
+      "operation": "Ler frequência genotípica aa",
+      "difficulty": "fácil",
+      "difficulty_reason": "Quadro de Punnett vem preenchido; contar 1 de 4 é suficiente.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            12
+          ],
+          "number": 16,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:16"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            12
+          ],
+          "number": 16,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:16"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            12
+          ],
+          "number": 16,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:16"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            12
+          ],
+          "number": 16,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:16"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-17",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Eletrização por atrito, contato e indução",
+      "operation": "Julgar três proposições conceituais",
+      "difficulty": "média",
+      "difficulty_reason": "Requer distinguir sinais e condições de três processos, sem cálculo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            13
+          ],
+          "number": 22,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:22"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            12
+          ],
+          "number": 17,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:17"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            12
+          ],
+          "number": 17,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:17"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            12
+          ],
+          "number": 17,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:17"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-18",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Circuito misto e potência elétrica",
+      "operation": "Reduzir associação e aplicar P=V²/Req",
+      "difficulty": "média",
+      "difficulty_reason": "Figura exige identificar paralelo de R e série com R/2; Req=12 e R=12.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            13
+          ],
+          "number": 23,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:23"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            12
+          ],
+          "number": 18,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:18"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            12
+          ],
+          "number": 18,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:18"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            12
+          ],
+          "number": 18,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:18"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-19",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Linhas de campo, indução em placa e campo em cavidade",
+      "operation": "Integrar três representações eletrostáticas",
+      "difficulty": "média",
+      "difficulty_reason": "Três julgamentos visuais, com eliminação possível pelo campo interno nulo e número de linhas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            14
+          ],
+          "number": 24,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:24"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            13
+          ],
+          "number": 19,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:19"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            13
+          ],
+          "number": 19,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:19"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            13
+          ],
+          "number": 19,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:19"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-20",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Força magnética sobre elétrons",
+      "operation": "Determinar sentido e curvatura da trajetória",
+      "difficulty": "média",
+      "difficulty_reason": "Combina produto vetorial com sinal negativo do elétron; exige leitura de orientação.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            14
+          ],
+          "number": 25,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:25"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            13
+          ],
+          "number": 20,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:20"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            13
+          ],
+          "number": 20,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:20"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            13
+          ],
+          "number": 20,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:20"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-21",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Urbanização em países centrais e periféricos",
+      "operation": "Julgar comparações históricas e espaciais",
+      "difficulty": "média",
+      "difficulty_reason": "Três proposições requerem articular ritmo, industrialização e hierarquia urbana.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            14
+          ],
+          "number": 26,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:26"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            13
+          ],
+          "number": 21,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:21"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            13
+          ],
+          "number": 21,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:21"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            14
+          ],
+          "number": 26,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:26"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-22",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Tectônica de placas e convecção",
+      "operation": "Relacionar divergência e formação de dorsal",
+      "difficulty": "fácil",
+      "difficulty_reason": "Esquema rotula convecção e dorsal, apoiando resposta direta.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            15
+          ],
+          "number": 27,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:27"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            14
+          ],
+          "number": 22,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:22"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            14
+          ],
+          "number": 22,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:22"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            15
+          ],
+          "number": 27,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:27"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-23",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Geopolítica e blocos econômicos",
+      "operation": "Reconhecer finalidade da integração regional",
+      "difficulty": "fácil",
+      "difficulty_reason": "Correta é finalidade geral; demais contêm negações ou exageros evidentes.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            15
+          ],
+          "number": 28,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:28"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            14
+          ],
+          "number": 23,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:23"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            14
+          ],
+          "number": 23,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:23"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            15
+          ],
+          "number": 28,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:28"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-24",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Queimadas no Peruaçu e unidades de conservação",
+      "operation": "Relacionar proteção ambiental e conservação dos biomas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Notícia contextualiza princípio amplo; alternativas excluídas por absolutos.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            15
+          ],
+          "number": 29,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:29"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            14
+          ],
+          "number": 24,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:24"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            14
+          ],
+          "number": 24,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:24"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            15
+          ],
+          "number": 29,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:29"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-25",
+      "stage": 3,
+      "subject": "História",
+      "content": "Segunda Guerra, Enigma e criptografia contemporânea",
+      "operation": "Comparar tecnologia, informação e poder em épocas distintas",
+      "difficulty": "fácil",
+      "difficulty_reason": "A importância estratégica já é enunciada; distratores a negam frontalmente.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            16
+          ],
+          "number": 30,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:30"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            17
+          ],
+          "number": 30,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:30"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            15
+          ],
+          "number": 25,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:25"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            16
+          ],
+          "number": 30,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:30"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-26",
+      "stage": 3,
+      "subject": "História",
+      "content": "Guerra do Vietnã, napalm e opinião pública",
+      "operation": "Relacionar violência contra civis e contestação da guerra",
+      "difficulty": "média",
+      "difficulty_reason": "O dano está explícito; resposta acrescenta repercussão política e pressão internacional.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            17
+          ],
+          "number": 31,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:31"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            18
+          ],
+          "number": 31,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:31"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            16
+          ],
+          "number": 26,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:26"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            17
+          ],
+          "number": 31,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:31"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-27",
+      "stage": 3,
+      "subject": "História",
+      "content": "Vargas 1936: anticomunismo e legitimação autoritária",
+      "operation": "Inferir estratégia política a partir de discurso",
+      "difficulty": "média",
+      "difficulty_reason": "Articula linguagem da ameaça com expansão dos alvos de repressão e contexto varguista.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            18
+          ],
+          "number": 32,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:32"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            19
+          ],
+          "number": 32,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:32"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            17
+          ],
+          "number": 27,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:27"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            18
+          ],
+          "number": 32,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:32"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-28",
+      "stage": 3,
+      "subject": "História",
+      "content": "República da Espada e eleição de Deodoro",
+      "operation": "Reconhecer sequência institucional histórica",
+      "difficulty": "fácil",
+      "difficulty_reason": "Memória factual de governo provisório e eleição congressual.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            18
+          ],
+          "number": 33,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:33"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            19
+          ],
+          "number": 33,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:33"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            17
+          ],
+          "number": 28,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:28"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            18
+          ],
+          "number": 33,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:33"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-29",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Área de triângulo, ângulo obtuso e lei dos cossenos",
+      "operation": "Derivar seno, selecionar ângulo e calcular terceiro lado",
+      "difficulty": "difícil",
+      "difficulty_reason": "Requer articular área=ab senθ/2, θ obtuso e cosseno negativo; opções exploram ramo do ângulo e sinal.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            18
+          ],
+          "number": 34,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:34"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            23
+          ],
+          "number": 39,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:39"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            21
+          ],
+          "number": 34,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:34"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            18
+          ],
+          "number": 34,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:34"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-30",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Porcentagem em distribuição de transportes",
+      "operation": "Somar percentuais e calcular quantidade",
+      "difficulty": "fácil",
+      "difficulty_reason": "20%+10%=30% de 1200, cálculo direto.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            18
+          ],
+          "number": 35,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:35"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            23
+          ],
+          "number": 40,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:40"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            22
+          ],
+          "number": 35,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:35"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            19
+          ],
+          "number": 35,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:35"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-31",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Função cosseno modelando maré",
+      "operation": "Substituir t=4 e avaliar cosseno",
+      "difficulty": "média",
+      "difficulty_reason": "Modelo está pronto; requer reconhecer cos(2π/3)=-1/2 e deslocamento vertical.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            19
+          ],
+          "number": 36,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:36"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            23
+          ],
+          "number": 41,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:41"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            22
+          ],
+          "number": 36,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:36"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            19
+          ],
+          "number": 36,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:36"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-32",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Geometria analítica: tangência reta-circunferência",
+      "operation": "Impor distância do centro à reta igual ao raio",
+      "difficulty": "média",
+      "difficulty_reason": "Traduz tangência para módulo(k)/√2=5 ou discriminante nulo; seleciona raiz positiva.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            19
+          ],
+          "number": 37,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:37"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            23
+          ],
+          "number": 42,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:42"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            22
+          ],
+          "number": 37,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:37"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            19
+          ],
+          "number": 37,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:37"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-33",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Biodiesel e transesterificação",
+      "operation": "Nomear reação de triglicerídeo com metanol",
+      "difficulty": "fácil",
+      "difficulty_reason": "Reagentes e produtos dados, reconhecimento do processo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            19
+          ],
+          "number": 38,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:38"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            24
+          ],
+          "number": 43,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:43"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            24
+          ],
+          "number": 43,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:43"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            21
+          ],
+          "number": 43,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:43"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-34",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Biomassa e metano/biogás",
+      "operation": "Selecionar combustível associado a fonte renovável",
+      "difficulty": "fácil",
+      "difficulty_reason": "Eliminação dos três derivados fósseis; origem biogênica do metano fica implícita.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            20
+          ],
+          "number": 39,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:39"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            24
+          ],
+          "number": 44,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:44"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            24
+          ],
+          "number": 44,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:44"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            21
+          ],
+          "number": 44,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:44"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-35",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Polímeros biodegradáveis e sustentabilidade",
+      "operation": "Reconhecer redução relativa de resíduos",
+      "difficulty": "fácil",
+      "difficulty_reason": "Correta é afirmação moderada; demais são absolutas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            20
+          ],
+          "number": 40,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:40"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            24
+          ],
+          "number": 45,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:45"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            24
+          ],
+          "number": 45,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:45"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            21
+          ],
+          "number": 45,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:45"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-36",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Propanona e função cetona",
+      "operation": "Associar nome e grupo funcional",
+      "difficulty": "fácil",
+      "difficulty_reason": "Sufixo e carbono carbonílico já oferecem pistas; reconhecer R–CO–R.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            20
+          ],
+          "number": 41,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:41"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            25
+          ],
+          "number": 46,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:46"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            24
+          ],
+          "number": 46,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:46"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            21
+          ],
+          "number": 46,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:46"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-37",
+      "stage": 3,
+      "subject": "Filosofia",
+      "content": "Linguagem, mediação simbólica e cultura",
+      "operation": "Inferir papel da interação social na significação",
+      "difficulty": "média",
+      "difficulty_reason": "Relato de Helen Keller exige distinguir mediação interpessoal de maturação ou reflexão autônoma.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            21
+          ],
+          "number": 47,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:47"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            25
+          ],
+          "number": 47,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:47"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            24
+          ],
+          "number": 47,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:47"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            21
+          ],
+          "number": 47,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:47"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-38",
+      "stage": 3,
+      "subject": "Filosofia",
+      "content": "Antropologia filosófica, alteridade e etnocentrismo",
+      "operation": "Confrontar organização matrilinear e crítica à norma única",
+      "difficulty": "fácil",
+      "difficulty_reason": "A citação de Wolff orienta a recusa de superioridade; três opções defendem imposição patriarcal.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            21
+          ],
+          "number": 48,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:48"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            25
+          ],
+          "number": 48,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:48"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            25
+          ],
+          "number": 48,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:48"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            22
+          ],
+          "number": 48,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:48"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-39",
+      "stage": 3,
+      "subject": "Sociologia",
+      "content": "Relativismo cultural e julgamento etnocêntrico",
+      "operation": "Aplicar conceito a crítica de práticas agrícolas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Padrão próprio aplicado a cultura alheia aparece explicitamente.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            22
+          ],
+          "number": 49,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:49"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            26
+          ],
+          "number": 49,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:49"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            25
+          ],
+          "number": 49,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:49"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            22
+          ],
+          "number": 49,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:49"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-COM-40",
+      "stage": 3,
+      "subject": "Sociologia",
+      "content": "Consumismo, mídia e sustentabilidade",
+      "operation": "Julgar quatro proposições",
+      "difficulty": "fácil",
+      "difficulty_reason": "Só II é compatível; I e III negam relações sociais/midiáticas, IV exagera a crítica.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            22
+          ],
+          "number": 50,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:50"
+        },
+        {
+          "source_id": "s8",
+          "pages": [
+            26
+          ],
+          "number": 50,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:50"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            25
+          ],
+          "number": 50,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:50"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            22
+          ],
+          "number": 50,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:50"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-BIO-41",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "Hematose e difusão alveolar",
+      "operation": "Reconhecer trocas gasosas passivas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Enunciado nomeia alvéolos e gases; mecanismo canônico.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            12
+          ],
+          "number": 17,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:17"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-BIO-42",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "Circulação: retorno de sangue venoso ao coração",
+      "operation": "Identificar vaso de retorno sistêmico",
+      "difficulty": "fácil",
+      "difficulty_reason": "Retorno dos tecidos é descrito; operação nominal simples. Item oficialmente anulado, causa não informada.",
+      "annulled": true,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            12
+          ],
+          "number": 18,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:18"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-BIO-43",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "Vacinas e memória imunológica",
+      "operation": "Reconhecer mecanismo de imunização",
+      "difficulty": "fácil",
+      "difficulty_reason": "Correta apresenta memória; demais negam ou substituem sistema imune.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            12
+          ],
+          "number": 19,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:19"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-BIO-44",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "Efeito estufa antrópico e gases",
+      "operation": "Identificar fatores de aquecimento global",
+      "difficulty": "fácil",
+      "difficulty_reason": "Ligação entre atividade humana e composição atmosférica já é dada.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            13
+          ],
+          "number": 20,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:20"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-BIO-45",
+      "stage": 3,
+      "subject": "Biologia",
+      "content": "Seleção artificial",
+      "operation": "Distinguir intervenção humana de seleção natural",
+      "difficulty": "fácil",
+      "difficulty_reason": "Enunciado define direcionamento reprodutivo humano antes de pedir seu reconhecimento.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            13
+          ],
+          "number": 21,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:21"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-QUI-46",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Termoquímica: combustão do etanol",
+      "operation": "Classificar liberação de calor como exotérmica",
+      "difficulty": "fácil",
+      "difficulty_reason": "Palavra libera aparece no enunciado; 1367 kJ é dispensável, não há cálculo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            20
+          ],
+          "number": 42,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:42"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-QUI-47",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Ligação peptídica e amida",
+      "operation": "Identificar função orgânica resultante",
+      "difficulty": "fácil",
+      "difficulty_reason": "Grupos reagentes informados; exige reconhecimento escolar de amida.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            20
+          ],
+          "number": 43,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:43"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-QUI-48",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Gorduras saturadas e insaturadas",
+      "operation": "Distinguir presença de ligações duplas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Reconhecimento direto de saturação, sem estrutura a comparar.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            20
+          ],
+          "number": 44,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:44"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-QUI-49",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Ureia: amida, solubilidade e hidrólise",
+      "operation": "Julgar três propriedades químicas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Fórmula permite reconhecer amida; alegação de liberação de O2 é facilmente excluída.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            21
+          ],
+          "number": 45,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:45"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-QUI-50",
+      "stage": 3,
+      "subject": "Química",
+      "content": "Esterificação/condensação: ácido acético e etanol",
+      "operation": "Classificar reação com eliminação de água",
+      "difficulty": "fácil",
+      "difficulty_reason": "Reagentes, produto e água dados; reconhecer condensação.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s7",
+          "pages": [
+            21
+          ],
+          "number": 46,
+          "booklet": "B1",
+          "language": "comum",
+          "key": "s7:comum:46"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-GEO-51",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Desmatamento e deslizamentos",
+      "operation": "Relacionar retirada de vegetação e risco de encosta",
+      "difficulty": "fácil",
+      "difficulty_reason": "Causalidade escolar direta, sem dados para analisar.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            15
+          ],
+          "number": 25,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:25"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-GEO-52",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Comércio atacadista",
+      "operation": "Reconhecer venda em grandes quantidades para revenda",
+      "difficulty": "fácil",
+      "difficulty_reason": "Definição direta em opções nominais.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            15
+          ],
+          "number": 26,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:26"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-GEO-53",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Comércio internacional, globalização e desigualdade",
+      "operation": "Relacionar aumento de fluxos e divisão internacional do trabalho",
+      "difficulty": "fácil",
+      "difficulty_reason": "Tendência já é verbalizada; gráfico não exige cálculo e três opções fazem inversões amplas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            15
+          ],
+          "number": 27,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:27"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-GEO-54",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Ferrovias FIOL/FICO e integração territorial",
+      "operation": "Identificar projetos a partir de traçados e localizações",
+      "difficulty": "média",
+      "difficulty_reason": "Requer articular mapa, cidades/estados e conhecimento de redes ferroviárias.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            16
+          ],
+          "number": 28,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:28"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-GEO-55",
+      "stage": 3,
+      "subject": "Geografia",
+      "content": "Mudanças climáticas e impactos desiguais",
+      "operation": "Inferir vulnerabilidade socioambiental diferenciada",
+      "difficulty": "fácil",
+      "difficulty_reason": "Fonte descreve efeitos regionais; correta generaliza desigualdade enquanto outras negam impactos.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            16
+          ],
+          "number": 29,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:29"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-HIS-56",
+      "stage": 3,
+      "subject": "História",
+      "content": "Crise de 1929, café e tarifas de 2025",
+      "operation": "Comparar vulnerabilidade externa em contextos históricos",
+      "difficulty": "média",
+      "difficulty_reason": "Integra duas épocas e gráfico que relativiza centralidade do café; evita equivalência absoluta entre crises.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            20
+          ],
+          "number": 34,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:34"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            18
+          ],
+          "number": 29,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:29"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-HIS-57",
+      "stage": 3,
+      "subject": "História",
+      "content": "Nazismo: propaganda antissemita e perseguição",
+      "operation": "Relacionar legitimação ideológica e violência cotidiana",
+      "difficulty": "fácil",
+      "difficulty_reason": "Instrução já explicita função de cada documento; correta retoma a combinação.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            21
+          ],
+          "number": 35,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:35"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            19
+          ],
+          "number": 30,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:30"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-HIS-58",
+      "stage": 3,
+      "subject": "História",
+      "content": "Stalinismo e planos quinquenais",
+      "operation": "Reconhecer industrialização planificada",
+      "difficulty": "fácil",
+      "difficulty_reason": "Conhecimento factual escolar; contraposto a democratização e prosperidade inventadas.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            21
+          ],
+          "number": 36,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:36"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            20
+          ],
+          "number": 31,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:31"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-HIS-59",
+      "stage": 3,
+      "subject": "História",
+      "content": "Tenentismo e oposição oligárquica",
+      "operation": "Identificar base militar e objetivo político",
+      "difficulty": "fácil",
+      "difficulty_reason": "Identificação direta dos jovens oficiais e oposição às oligarquias.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            21
+          ],
+          "number": 37,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:37"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            20
+          ],
+          "number": 32,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:32"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-HIS-60",
+      "stage": 3,
+      "subject": "História",
+      "content": "Partilha da Palestina e criação de Israel",
+      "operation": "Relacionar plano de 1947, distribuição territorial e conflito",
+      "difficulty": "média",
+      "difficulty_reason": "Mapas precisam ser articulados a cronologia e composição populacional não quantificada no suporte.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s8",
+          "pages": [
+            22
+          ],
+          "number": 38,
+          "booklet": "B2",
+          "language": "comum",
+          "key": "s8:comum:38"
+        },
+        {
+          "source_id": "s9",
+          "pages": [
+            21
+          ],
+          "number": 33,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:33"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-MAT-61",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Áreas laterais de cilindro e cone",
+      "operation": "Calcular geratriz e somar áreas",
+      "difficulty": "média",
+      "difficulty_reason": "É preciso distinguir lateral de volume/base e obter geratriz 5 antes de 48π+15π.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s9",
+          "pages": [
+            22
+          ],
+          "number": 38,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:38"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            19
+          ],
+          "number": 38,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:38"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-MAT-62",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Algoritmo de coordenadas e área de triângulo",
+      "operation": "Executar translações e calcular área por determinante",
+      "difficulty": "média",
+      "difficulty_reason": "Produz P2=(5,5), P3=(3,10) e calcula área 13; algoritmo é fornecido.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s9",
+          "pages": [
+            22
+          ],
+          "number": 39,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:39"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            19
+          ],
+          "number": 39,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:39"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-MAT-63",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Conversões de unidades e taxa de transferência",
+      "operation": "Converter armazenamento em bits e tempo em minutos",
+      "difficulty": "média",
+      "difficulty_reason": "Encadeia KB/MB/GB, bytes/bits e segundos/minutos; cerca de 2,6 min.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s9",
+          "pages": [
+            23
+          ],
+          "number": 40,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:40"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            20
+          ],
+          "number": 40,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:40"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-MAT-64",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Reflexão e translação no plano cartesiano",
+      "operation": "Aplicar duas transformações ordenadas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Trocar sinal de x e somar (3,-1): (2,3)→(-2,3)→(1,2).",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s9",
+          "pages": [
+            23
+          ],
+          "number": 41,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:41"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            20
+          ],
+          "number": 41,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:41"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-MAT-65",
+      "stage": 3,
+      "subject": "Matemática",
+      "content": "Distribuição normal e regra 68–95–99,7",
+      "operation": "Padronizar limiar e calcular uma cauda",
+      "difficulty": "média",
+      "difficulty_reason": "492 está 2σ abaixo da média; metade dos 5% externos produz 250.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s9",
+          "pages": [
+            23
+          ],
+          "number": 42,
+          "booklet": "B3",
+          "language": "comum",
+          "key": "s9:comum:42"
+        },
+        {
+          "source_id": "s10",
+          "pages": [
+            20
+          ],
+          "number": 42,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:42"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-FIS-66",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Campo elétrico e força",
+      "operation": "Aplicar F=qE",
+      "difficulty": "fácil",
+      "difficulty_reason": "Dados na mesma distância permitem q=10/10, sem necessidade de lei de Coulomb explícita.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s10",
+          "pages": [
+            13
+          ],
+          "number": 21,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:21"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-FIS-67",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Potência em resistores série/paralelo",
+      "operation": "Comparar dissipação à mesma tensão",
+      "difficulty": "média",
+      "difficulty_reason": "Tensão por elemento cai à metade; potência cai a um quarto. Referente de potência pode gerar leitura ambígua.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s10",
+          "pages": [
+            13
+          ],
+          "number": 22,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:22"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-FIS-68",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Espectro eletromagnético",
+      "operation": "Ordenar micro-ondas, infravermelho e visível",
+      "difficulty": "fácil",
+      "difficulty_reason": "Associação cotidiana e ordem canônica de frequência.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s10",
+          "pages": [
+            14
+          ],
+          "number": 23,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:23"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-FIS-69",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Indução eletromagnética e lei de Lenz",
+      "operation": "Determinar sentido da corrente induzida",
+      "difficulty": "média",
+      "difficulty_reason": "Combina fluxo para fora crescente, oposição para dentro e regra da mão direita.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s10",
+          "pages": [
+            14
+          ],
+          "number": 24,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:24"
+        }
+      ]
+    },
+    {
+      "id": "PAES3-ESP-FIS-70",
+      "stage": 3,
+      "subject": "Física",
+      "content": "Física quântica: quantização",
+      "operation": "Reconhecer caráter discreto de grandezas",
+      "difficulty": "fácil",
+      "difficulty_reason": "Reconhecimento conceitual, sem modelo atômico ou cálculo.",
+      "annulled": false,
+      "read_complete": true,
+      "visual_required": true,
+      "visual_checked": false,
+      "occurrences": [
+        {
+          "source_id": "s10",
+          "pages": [
+            14
+          ],
+          "number": 25,
+          "booklet": "B4",
+          "language": "comum",
+          "key": "s10:comum:25"
+        }
+      ]
+    }
+  ],
+  "claims": [],
+  "limitations": [
+    "Análise textual migrada do corpus anteriormente analisado: 201 itens únicos e 340 ocorrências físicas. Não constitui nova leitura dos PDFs.",
+    "Não há registro individual suficiente de inspeção visual; visual_required foi marcado conservadoramente em todos os itens. Completar esse registro antes de declarar cobertura integral.",
+    "Padrões de uma edição não comprovam estabilidade histórica; dificuldade é estimativa editorial, sem dados de acerto."
+  ],
+  "provenance": {
+    "type": "migration",
+    "source": "análise anterior do projeto PAES GOY",
+    "program_distinct_from_exam": true
+  },
+  "review": {
+    "visual": "pending_individual_traceability",
+    "text": "previous_analysis_preserved"
+  }
+}

@@ -1,0 +1,13 @@
+# Contrato, feedback e versões
+
+Antes de autoria/revisão, consolidar por item: ID, número do XLSX, número(s) oficial(is), fonte/páginas, conteúdo, operação, especificidade, papel do suporte, dificuldade pretendida e exceções. Precedência: pedido atual específico > linha específica > restrições do lote > espelho > perfil > regras comuns, preservando validade científica e integridade do item.
+
+Feedback guarda origem, alcance (geral/prova/lote/item), aspecto (texto/conteúdo/dificuldade/imagem/exportação), decisão vigente e substituída. Não levar 12F/8M/8D ou exclusão de espanhol para toda prova. Se o usuário disser diminuir médias sem proporção, interpretar em contexto e esclarecer a direção quando muda materialmente o resultado; não transformar automaticamente todas em fáceis. Não inventar quotas quando não pedidas.
+
+Dificuldade: estimar pelo percurso mínimo e atalhos de alternativas/suportes. Confirmar se dados extras realmente exigem seleção/integração ou só alongam a leitura. Em I–IV, conferir contradições entre proposições e combinações, verdade por posição e possibilidade de resolver por um único rótulo. Variar padrões sem forçar falsidades. O nível proposto pelo autor pode ser rebaixado pelo revisor; corrigir a cobrança antes de afirmar que atingiu uma distribuição. Registrar estimativas e limites de calibração.
+
+Restauração: identificar a fonte exata anterior ao eixo de mudança; comparar conteúdo por ID e não só nome do arquivo. Aplicar exceções solicitadas, conservar outros eixos (ex.: imagens corrigidas) e gerar versão separada quando pedido. Nunca usar quota antiga para refazer questão que o usuário mandou restaurar. Comparar redação/alternativas, IDs, numeração, gabaritos e hashes de ativos. Não sobrescrever QPACK anterior quando solicitado outro conjunto. Manter estado apontando cada variante e seu contrato.
+
+O nome da entrega pode resumir prova, intervalos numéricos e autor (ex.: PROVA_Q6-8_Q25-29_Autor), sempre gerado da lista efetiva do XLSX/manifesto, sem deduzir do nome do arquivo anterior. Unidade de entrega e escopo são independentes: organizar por prova não reincorpora lotes antigos.
+
+Reutilizar revisão só para a mesma versão dos aspectos conferidos. Restauração exata pode reaproveitar parecer anterior com referência; revisão da imagem invalida a inspeção visual antiga, não automaticamente toda a solução. Se revisão independente falhar por limite, registrar e continuar conferência direta quando viável; não fingir segunda autoria nem relabelar análise autoral como cega.

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "profiles": [
+    {
+      "exam_id": "paes-unimontes",
+      "name": "PAES / Unimontes",
+      "aliases": [
+        "PAES",
+        "Unimontes"
+      ],
+      "version": "2025-prog2026",
+      "exam_editions": [
+        2025
+      ],
+      "program_editions": [
+        2026
+      ],
+      "stages": [
+        1,
+        2,
+        3
+      ],
+      "coverage": "text_201_unique_340_occurrences_visual_traceability_partial",
+      "path": "references/repertorio/paes-unimontes/2025-prog2026/perfil.md",
+      "analysis": "references/repertorio/paes-unimontes/2025-prog2026/analise.json",
+      "limitations": [
+        "Uma edição de provas; análise migrada da tarefa."
+      ]
+    },
+    {
+      "exam_id": "ssa-upe",
+      "name": "SSA / UPE",
+      "aliases": [
+        "SSA",
+        "UPE"
+      ],
+      "version": "legacy-partial",
+      "exam_editions": [],
+      "coverage": "partial",
+      "path": "references/repertorio/ssa-upe/perfil.md",
+      "limitations": [
+        "Perfil legado; confirmar etapa e edição; sem cobertura integral declarada."
+      ]
+    }
+  ]
+}

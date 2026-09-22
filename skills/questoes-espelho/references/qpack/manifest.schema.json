@@ -1,0 +1,362 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.simulado-formatter/schema/manifest.schema.json",
+  "title": "Manifesto de questões",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "questions"
+  ],
+  "properties": {
+    "schema_version": {
+      "enum": [
+        "1",
+        "1.0"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "start_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "questions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/question"
+      }
+    }
+  },
+  "additionalProperties": true,
+  "$defs": {
+    "run": {
+      "type": "object",
+      "required": [
+        "text"
+      ],
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        },
+        "bold": {
+          "type": "boolean"
+        },
+        "italic": {
+          "type": "boolean"
+        },
+        "underline": {
+          "type": "boolean"
+        },
+        "superscript": {
+          "type": "boolean"
+        },
+        "subscript": {
+          "type": "boolean"
+        },
+        "color": {
+          "type": "string"
+        },
+        "font": {
+          "type": "string"
+        },
+        "size_pt": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        }
+      },
+      "additionalProperties": true
+    },
+    "richText": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "$ref": "#/$defs/run"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "textBlock": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "paragraph",
+            "question_header",
+            "stimulus",
+            "prompt",
+            "label",
+            "title",
+            "quote",
+            "caption",
+            "source",
+            "warning"
+          ]
+        },
+        "id": {
+          "type": "string"
+        },
+        "text": {
+          "$ref": "#/$defs/richText"
+        },
+        "runs": {
+          "$ref": "#/$defs/richText"
+        },
+        "style": {
+          "type": "string"
+        },
+        "target": {
+          "type": "string"
+        },
+        "include_number": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": true
+    },
+    "imageBlock": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "const": "image"
+        },
+        "id": {
+          "type": "string"
+        },
+        "asset": {
+          "type": "string"
+        },
+        "status": {
+          "enum": [
+            "ready",
+            "missing"
+          ]
+        },
+        "description": {
+          "type": "string"
+        },
+        "alt_text": {
+          "type": "string"
+        },
+        "width": {
+          "oneOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "number"
+            }
+          ]
+        },
+        "width_cm": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "caption": {
+          "$ref": "#/$defs/richText"
+        },
+        "source": {
+          "$ref": "#/$defs/richText"
+        }
+      },
+      "additionalProperties": true
+    },
+    "columnsBlock": {
+      "type": "object",
+      "required": [
+        "type",
+        "columns"
+      ],
+      "properties": {
+        "type": {
+          "const": "columns"
+        },
+        "columns": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": [
+              "blocks"
+            ],
+            "properties": {
+              "width": {
+                "type": "number",
+                "exclusiveMinimum": 0
+              },
+              "blocks": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/$defs/block"
+                }
+              }
+            },
+            "additionalProperties": true
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "tableBlock": {
+      "type": "object",
+      "required": [
+        "type",
+        "rows"
+      ],
+      "properties": {
+        "type": {
+          "const": "table"
+        },
+        "rows": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/richText"
+            }
+          }
+        },
+        "column_widths": {
+          "type": "array",
+          "items": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          }
+        },
+        "header_rows": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "additionalProperties": true
+    },
+    "controlBlock": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "page_break",
+            "spacer"
+          ]
+        },
+        "height_pt": {
+          "type": "number",
+          "minimum": 0
+        }
+      },
+      "additionalProperties": true
+    },
+    "block": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/textBlock"
+        },
+        {
+          "$ref": "#/$defs/imageBlock"
+        },
+        {
+          "$ref": "#/$defs/columnsBlock"
+        },
+        {
+          "$ref": "#/$defs/tableBlock"
+        },
+        {
+          "$ref": "#/$defs/controlBlock"
+        }
+      ]
+    },
+    "alternative": {
+      "type": "object",
+      "required": [
+        "correct"
+      ],
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "text": {
+          "$ref": "#/$defs/richText"
+        },
+        "runs": {
+          "$ref": "#/$defs/richText"
+        },
+        "correct": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": true
+    },
+    "question": {
+      "type": "object",
+      "required": [
+        "id",
+        "alternatives"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "number": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "mirror": {
+          "oneOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "integer"
+            }
+          ]
+        },
+        "blocks": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/block"
+          }
+        },
+        "prompt": {
+          "$ref": "#/$defs/richText"
+        },
+        "alternatives": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "$ref": "#/$defs/alternative"
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  }
+}

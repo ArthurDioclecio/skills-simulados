@@ -1,0 +1,679 @@
+{
+  "counts": {
+    "PAES 1 2025": {
+      "count_physical": 64,
+      "negative_commands": 0,
+      "assinale_commands": 16,
+      "CORRETA_uppercase": 12,
+      "disciplines": {
+        "BIOLOGIA": {
+          "n": 5,
+          "median_alternative_words": 15.0,
+          "min_alternative_words": 3,
+          "max_alternative_words": 22,
+          "four_options_extracted": 5
+        },
+        "FILOSOFIA": {
+          "n": 2,
+          "median_alternative_words": 23.5,
+          "min_alternative_words": 20,
+          "max_alternative_words": 32,
+          "four_options_extracted": 2
+        },
+        "FÍSICA": {
+          "n": 5,
+          "median_alternative_words": 3.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 7,
+          "four_options_extracted": 5
+        },
+        "GEOGRAFIA": {
+          "n": 5,
+          "median_alternative_words": 16.0,
+          "min_alternative_words": 2,
+          "max_alternative_words": 25,
+          "four_options_extracted": 5
+        },
+        "HISTÓRIA": {
+          "n": 5,
+          "median_alternative_words": 23.0,
+          "min_alternative_words": 17,
+          "max_alternative_words": 53,
+          "four_options_extracted": 5
+        },
+        "LITERATURA BRASILEIRA": {
+          "n": 5,
+          "median_alternative_words": 27.5,
+          "min_alternative_words": 16,
+          "max_alternative_words": 64,
+          "four_options_extracted": 5
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA ESPANHOLA": {
+          "n": 4,
+          "median_alternative_words": 9.0,
+          "min_alternative_words": 3,
+          "max_alternative_words": 14,
+          "four_options_extracted": 4
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA INGLESA": {
+          "n": 4,
+          "median_alternative_words": 9.5,
+          "min_alternative_words": 2,
+          "max_alternative_words": 13,
+          "four_options_extracted": 4
+        },
+        "LÍNGUA PORTUGUESA": {
+          "n": 10,
+          "median_alternative_words": 20.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 32,
+          "four_options_extracted": 10
+        },
+        "MATEMÁTICA": {
+          "n": 12,
+          "median_alternative_words": 1.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 5,
+          "four_options_extracted": 12
+        },
+        "QUÍMICA": {
+          "n": 5,
+          "median_alternative_words": 6.5,
+          "min_alternative_words": 2,
+          "max_alternative_words": 14,
+          "four_options_extracted": 5
+        },
+        "SOCIOLOGIA": {
+          "n": 2,
+          "median_alternative_words": 6.5,
+          "min_alternative_words": 4,
+          "max_alternative_words": 10,
+          "four_options_extracted": 2
+        }
+      }
+    },
+    "PAES 2 2025": {
+      "count_physical": 64,
+      "negative_commands": 0,
+      "assinale_commands": 24,
+      "CORRETA_uppercase": 20,
+      "disciplines": {
+        "BIOLOGIA": {
+          "n": 5,
+          "median_alternative_words": 19.5,
+          "min_alternative_words": 14,
+          "max_alternative_words": 24,
+          "four_options_extracted": 5
+        },
+        "FILOSOFIA": {
+          "n": 2,
+          "median_alternative_words": 20.0,
+          "min_alternative_words": 11,
+          "max_alternative_words": 30,
+          "four_options_extracted": 2
+        },
+        "FÍSICA": {
+          "n": 5,
+          "median_alternative_words": 2.5,
+          "min_alternative_words": 1,
+          "max_alternative_words": 8,
+          "four_options_extracted": 5
+        },
+        "GEOGRAFIA": {
+          "n": 5,
+          "median_alternative_words": 15.0,
+          "min_alternative_words": 6,
+          "max_alternative_words": 33,
+          "four_options_extracted": 5
+        },
+        "HISTÓRIA": {
+          "n": 5,
+          "median_alternative_words": 34.5,
+          "min_alternative_words": 18,
+          "max_alternative_words": 44,
+          "four_options_extracted": 5
+        },
+        "LITERATURA BRASILEIRA": {
+          "n": 5,
+          "median_alternative_words": 32.0,
+          "min_alternative_words": 15,
+          "max_alternative_words": 55,
+          "four_options_extracted": 5
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA ESPANHOLA": {
+          "n": 4,
+          "median_alternative_words": 7.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 26,
+          "four_options_extracted": 4
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA INGLESA": {
+          "n": 4,
+          "median_alternative_words": 10.5,
+          "min_alternative_words": 7,
+          "max_alternative_words": 15,
+          "four_options_extracted": 4
+        },
+        "LÍNGUA PORTUGUESA": {
+          "n": 10,
+          "median_alternative_words": 34.0,
+          "min_alternative_words": 6,
+          "max_alternative_words": 54,
+          "four_options_extracted": 10
+        },
+        "MATEMÁTICA": {
+          "n": 12,
+          "median_alternative_words": 1.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 14,
+          "four_options_extracted": 12
+        },
+        "QUÍMICA": {
+          "n": 5,
+          "median_alternative_words": 14.0,
+          "min_alternative_words": 6,
+          "max_alternative_words": 18,
+          "four_options_extracted": 5
+        },
+        "SOCIOLOGIA": {
+          "n": 2,
+          "median_alternative_words": 14.5,
+          "min_alternative_words": 4,
+          "max_alternative_words": 27,
+          "four_options_extracted": 2
+        }
+      }
+    },
+    "PAES 3 2025 - Bloco 1 - Biológicas": {
+      "count_physical": 53,
+      "negative_commands": 0,
+      "assinale_commands": 13,
+      "CORRETA_uppercase": 12,
+      "disciplines": {
+        "BIOLOGIA": {
+          "n": 9,
+          "median_alternative_words": 10.5,
+          "min_alternative_words": 1,
+          "max_alternative_words": 24,
+          "four_options_extracted": 9
+        },
+        "FILOSOFIA": {
+          "n": 2,
+          "median_alternative_words": 20.5,
+          "min_alternative_words": 13,
+          "max_alternative_words": 27,
+          "four_options_extracted": 2
+        },
+        "FÍSICA": {
+          "n": 4,
+          "median_alternative_words": 3.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 34,
+          "four_options_extracted": 4
+        },
+        "GEOGRAFIA": {
+          "n": 4,
+          "median_alternative_words": 19.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 21,
+          "four_options_extracted": 4
+        },
+        "HISTÓRIA": {
+          "n": 4,
+          "median_alternative_words": 32.0,
+          "min_alternative_words": 18,
+          "max_alternative_words": 40,
+          "four_options_extracted": 4
+        },
+        "LITERATURA BRASILEIRA": {
+          "n": 3,
+          "median_alternative_words": 30.0,
+          "min_alternative_words": 20,
+          "max_alternative_words": 48,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA ESPANHOLA": {
+          "n": 3,
+          "median_alternative_words": 6.5,
+          "min_alternative_words": 3,
+          "max_alternative_words": 13,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA INGLESA": {
+          "n": 3,
+          "median_alternative_words": 12.5,
+          "min_alternative_words": 7,
+          "max_alternative_words": 14,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA PORTUGUESA": {
+          "n": 6,
+          "median_alternative_words": 33.5,
+          "min_alternative_words": 8,
+          "max_alternative_words": 45,
+          "four_options_extracted": 6
+        },
+        "MATEMÁTICA": {
+          "n": 4,
+          "median_alternative_words": 1.5,
+          "min_alternative_words": 1,
+          "max_alternative_words": 6,
+          "four_options_extracted": 4
+        },
+        "QUÍMICA": {
+          "n": 9,
+          "median_alternative_words": 6.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 17,
+          "four_options_extracted": 9
+        },
+        "SOCIOLOGIA": {
+          "n": 2,
+          "median_alternative_words": 11.5,
+          "min_alternative_words": 2,
+          "max_alternative_words": 28,
+          "four_options_extracted": 2
+        }
+      }
+    },
+    "PAES 3 2025 - Bloco 2 - Humanas": {
+      "count_physical": 53,
+      "negative_commands": 0,
+      "assinale_commands": 17,
+      "CORRETA_uppercase": 17,
+      "disciplines": {
+        "BIOLOGIA": {
+          "n": 4,
+          "median_alternative_words": 9.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 22,
+          "four_options_extracted": 4
+        },
+        "FILOSOFIA": {
+          "n": 2,
+          "median_alternative_words": 20.5,
+          "min_alternative_words": 13,
+          "max_alternative_words": 27,
+          "four_options_extracted": 2
+        },
+        "FÍSICA": {
+          "n": 4,
+          "median_alternative_words": 3.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 34,
+          "four_options_extracted": 4
+        },
+        "GEOGRAFIA": {
+          "n": 9,
+          "median_alternative_words": 19.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 30,
+          "four_options_extracted": 9
+        },
+        "HISTÓRIA": {
+          "n": 9,
+          "median_alternative_words": 33.0,
+          "min_alternative_words": 11,
+          "max_alternative_words": 51,
+          "four_options_extracted": 9
+        },
+        "LITERATURA BRASILEIRA": {
+          "n": 3,
+          "median_alternative_words": 30.0,
+          "min_alternative_words": 20,
+          "max_alternative_words": 48,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA ESPANHOLA": {
+          "n": 3,
+          "median_alternative_words": 6.5,
+          "min_alternative_words": 3,
+          "max_alternative_words": 13,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA INGLESA": {
+          "n": 3,
+          "median_alternative_words": 12.5,
+          "min_alternative_words": 7,
+          "max_alternative_words": 14,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA PORTUGUESA": {
+          "n": 6,
+          "median_alternative_words": 33.5,
+          "min_alternative_words": 8,
+          "max_alternative_words": 45,
+          "four_options_extracted": 6
+        },
+        "MATEMÁTICA": {
+          "n": 4,
+          "median_alternative_words": 1.5,
+          "min_alternative_words": 1,
+          "max_alternative_words": 6,
+          "four_options_extracted": 4
+        },
+        "QUÍMICA": {
+          "n": 4,
+          "median_alternative_words": 4.5,
+          "min_alternative_words": 1,
+          "max_alternative_words": 17,
+          "four_options_extracted": 4
+        },
+        "SOCIOLOGIA": {
+          "n": 2,
+          "median_alternative_words": 11.5,
+          "min_alternative_words": 2,
+          "max_alternative_words": 29,
+          "four_options_extracted": 2
+        }
+      }
+    },
+    "PAES 3 2025 - Bloco 3 - Sociais Aplicadas": {
+      "count_physical": 53,
+      "negative_commands": 0,
+      "assinale_commands": 13,
+      "CORRETA_uppercase": 14,
+      "disciplines": {
+        "BIOLOGIA": {
+          "n": 4,
+          "median_alternative_words": 9.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 22,
+          "four_options_extracted": 4
+        },
+        "FILOSOFIA": {
+          "n": 2,
+          "median_alternative_words": 20.5,
+          "min_alternative_words": 13,
+          "max_alternative_words": 27,
+          "four_options_extracted": 2
+        },
+        "FÍSICA": {
+          "n": 4,
+          "median_alternative_words": 3.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 34,
+          "four_options_extracted": 4
+        },
+        "GEOGRAFIA": {
+          "n": 4,
+          "median_alternative_words": 19.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 22,
+          "four_options_extracted": 4
+        },
+        "HISTÓRIA": {
+          "n": 9,
+          "median_alternative_words": 33.0,
+          "min_alternative_words": 11,
+          "max_alternative_words": 51,
+          "four_options_extracted": 9
+        },
+        "LITERATURA BRASILEIRA": {
+          "n": 3,
+          "median_alternative_words": 30.0,
+          "min_alternative_words": 20,
+          "max_alternative_words": 48,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA ESPANHOLA": {
+          "n": 3,
+          "median_alternative_words": 6.5,
+          "min_alternative_words": 3,
+          "max_alternative_words": 13,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA INGLESA": {
+          "n": 3,
+          "median_alternative_words": 12.5,
+          "min_alternative_words": 7,
+          "max_alternative_words": 14,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA PORTUGUESA": {
+          "n": 6,
+          "median_alternative_words": 34.0,
+          "min_alternative_words": 8,
+          "max_alternative_words": 45,
+          "four_options_extracted": 6
+        },
+        "MATEMÁTICA": {
+          "n": 9,
+          "median_alternative_words": 2.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 6,
+          "four_options_extracted": 9
+        },
+        "QUÍMICA": {
+          "n": 4,
+          "median_alternative_words": 4.5,
+          "min_alternative_words": 1,
+          "max_alternative_words": 17,
+          "four_options_extracted": 4
+        },
+        "SOCIOLOGIA": {
+          "n": 2,
+          "median_alternative_words": 11.5,
+          "min_alternative_words": 2,
+          "max_alternative_words": 28,
+          "four_options_extracted": 2
+        }
+      }
+    },
+    "PAES 3 2025 - Bloco 4 - Exatas": {
+      "count_physical": 53,
+      "negative_commands": 0,
+      "assinale_commands": 9,
+      "CORRETA_uppercase": 12,
+      "disciplines": {
+        "BIOLOGIA": {
+          "n": 4,
+          "median_alternative_words": 9.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 22,
+          "four_options_extracted": 4
+        },
+        "FILOSOFIA": {
+          "n": 2,
+          "median_alternative_words": 20.5,
+          "min_alternative_words": 13,
+          "max_alternative_words": 27,
+          "four_options_extracted": 2
+        },
+        "FÍSICA": {
+          "n": 9,
+          "median_alternative_words": 3.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 34,
+          "four_options_extracted": 9
+        },
+        "GEOGRAFIA": {
+          "n": 4,
+          "median_alternative_words": 19.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 21,
+          "four_options_extracted": 4
+        },
+        "HISTÓRIA": {
+          "n": 4,
+          "median_alternative_words": 32.0,
+          "min_alternative_words": 18,
+          "max_alternative_words": 40,
+          "four_options_extracted": 4
+        },
+        "LITERATURA BRASILEIRA": {
+          "n": 3,
+          "median_alternative_words": 30.0,
+          "min_alternative_words": 20,
+          "max_alternative_words": 48,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA ESPANHOLA": {
+          "n": 3,
+          "median_alternative_words": 6.5,
+          "min_alternative_words": 3,
+          "max_alternative_words": 13,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA ESTRANGEIRA – LÍNGUA INGLESA": {
+          "n": 3,
+          "median_alternative_words": 12.5,
+          "min_alternative_words": 7,
+          "max_alternative_words": 14,
+          "four_options_extracted": 3
+        },
+        "LÍNGUA PORTUGUESA": {
+          "n": 6,
+          "median_alternative_words": 33.5,
+          "min_alternative_words": 8,
+          "max_alternative_words": 45,
+          "four_options_extracted": 6
+        },
+        "MATEMÁTICA": {
+          "n": 9,
+          "median_alternative_words": 2.0,
+          "min_alternative_words": 1,
+          "max_alternative_words": 6,
+          "four_options_extracted": 9
+        },
+        "QUÍMICA": {
+          "n": 4,
+          "median_alternative_words": 4.5,
+          "min_alternative_words": 1,
+          "max_alternative_words": 17,
+          "four_options_extracted": 4
+        },
+        "SOCIOLOGIA": {
+          "n": 2,
+          "median_alternative_words": 11.5,
+          "min_alternative_words": 2,
+          "max_alternative_words": 28,
+          "four_options_extracted": 2
+        }
+      }
+    }
+  },
+  "fonts": {
+    "PAES 1 2025.pdf": {
+      "page_points": [
+        595.32,
+        841.92
+      ],
+      "font_chars_top": [
+        [
+          "('ArialMT', 10.0)",
+          42878
+        ],
+        [
+          "('ArialMT', 8.0)",
+          2300
+        ],
+        [
+          "('Arial-BoldMT', 10.0)",
+          1243
+        ],
+        [
+          "('Arial-ItalicMT', 10.0)",
+          412
+        ],
+        [
+          "('Arial-BoldMT', 8.0)",
+          408
+        ],
+        [
+          "('ArialMT', 9.0)",
+          288
+        ],
+        [
+          "('ABCDEE+CambriaMath', 10.0)",
+          117
+        ],
+        [
+          "('TimesNewRomanPSMT', 7.0)",
+          27
+        ]
+      ]
+    },
+    "PAES 2 2025.pdf": {
+      "page_points": [
+        595.32,
+        841.92
+      ],
+      "font_chars_top": [
+        [
+          "('ArialMT', 10.0)",
+          52170
+        ],
+        [
+          "('ArialMT', 8.0)",
+          3398
+        ],
+        [
+          "('Arial-BoldMT', 10.0)",
+          1393
+        ],
+        [
+          "('ArialMT', 6.0)",
+          378
+        ],
+        [
+          "('Arial-BoldMT', 8.0)",
+          358
+        ],
+        [
+          "('ArialMT', 9.0)",
+          288
+        ],
+        [
+          "('Arial-ItalicMT', 10.0)",
+          200
+        ],
+        [
+          "('ArialMT', 12.0)",
+          58
+        ]
+      ]
+    },
+    "PAES 3 2025 - Bloco 4 - Exatas.pdf": {
+      "page_points": [
+        595.32,
+        841.92
+      ],
+      "font_chars_top": [
+        [
+          "('ArialMT', 10.0)",
+          46071
+        ],
+        [
+          "('ArialMT', 8.0)",
+          2914
+        ],
+        [
+          "('Arial-BoldMT', 10.0)",
+          1542
+        ],
+        [
+          "('TimesNewRomanPS-ItalicMT', 12.0)",
+          664
+        ],
+        [
+          "('Arial-ItalicMT', 10.0)",
+          561
+        ],
+        [
+          "('Arial-BoldMT', 8.0)",
+          306
+        ],
+        [
+          "('ArialMT', 9.0)",
+          288
+        ],
+        [
+          "('ArialMT', 7.0)",
+          278
+        ]
+      ]
+    }
+  },
+  "caveat": "Métricas por ocorrência física; palavras e linhas de texto extraído são descritivas, não vetores obrigatórios. Fórmulas/figuras e espaços internos de extração afetam contagens. Itens PAES3 comuns aparecem em vários cadernos."
+}

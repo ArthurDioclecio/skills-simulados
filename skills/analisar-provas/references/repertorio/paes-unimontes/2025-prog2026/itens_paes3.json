@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "PAES3-COM-01",
+    "numeros_por_bloco": {
+      "B1": 1,
+      "B2": 1,
+      "B3": 1,
+      "B4": 1
+    },
+    "disciplina": "Língua Portuguesa",
+    "conteudo_real": "Resenha audiovisual: efeito do plano-sequência",
+    "operacao": "Relacionar técnica narrativa e envolvimento do espectador",
+    "dificuldade": 1,
+    "fundamento": "O excerto e o parágrafo final explicitam tensão e transformação; basta reconhecer a paráfrase positiva.",
+    "trabalhosidade": "média: leitura da resenha compartilhada e opções longas",
+    "suporte": "Resenha crítica compartilhada Q1–4",
+    "distratores": "Negam profundidade ou deslocam a técnica para modismo.",
+    "pagina_pdf": {
+      "B1": 6,
+      "B2": 6,
+      "B3": 6,
+      "B4": 6
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-02",
+    "numeros_por_bloco": {
+      "B1": 2,
+      "B2": 2,
+      "B3": 2,
+      "B4": 2
+    },
+    "disciplina": "Língua Portuguesa",
+    "conteudo_real": "Resenha: culpa familiar e efeitos psicológicos",
+    "operacao": "Inferir efeito de sentido da autoinvestigação familiar",
+    "dificuldade": 2,
+    "fundamento": "Exige distinguir foco psíquico local de mudança do eixo investigativo; B e C são próximas em plausibilidade.",
+    "trabalhosidade": "média: discriminação fina de opções extensas",
+    "suporte": "Resenha crítica compartilhada Q1–4",
+    "distratores": "Suavização da culpa, deslocamento narrativo e negação do drama psicológico.",
+    "pagina_pdf": {
+      "B1": 6,
+      "B2": 6,
+      "B3": 6,
+      "B4": 6
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-03",
+    "numeros_por_bloco": {
+      "B1": 3,
+      "B2": 3,
+      "B3": 3,
+      "B4": 3
+    },
+    "disciplina": "Língua Portuguesa",
+    "conteudo_real": "Resenha: autocrítica do espectador",
+    "operacao": "Parafrasear a avaliação do resenhista",
+    "dificuldade": 1,
+    "fundamento": "A frase impossível não se questionar fornece diretamente a orientação interpretativa.",
+    "trabalhosidade": "baixa após leitura compartilhada",
+    "suporte": "Resenha crítica compartilhada Q1–4",
+    "distratores": "Invertem efeito favorável em frustração, superficialidade ou desestímulo.",
+    "pagina_pdf": {
+      "B1": 7,
+      "B2": 7,
+      "B3": 7,
+      "B4": 7
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-04",
+    "numeros_por_bloco": {
+      "B1": 4,
+      "B2": 4,
+      "B3": 4,
+      "B4": 4
+    },
+    "disciplina": "Língua Portuguesa",
+    "conteudo_real": "Interdiscursividade em resenha",
+    "operacao": "Reconhecer diálogo entre obras e discursos",
+    "dificuldade": 1,
+    "fundamento": "A nomenclatura é abstrata, mas referências a outras séries tornam falsas as opções que negam qualquer diálogo.",
+    "trabalhosidade": "média por densidade verbal das opções",
+    "suporte": "Resenha crítica compartilhada Q1–4",
+    "distratores": "Três negações fortes da abertura interdiscursiva permitem eliminação.",
+    "pagina_pdf": {
+      "B1": 7,
+      "B2": 7,
+      "B3": 7,
+      "B4": 7
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-05",
+    "numeros_por_bloco": {
+      "B1": 5,
+      "B2": 5,
+      "B3": 5,
+      "B4": 5
+    },
+    "disciplina": "Língua Portuguesa",
+    "conteudo_real": "Campanha digital de combate ao cyberbullying",
+    "operacao": "Identificar finalidade comunicativa",
+    "dificuldade": 1,
+    "fundamento": "Imperativos de denúncia, apoio e recusa a mensagens de ódio explicitam a finalidade.",
+    "trabalhosidade": "baixa",
+    "suporte": "Cartaz/postagem compartilhado Q5–6",
+    "distratores": "Confundem finalidade global com emojis, terminologia e caso individual.",
+    "pagina_pdf": {
+      "B1": 8,
+      "B2": 8,
+      "B3": 8,
+      "B4": 8
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-06",
+    "numeros_por_bloco": {
+      "B1": 6,
+      "B2": 6,
+      "B3": 6,
+      "B4": 6
+    },
+    "disciplina": "Língua Portuguesa",
+    "conteudo_real": "Campanha: credibilidade institucional",
+    "operacao": "Interpretar função dos logotipos",
+    "dificuldade": 1,
+    "fundamento": "Identifica efeito de apoio institucional sem exigir dados externos sobre as entidades.",
+    "trabalhosidade": "baixa",
+    "suporte": "Logotipos ABP/CFM no cartaz compartilhado",
+    "distratores": "Reduzem apoio a financiamento ou o declaram irrelevante.",
+    "pagina_pdf": {
+      "B1": 8,
+      "B2": 8,
+      "B3": 8,
+      "B4": 8
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-07",
+    "numeros_por_bloco": {
+      "B1": 7,
+      "B2": 7,
+      "B3": 7,
+      "B4": 7
+    },
+    "disciplina": "Literatura Brasileira",
+    "conteudo_real": "Piloto automático e Mantenha fora do alcance do bebê: solidão e vazio existencial",
+    "operacao": "Comparar tema de canção e diálogo teatral",
+    "dificuldade": 1,
+    "fundamento": "O próprio enunciado já nomeia dificuldade afetiva e vazio; correta os reafirma.",
+    "trabalhosidade": "média de leitura, baixa de inferência",
+    "suporte": "Dois excertos: letra de canção e diálogo teatral",
+    "distratores": "Otimismo e satisfação frontalmente contrários ao comando.",
+    "pagina_pdf": {
+      "B1": 8,
+      "B2": 8,
+      "B3": 8,
+      "B4": 8
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-08",
+    "numeros_por_bloco": {
+      "B1": 8,
+      "B2": 8,
+      "B3": 8,
+      "B4": 8
+    },
+    "disciplina": "Literatura Brasileira",
+    "conteudo_real": "O mistério da Casa Verde: personagem Doutor Eduardo e cuidado psiquiátrico",
+    "operacao": "Reconhecer caracterização e sentido na obra integral",
+    "dificuldade": 2,
+    "fundamento": "Sem excerto de apoio, exige memória de leitura e distinção entre personagens e motivações.",
+    "trabalhosidade": "baixa extensão; média dependência de leitura prévia",
+    "suporte": "Referência à obra, sem trecho",
+    "distratores": "Trocam papéis e inventam trajetórias políticas ou científicas.",
+    "pagina_pdf": {
+      "B1": 8,
+      "B2": 8,
+      "B3": 8,
+      "B4": 8
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-09",
+    "numeros_por_bloco": {
+      "B1": 9,
+      "B2": 9,
+      "B3": 9,
+      "B4": 9
+    },
+    "disciplina": "Literatura Brasileira",
+    "conteudo_real": "Murilo Rubião: Os dragões, Teleco e categorias do insólito",
+    "operacao": "Aplicar classificação de Todorov a resumos",
+    "dificuldade": 1,
+    "fundamento": "Definições são fornecidas; aceitação social do dragão está explicitada na correta, enquanto opções negam o extraordinário.",
+    "trabalhosidade": "média de leitura",
+    "suporte": "Miniexposição teórica e resumos nas opções",
+    "distratores": "Inventam normalidade ou hesitação e associam categorias inadequadas.",
+    "pagina_pdf": {
+      "B1": 9,
+      "B2": 9,
+      "B3": 9,
+      "B4": 9
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-ESP-10",
+    "numeros_por_bloco": {
+      "B1": 10,
+      "B2": 10,
+      "B3": 10,
+      "B4": 10
+    },
+    "disciplina": "Língua Estrangeira — Espanhol",
+    "conteudo_real": "Notícia sobre aposentados argentinos e veto previdenciário",
+    "operacao": "Localizar síntese factual em espanhol",
+    "dificuldade": 1,
+    "fundamento": "Manifestações e grupos afetados constam expressamente do texto.",
+    "trabalhosidade": "média de leitura compartilhada",
+    "suporte": "Notícia em espanhol compartilhada Q10–12",
+    "distratores": "Acrescentam demissões, jovens e ilegalidade não afirmadas.",
+    "pagina_pdf": {
+      "B1": 9,
+      "B2": 9,
+      "B3": 9,
+      "B4": 9
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-ESP-11",
+    "numeros_por_bloco": {
+      "B1": 11,
+      "B2": 11,
+      "B3": 11,
+      "B4": 11
+    },
+    "disciplina": "Língua Estrangeira — Espanhol",
+    "conteudo_real": "Notícia: repressão a aposentados",
+    "operacao": "Recuperar informação explícita",
+    "dificuldade": 1,
+    "fundamento": "Gás, agressão e Congresso estão narrados; não requer análise política externa.",
+    "trabalhosidade": "baixa após leitura compartilhada",
+    "suporte": "Mesma notícia",
+    "distratores": "Minimizam repressão, restringem apoio ou inserem medicamentos.",
+    "pagina_pdf": {
+      "B1": 9,
+      "B2": 9,
+      "B3": 9,
+      "B4": 9
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-ESP-12",
+    "numeros_por_bloco": {
+      "B1": 12,
+      "B2": 12,
+      "B3": 12,
+      "B4": 12
+    },
+    "disciplina": "Língua Estrangeira — Espanhol",
+    "conteudo_real": "Léxico espanhol em contexto",
+    "operacao": "Relacionar pelear a brigar",
+    "dificuldade": 1,
+    "fundamento": "Correspondência lexical direta apoiada pelo contexto de protesto.",
+    "trabalhosidade": "baixa",
+    "suporte": "Palavras retomadas da notícia",
+    "distratores": "Falsas traduções de cobran, harto e pegar.",
+    "pagina_pdf": {
+      "B1": 10,
+      "B2": 10,
+      "B3": 10,
+      "B4": 10
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-ING-10",
+    "numeros_por_bloco": {
+      "B1": 10,
+      "B2": 10,
+      "B3": 10,
+      "B4": 10
+    },
+    "disciplina": "Língua Estrangeira — Inglês",
+    "conteudo_real": "Sunday, Bloody Sunday: violência e suas consequências",
+    "operacao": "Identificar tema global de letra em inglês",
+    "dificuldade": 1,
+    "fundamento": "Imagens recorrentes de corpos, guerra e famílias separadas convergem claramente.",
+    "trabalhosidade": "média de leitura",
+    "suporte": "Excerto de canção U2",
+    "distratores": "Temas amplos ausentes ou secundários: propósito, recomeço, natureza.",
+    "pagina_pdf": {
+      "B1": 10,
+      "B2": 10,
+      "B3": 10,
+      "B4": 10
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-ING-11",
+    "numeros_por_bloco": {
+      "B1": 11,
+      "B2": 11,
+      "B3": 11,
+      "B4": 11
+    },
+    "disciplina": "Língua Estrangeira — Inglês",
+    "conteudo_real": "FOMO e técnicas de golpe",
+    "operacao": "Parafrasear expressão definida no texto",
+    "dificuldade": 1,
+    "fundamento": "Fear of missing out é expandida e explicada com escassez e urgência.",
+    "trabalhosidade": "média de leitura",
+    "suporte": "Texto informativo de segurança digital",
+    "distratores": "Confundem receio com golpe, técnica governamental ou comunicação.",
+    "pagina_pdf": {
+      "B1": 11,
+      "B2": 11,
+      "B3": 11,
+      "B4": 11
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-ING-12",
+    "numeros_por_bloco": {
+      "B1": 12,
+      "B2": 12,
+      "B3": 12,
+      "B4": 12
+    },
+    "disciplina": "Língua Estrangeira — Inglês",
+    "conteudo_real": "Notícia: resposta da Casa Branca a Obama",
+    "operacao": "Localizar fala e atribuir posição ao enunciador",
+    "dificuldade": 1,
+    "fundamento": "Última frase apresenta a acusação de divisão; necessária atenção a quem fala.",
+    "trabalhosidade": "baixa",
+    "suporte": "Notícia curta BBC",
+    "distratores": "Transferem a Obama unidade atribuída a outros ou inventam influência nos jovens.",
+    "pagina_pdf": {
+      "B1": 11,
+      "B2": 11,
+      "B3": 11,
+      "B4": 11
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-13",
+    "numeros_por_bloco": {
+      "B1": 13,
+      "B2": 13,
+      "B3": 13,
+      "B4": 13
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "Darwin e seleção natural",
+    "operacao": "Reconhecer sobrevivência/reprodução diferencial",
+    "dificuldade": 1,
+    "fundamento": "Contexto já apresenta variabilidade e pressão ambiental; aplicação canônica.",
+    "trabalhosidade": "baixa",
+    "suporte": "Exposição didática autoral",
+    "distratores": "Lamarckismo, mutação dirigida e fixismo.",
+    "pagina_pdf": {
+      "B1": 11,
+      "B2": 11,
+      "B3": 11,
+      "B4": 11
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-14",
+    "numeros_por_bloco": {
+      "B1": 14,
+      "B2": 14,
+      "B3": 14,
+      "B4": 14
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "DNA recombinante e insulina",
+    "operacao": "Identificar aplicação biotecnológica",
+    "dificuldade": 1,
+    "fundamento": "Exemplo escolar clássico; descrição conduz a microrganismo modificado.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contextualização saúde/indústria",
+    "distratores": "Imunidade natural, mutações espontâneas e vacina atenuada.",
+    "pagina_pdf": {
+      "B1": 11,
+      "B2": 11,
+      "B3": 11,
+      "B4": 11
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-15",
+    "numeros_por_bloco": {
+      "B1": 15,
+      "B2": 15,
+      "B3": 15,
+      "B4": 15
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "Espécies exóticas e impacto ecológico",
+    "operacao": "Reconhecer competição com espécies nativas",
+    "dificuldade": 1,
+    "fundamento": "Efeito negativo previsível, oposto a neutralidade e benefício universal.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contextualização ambiental",
+    "distratores": "Ausência absoluta de efeitos e substituição inverossímil de ciclos.",
+    "pagina_pdf": {
+      "B1": 11,
+      "B2": 11,
+      "B3": 11,
+      "B4": 11
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-16",
+    "numeros_por_bloco": {
+      "B1": 16,
+      "B2": 16,
+      "B3": 16,
+      "B4": 16
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "Primeira lei de Mendel: Aa × Aa",
+    "operacao": "Ler frequência genotípica aa",
+    "dificuldade": 1,
+    "fundamento": "Quadro de Punnett vem preenchido; contar 1 de 4 é suficiente.",
+    "trabalhosidade": "baixa",
+    "suporte": "Quadro de Punnett completo",
+    "distratores": "Percentuais de 50, 75 e 100 associados a contagens equivocadas.",
+    "pagina_pdf": {
+      "B1": 12,
+      "B2": 12,
+      "B3": 12,
+      "B4": 12
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-17",
+    "numeros_por_bloco": {
+      "B1": 22,
+      "B2": 17,
+      "B3": 17,
+      "B4": 17
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Eletrização por atrito, contato e indução",
+    "operacao": "Julgar três proposições conceituais",
+    "dificuldade": 2,
+    "fundamento": "Requer distinguir sinais e condições de três processos, sem cálculo.",
+    "trabalhosidade": "média: três verificações",
+    "suporte": "Lista I–III",
+    "distratores": "Combinações incluem erro de repulsão no atrito.",
+    "pagina_pdf": {
+      "B1": 13,
+      "B2": 12,
+      "B3": 12,
+      "B4": 12
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-18",
+    "numeros_por_bloco": {
+      "B1": 23,
+      "B2": 18,
+      "B3": 18,
+      "B4": 18
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Circuito misto e potência elétrica",
+    "operacao": "Reduzir associação e aplicar P=V²/Req",
+    "dificuldade": 2,
+    "fundamento": "Figura exige identificar paralelo de R e série com R/2; Req=12 e R=12.",
+    "trabalhosidade": "média: leitura de circuito e cálculo",
+    "suporte": "Esquema autoral de circuito",
+    "distratores": "Valores numéricos refletem associação ou cálculo incorretos; nem todos têm erro transparente.",
+    "pagina_pdf": {
+      "B1": 13,
+      "B2": 12,
+      "B3": 12,
+      "B4": 12
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-19",
+    "numeros_por_bloco": {
+      "B1": 24,
+      "B2": 19,
+      "B3": 19,
+      "B4": 19
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Linhas de campo, indução em placa e campo em cavidade",
+    "operacao": "Integrar três representações eletrostáticas",
+    "dificuldade": 2,
+    "fundamento": "Três julgamentos visuais, com eliminação possível pelo campo interno nulo e número de linhas.",
+    "trabalhosidade": "média: três diagramas",
+    "suporte": "Três figuras autorais",
+    "distratores": "Permutam magnitude relativa, carga da placa e campo em C/D; hipótese física da placa pouco desenvolvida.",
+    "pagina_pdf": {
+      "B1": 14,
+      "B2": 13,
+      "B3": 13,
+      "B4": 13
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-20",
+    "numeros_por_bloco": {
+      "B1": 25,
+      "B2": 20,
+      "B3": 20,
+      "B4": 20
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Força magnética sobre elétrons",
+    "operacao": "Determinar sentido e curvatura da trajetória",
+    "dificuldade": 2,
+    "fundamento": "Combina produto vetorial com sinal negativo do elétron; exige leitura de orientação.",
+    "trabalhosidade": "baixa a média",
+    "suporte": "Diagrama de quatro trajetórias",
+    "distratores": "Reta, deflexão para cima e reta inclinada contra curvatura correta para baixo.",
+    "pagina_pdf": {
+      "B1": 14,
+      "B2": 13,
+      "B3": 13,
+      "B4": 13
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-21",
+    "numeros_por_bloco": {
+      "B1": 26,
+      "B2": 21,
+      "B3": 21,
+      "B4": 26
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Urbanização em países centrais e periféricos",
+    "operacao": "Julgar comparações históricas e espaciais",
+    "dificuldade": 2,
+    "fundamento": "Três proposições requerem articular ritmo, industrialização e hierarquia urbana.",
+    "trabalhosidade": "média",
+    "suporte": "Lista I–III",
+    "distratores": "Generalização sobre concentração das principais cidades globais nos periféricos.",
+    "pagina_pdf": {
+      "B1": 14,
+      "B2": 13,
+      "B3": 13,
+      "B4": 14
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-22",
+    "numeros_por_bloco": {
+      "B1": 27,
+      "B2": 22,
+      "B3": 22,
+      "B4": 27
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Tectônica de placas e convecção",
+    "operacao": "Relacionar divergência e formação de dorsal",
+    "dificuldade": 1,
+    "fundamento": "Esquema rotula convecção e dorsal, apoiando resposta direta.",
+    "trabalhosidade": "baixa",
+    "suporte": "Esquema didático de placas",
+    "distratores": "Invertem subducção/divergência, densidade e sismicidade.",
+    "pagina_pdf": {
+      "B1": 15,
+      "B2": 14,
+      "B3": 14,
+      "B4": 15
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-23",
+    "numeros_por_bloco": {
+      "B1": 28,
+      "B2": 23,
+      "B3": 23,
+      "B4": 28
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Geopolítica e blocos econômicos",
+    "operacao": "Reconhecer finalidade da integração regional",
+    "dificuldade": 1,
+    "fundamento": "Correta é finalidade geral; demais contêm negações ou exageros evidentes.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto autoral com China, Ucrânia e Oriente Médio",
+    "distratores": "Supremacia militar chinesa, irrelevância do petróleo e ausência de efeitos globais.",
+    "pagina_pdf": {
+      "B1": 15,
+      "B2": 14,
+      "B3": 14,
+      "B4": 15
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-24",
+    "numeros_por_bloco": {
+      "B1": 29,
+      "B2": 24,
+      "B3": 24,
+      "B4": 29
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Queimadas no Peruaçu e unidades de conservação",
+    "operacao": "Relacionar proteção ambiental e conservação dos biomas",
+    "dificuldade": 1,
+    "fundamento": "Notícia contextualiza princípio amplo; alternativas excluídas por absolutos.",
+    "trabalhosidade": "média de leitura",
+    "suporte": "Notícia regional G1",
+    "distratores": "Restrição temporal, benefício generalizado e exclusividade de áreas úmidas.",
+    "pagina_pdf": {
+      "B1": 15,
+      "B2": 14,
+      "B3": 14,
+      "B4": 15
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-25",
+    "numeros_por_bloco": {
+      "B1": 30,
+      "B2": 30,
+      "B3": 25,
+      "B4": 30
+    },
+    "disciplina": "História",
+    "conteudo_real": "Segunda Guerra, Enigma e criptografia contemporânea",
+    "operacao": "Comparar tecnologia, informação e poder em épocas distintas",
+    "dificuldade": 1,
+    "fundamento": "A importância estratégica já é enunciada; distratores a negam frontalmente.",
+    "trabalhosidade": "alta de leitura frente à inferência curta",
+    "suporte": "Texto histórico-divulgativo + captura de aviso WhatsApp",
+    "distratores": "Reduzem criptografia a curiosidade ou uso exclusivamente técnico/individual.",
+    "pagina_pdf": {
+      "B1": 16,
+      "B2": 17,
+      "B3": 15,
+      "B4": 16
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-26",
+    "numeros_por_bloco": {
+      "B1": 31,
+      "B2": 31,
+      "B3": 26,
+      "B4": 31
+    },
+    "disciplina": "História",
+    "conteudo_real": "Guerra do Vietnã, napalm e opinião pública",
+    "operacao": "Relacionar violência contra civis e contestação da guerra",
+    "dificuldade": 2,
+    "fundamento": "O dano está explícito; resposta acrescenta repercussão política e pressão internacional.",
+    "trabalhosidade": "média",
+    "suporte": "Texto divulgativo + fotografia histórica",
+    "distratores": "Negam civis, durabilidade da memória ou invertem mobilização favorável à guerra.",
+    "pagina_pdf": {
+      "B1": 17,
+      "B2": 18,
+      "B3": 16,
+      "B4": 17
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-27",
+    "numeros_por_bloco": {
+      "B1": 32,
+      "B2": 32,
+      "B3": 27,
+      "B4": 32
+    },
+    "disciplina": "História",
+    "conteudo_real": "Vargas 1936: anticomunismo e legitimação autoritária",
+    "operacao": "Inferir estratégia política a partir de discurso",
+    "dificuldade": 2,
+    "fundamento": "Articula linguagem da ameaça com expansão dos alvos de repressão e contexto varguista.",
+    "trabalhosidade": "alta de leitura e inferência",
+    "suporte": "Discurso histórico primário, continuado na página seguinte",
+    "distratores": "Causas particulares, militarização direta e defesa liberal não sustentadas.",
+    "pagina_pdf": {
+      "B1": 18,
+      "B2": 19,
+      "B3": 17,
+      "B4": 18
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-28",
+    "numeros_por_bloco": {
+      "B1": 33,
+      "B2": 33,
+      "B3": 28,
+      "B4": 33
+    },
+    "disciplina": "História",
+    "conteudo_real": "República da Espada e eleição de Deodoro",
+    "operacao": "Reconhecer sequência institucional histórica",
+    "dificuldade": 1,
+    "fundamento": "Memória factual de governo provisório e eleição congressual.",
+    "trabalhosidade": "baixa",
+    "suporte": "Enunciado histórico sem fonte",
+    "distratores": "Anacronismo do café com leite e estabilidade atribuída ao Encilhamento.",
+    "pagina_pdf": {
+      "B1": 18,
+      "B2": 19,
+      "B3": 17,
+      "B4": 18
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-29",
+    "numeros_por_bloco": {
+      "B1": 34,
+      "B2": 39,
+      "B3": 34,
+      "B4": 34
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Área de triângulo, ângulo obtuso e lei dos cossenos",
+    "operacao": "Derivar seno, selecionar ângulo e calcular terceiro lado",
+    "dificuldade": 3,
+    "fundamento": "Requer articular área=ab senθ/2, θ obtuso e cosseno negativo; opções exploram ramo do ângulo e sinal.",
+    "trabalhosidade": "média: etapas dependentes",
+    "suporte": "Situação de topografia, dados textuais e radicais nas opções",
+    "distratores": "Ângulo agudo, cosseno inadequado e combinação numérica incorreta.",
+    "pagina_pdf": {
+      "B1": 18,
+      "B2": 23,
+      "B3": 21,
+      "B4": 18
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-30",
+    "numeros_por_bloco": {
+      "B1": 35,
+      "B2": 40,
+      "B3": 35,
+      "B4": 35
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Porcentagem em distribuição de transportes",
+    "operacao": "Somar percentuais e calcular quantidade",
+    "dificuldade": 1,
+    "fundamento": "20%+10%=30% de 1200, cálculo direto.",
+    "trabalhosidade": "baixa",
+    "suporte": "Lista percentual de pesquisa",
+    "distratores": "Subconjuntos ou porcentagens não solicitadas.",
+    "pagina_pdf": {
+      "B1": 18,
+      "B2": 23,
+      "B3": 22,
+      "B4": 19
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-31",
+    "numeros_por_bloco": {
+      "B1": 36,
+      "B2": 41,
+      "B3": 36,
+      "B4": 36
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Função cosseno modelando maré",
+    "operacao": "Substituir t=4 e avaliar cosseno",
+    "dificuldade": 2,
+    "fundamento": "Modelo está pronto; requer reconhecer cos(2π/3)=-1/2 e deslocamento vertical.",
+    "trabalhosidade": "baixa a média",
+    "suporte": "Fórmula fornecida",
+    "distratores": "Erros de sinal, uso do nível médio e aproximação inadequada.",
+    "pagina_pdf": {
+      "B1": 19,
+      "B2": 23,
+      "B3": 22,
+      "B4": 19
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-32",
+    "numeros_por_bloco": {
+      "B1": 37,
+      "B2": 42,
+      "B3": 37,
+      "B4": 37
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Geometria analítica: tangência reta-circunferência",
+    "operacao": "Impor distância do centro à reta igual ao raio",
+    "dificuldade": 2,
+    "fundamento": "Traduz tangência para módulo(k)/√2=5 ou discriminante nulo; seleciona raiz positiva.",
+    "trabalhosidade": "média",
+    "suporte": "Equações de reta e circunferência em contexto de jogo",
+    "distratores": "Confusão entre raio, diâmetro e fator √2.",
+    "pagina_pdf": {
+      "B1": 19,
+      "B2": 23,
+      "B3": 22,
+      "B4": 19
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-33",
+    "numeros_por_bloco": {
+      "B1": 38,
+      "B2": 43,
+      "B3": 43,
+      "B4": 43
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Biodiesel e transesterificação",
+    "operacao": "Nomear reação de triglicerídeo com metanol",
+    "dificuldade": 1,
+    "fundamento": "Reagentes e produtos dados, reconhecimento do processo.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto energético autoral",
+    "distratores": "Combustão, hidrólise e oxidação.",
+    "pagina_pdf": {
+      "B1": 19,
+      "B2": 24,
+      "B3": 24,
+      "B4": 21
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-34",
+    "numeros_por_bloco": {
+      "B1": 39,
+      "B2": 44,
+      "B3": 44,
+      "B4": 44
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Biomassa e metano/biogás",
+    "operacao": "Selecionar combustível associado a fonte renovável",
+    "dificuldade": 1,
+    "fundamento": "Eliminação dos três derivados fósseis; origem biogênica do metano fica implícita.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contextualização sobre energia",
+    "distratores": "Três combustíveis explicitamente fósseis; ressalvar que metano também pode ser fóssil.",
+    "pagina_pdf": {
+      "B1": 20,
+      "B2": 24,
+      "B3": 24,
+      "B4": 21
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-35",
+    "numeros_por_bloco": {
+      "B1": 40,
+      "B2": 45,
+      "B3": 45,
+      "B4": 45
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Polímeros biodegradáveis e sustentabilidade",
+    "operacao": "Reconhecer redução relativa de resíduos",
+    "dificuldade": 1,
+    "fundamento": "Correta é afirmação moderada; demais são absolutas.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto ambiental autoral",
+    "distratores": "Todos iguais, solução total ou petróleo exclusivamente sustentável.",
+    "pagina_pdf": {
+      "B1": 20,
+      "B2": 24,
+      "B3": 24,
+      "B4": 21
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-36",
+    "numeros_por_bloco": {
+      "B1": 41,
+      "B2": 46,
+      "B3": 46,
+      "B4": 46
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Propanona e função cetona",
+    "operacao": "Associar nome e grupo funcional",
+    "dificuldade": 1,
+    "fundamento": "Sufixo e carbono carbonílico já oferecem pistas; reconhecer R–CO–R.",
+    "trabalhosidade": "baixa",
+    "suporte": "Exposição e fórmulas condensadas nas opções",
+    "distratores": "Misturam álcool, éter e éster e respectivas representações.",
+    "pagina_pdf": {
+      "B1": 20,
+      "B2": 25,
+      "B3": 24,
+      "B4": 21
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-37",
+    "numeros_por_bloco": {
+      "B1": 47,
+      "B2": 47,
+      "B3": 47,
+      "B4": 47
+    },
+    "disciplina": "Filosofia",
+    "conteudo_real": "Linguagem, mediação simbólica e cultura",
+    "operacao": "Inferir papel da interação social na significação",
+    "dificuldade": 2,
+    "fundamento": "Relato de Helen Keller exige distinguir mediação interpessoal de maturação ou reflexão autônoma.",
+    "trabalhosidade": "média",
+    "suporte": "Relato citado por cadeia de fontes",
+    "distratores": "Três versões de construção individual sem o outro.",
+    "pagina_pdf": {
+      "B1": 21,
+      "B2": 25,
+      "B3": 24,
+      "B4": 21
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-38",
+    "numeros_por_bloco": {
+      "B1": 48,
+      "B2": 48,
+      "B3": 48,
+      "B4": 48
+    },
+    "disciplina": "Filosofia",
+    "conteudo_real": "Antropologia filosófica, alteridade e etnocentrismo",
+    "operacao": "Confrontar organização matrilinear e crítica à norma única",
+    "dificuldade": 1,
+    "fundamento": "A citação de Wolff orienta a recusa de superioridade; três opções defendem imposição patriarcal.",
+    "trabalhosidade": "média de leitura",
+    "suporte": "Dois excertos filosóficos",
+    "distratores": "Superioridade, primitivismo e substituição cultural.",
+    "pagina_pdf": {
+      "B1": 21,
+      "B2": 25,
+      "B3": 25,
+      "B4": 22
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-39",
+    "numeros_por_bloco": {
+      "B1": 49,
+      "B2": 49,
+      "B3": 49,
+      "B4": 49
+    },
+    "disciplina": "Sociologia",
+    "conteudo_real": "Relativismo cultural e julgamento etnocêntrico",
+    "operacao": "Aplicar conceito a crítica de práticas agrícolas",
+    "dificuldade": 1,
+    "fundamento": "Padrão próprio aplicado a cultura alheia aparece explicitamente.",
+    "trabalhosidade": "baixa a média",
+    "suporte": "Situação hipotética internacional",
+    "distratores": "Confundem relativismo com superioridade e desqualificam a cultura.",
+    "pagina_pdf": {
+      "B1": 22,
+      "B2": 26,
+      "B3": 25,
+      "B4": 22
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-COM-40",
+    "numeros_por_bloco": {
+      "B1": 50,
+      "B2": 50,
+      "B3": 50,
+      "B4": 50
+    },
+    "disciplina": "Sociologia",
+    "conteudo_real": "Consumismo, mídia e sustentabilidade",
+    "operacao": "Julgar quatro proposições",
+    "dificuldade": 1,
+    "fundamento": "Só II é compatível; I e III negam relações sociais/midiáticas, IV exagera a crítica.",
+    "trabalhosidade": "média: quatro julgamentos simples",
+    "suporte": "Lista I–IV",
+    "distratores": "Absolutos: exclusivamente, imunes, rejeição global.",
+    "pagina_pdf": {
+      "B1": 22,
+      "B2": 26,
+      "B3": 25,
+      "B4": 22
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-BIO-41",
+    "numeros_por_bloco": {
+      "B1": 17
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "Hematose e difusão alveolar",
+    "operacao": "Reconhecer trocas gasosas passivas",
+    "dificuldade": 1,
+    "fundamento": "Enunciado nomeia alvéolos e gases; mecanismo canônico.",
+    "trabalhosidade": "baixa",
+    "suporte": "Exposição de fisiologia",
+    "distratores": "Fotossíntese, ATP local e transporte ativo de O2.",
+    "pagina_pdf": {
+      "B1": 12
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-BIO-42",
+    "numeros_por_bloco": {
+      "B1": 18
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "Circulação: retorno de sangue venoso ao coração",
+    "operacao": "Identificar vaso de retorno sistêmico",
+    "dificuldade": 1,
+    "fundamento": "Retorno dos tecidos é descrito; operação nominal simples. Item oficialmente anulado, causa não informada.",
+    "trabalhosidade": "baixa",
+    "suporte": "Exposição de circulação",
+    "distratores": "Trocam artérias/veias e sangue oxigenado/venoso.",
+    "pagina_pdf": {
+      "B1": 12
+    },
+    "anulada": true
+  },
+  {
+    "id": "PAES3-ESP-BIO-43",
+    "numeros_por_bloco": {
+      "B1": 19
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "Vacinas e memória imunológica",
+    "operacao": "Reconhecer mecanismo de imunização",
+    "dificuldade": 1,
+    "fundamento": "Correta apresenta memória; demais negam ou substituem sistema imune.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto de saúde pública",
+    "distratores": "Impedir imunidade, eliminar todos patógenos e substituir imunidade inata.",
+    "pagina_pdf": {
+      "B1": 12
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-BIO-44",
+    "numeros_por_bloco": {
+      "B1": 20
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "Efeito estufa antrópico e gases",
+    "operacao": "Identificar fatores de aquecimento global",
+    "dificuldade": 1,
+    "fundamento": "Ligação entre atividade humana e composição atmosférica já é dada.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto climático autoral",
+    "distratores": "Sismicidade, O2 e variação solar independente.",
+    "pagina_pdf": {
+      "B1": 13
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-BIO-45",
+    "numeros_por_bloco": {
+      "B1": 21
+    },
+    "disciplina": "Biologia",
+    "conteudo_real": "Seleção artificial",
+    "operacao": "Distinguir intervenção humana de seleção natural",
+    "dificuldade": 1,
+    "fundamento": "Enunciado define direcionamento reprodutivo humano antes de pedir seu reconhecimento.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto agropecuário",
+    "distratores": "Processos sem intervenção e confusão com mutações.",
+    "pagina_pdf": {
+      "B1": 13
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-QUI-46",
+    "numeros_por_bloco": {
+      "B1": 42
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Termoquímica: combustão do etanol",
+    "operacao": "Classificar liberação de calor como exotérmica",
+    "dificuldade": 1,
+    "fundamento": "Palavra libera aparece no enunciado; 1367 kJ é dispensável, não há cálculo.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto energético e valor de entalpia",
+    "distratores": "Endotérmica, entalpia constante e associação indevida com espontaneidade.",
+    "pagina_pdf": {
+      "B1": 20
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-QUI-47",
+    "numeros_por_bloco": {
+      "B1": 43
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Ligação peptídica e amida",
+    "operacao": "Identificar função orgânica resultante",
+    "dificuldade": 1,
+    "fundamento": "Grupos reagentes informados; exige reconhecimento escolar de amida.",
+    "trabalhosidade": "baixa",
+    "suporte": "Descrição de aminoácidos/proteínas",
+    "distratores": "Amina, cetona e nitrila.",
+    "pagina_pdf": {
+      "B1": 20
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-QUI-48",
+    "numeros_por_bloco": {
+      "B1": 44
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Gorduras saturadas e insaturadas",
+    "operacao": "Distinguir presença de ligações duplas",
+    "dificuldade": 1,
+    "fundamento": "Reconhecimento direto de saturação, sem estrutura a comparar.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto alimentar",
+    "distratores": "Invertem hidrogênios ou introduzem oxigênio/aromaticidade.",
+    "pagina_pdf": {
+      "B1": 20
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-QUI-49",
+    "numeros_por_bloco": {
+      "B1": 45
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Ureia: amida, solubilidade e hidrólise",
+    "operacao": "Julgar três propriedades químicas",
+    "dificuldade": 1,
+    "fundamento": "Fórmula permite reconhecer amida; alegação de liberação de O2 é facilmente excluída.",
+    "trabalhosidade": "baixa a média",
+    "suporte": "Fórmula condensada + I–III",
+    "distratores": "Combinações com proposição III falsa.",
+    "pagina_pdf": {
+      "B1": 21
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-QUI-50",
+    "numeros_por_bloco": {
+      "B1": 46
+    },
+    "disciplina": "Química",
+    "conteudo_real": "Esterificação/condensação: ácido acético e etanol",
+    "operacao": "Classificar reação com eliminação de água",
+    "dificuldade": 1,
+    "fundamento": "Reagentes, produto e água dados; reconhecer condensação.",
+    "trabalhosidade": "baixa",
+    "suporte": "Descrição completa da reação",
+    "distratores": "Adição, combustão e substituição; classificação mecanística não é discutida.",
+    "pagina_pdf": {
+      "B1": 21
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-GEO-51",
+    "numeros_por_bloco": {
+      "B2": 25
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Desmatamento e deslizamentos",
+    "operacao": "Relacionar retirada de vegetação e risco de encosta",
+    "dificuldade": 1,
+    "fundamento": "Causalidade escolar direta, sem dados para analisar.",
+    "trabalhosidade": "baixa",
+    "suporte": "Enunciado direto",
+    "distratores": "Minimizam impactos e índices de desmatamento.",
+    "pagina_pdf": {
+      "B2": 15
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-GEO-52",
+    "numeros_por_bloco": {
+      "B2": 26
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Comércio atacadista",
+    "operacao": "Reconhecer venda em grandes quantidades para revenda",
+    "dificuldade": 1,
+    "fundamento": "Definição direta em opções nominais.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contextualização de uma oração",
+    "distratores": "Características de varejo e balcão.",
+    "pagina_pdf": {
+      "B2": 15
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-GEO-53",
+    "numeros_por_bloco": {
+      "B2": 27
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Comércio internacional, globalização e desigualdade",
+    "operacao": "Relacionar aumento de fluxos e divisão internacional do trabalho",
+    "dificuldade": 1,
+    "fundamento": "Tendência já é verbalizada; gráfico não exige cálculo e três opções fazem inversões amplas.",
+    "trabalhosidade": "média de leitura",
+    "suporte": "Gráfico de linha 1970–2020",
+    "distratores": "Benefício igual, redução de fluxos e crescimento por barreiras.",
+    "pagina_pdf": {
+      "B2": 15
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-GEO-54",
+    "numeros_por_bloco": {
+      "B2": 28
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Ferrovias FIOL/FICO e integração territorial",
+    "operacao": "Identificar projetos a partir de traçados e localizações",
+    "dificuldade": 2,
+    "fundamento": "Requer articular mapa, cidades/estados e conhecimento de redes ferroviárias.",
+    "trabalhosidade": "média de leitura cartográfica",
+    "suporte": "Mapa de dois projetos, legenda e municípios",
+    "distratores": "Substituem FIOL por Transnordestina/FCA ou FICO por Carajás.",
+    "pagina_pdf": {
+      "B2": 16
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-GEO-55",
+    "numeros_por_bloco": {
+      "B2": 29
+    },
+    "disciplina": "Geografia",
+    "conteudo_real": "Mudanças climáticas e impactos desiguais",
+    "operacao": "Inferir vulnerabilidade socioambiental diferenciada",
+    "dificuldade": 1,
+    "fundamento": "Fonte descreve efeitos regionais; correta generaliza desigualdade enquanto outras negam impactos.",
+    "trabalhosidade": "média de leitura",
+    "suporte": "Excerto atribuído ao IPCC",
+    "distratores": "Negam agricultura e extremos ou restringem a países desenvolvidos.",
+    "pagina_pdf": {
+      "B2": 16
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-HIS-56",
+    "numeros_por_bloco": {
+      "B2": 34,
+      "B3": 29
+    },
+    "disciplina": "História",
+    "conteudo_real": "Crise de 1929, café e tarifas de 2025",
+    "operacao": "Comparar vulnerabilidade externa em contextos históricos",
+    "dificuldade": 2,
+    "fundamento": "Integra duas épocas e gráfico que relativiza centralidade do café; evita equivalência absoluta entre crises.",
+    "trabalhosidade": "alta: três suportes em duas páginas",
+    "suporte": "Texto histórico + gráfico de exportações 2024 + notícia de 2025",
+    "distratores": "Negam vulnerabilidade ou universalizam dependência/resposta estatal.",
+    "pagina_pdf": {
+      "B2": 20,
+      "B3": 18
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-HIS-57",
+    "numeros_por_bloco": {
+      "B2": 35,
+      "B3": 30
+    },
+    "disciplina": "História",
+    "conteudo_real": "Nazismo: propaganda antissemita e perseguição",
+    "operacao": "Relacionar legitimação ideológica e violência cotidiana",
+    "dificuldade": 1,
+    "fundamento": "Instrução já explicita função de cada documento; correta retoma a combinação.",
+    "trabalhosidade": "alta leitura frente à operação direta",
+    "suporte": "Ilustração de livro infantil + testemunho de sobrevivente",
+    "distratores": "Separam Estado e violência ou a tratam como tardia/ilegal.",
+    "pagina_pdf": {
+      "B2": 21,
+      "B3": 19
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-HIS-58",
+    "numeros_por_bloco": {
+      "B2": 36,
+      "B3": 31
+    },
+    "disciplina": "História",
+    "conteudo_real": "Stalinismo e planos quinquenais",
+    "operacao": "Reconhecer industrialização planificada",
+    "dificuldade": 1,
+    "fundamento": "Conhecimento factual escolar; contraposto a democratização e prosperidade inventadas.",
+    "trabalhosidade": "baixa a média",
+    "suporte": "Contexto histórico sem documento",
+    "distratores": "Misturam NEP/comunismo de guerra e atribuem democracia ao regime.",
+    "pagina_pdf": {
+      "B2": 21,
+      "B3": 20
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-HIS-59",
+    "numeros_por_bloco": {
+      "B2": 37,
+      "B3": 32
+    },
+    "disciplina": "História",
+    "conteudo_real": "Tenentismo e oposição oligárquica",
+    "operacao": "Identificar base militar e objetivo político",
+    "dificuldade": 1,
+    "fundamento": "Identificação direta dos jovens oficiais e oposição às oligarquias.",
+    "trabalhosidade": "baixa",
+    "suporte": "Contexto histórico curto",
+    "distratores": "Socialismo, reforma agrária e apoio burguês generalizado.",
+    "pagina_pdf": {
+      "B2": 21,
+      "B3": 20
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-HIS-60",
+    "numeros_por_bloco": {
+      "B2": 38,
+      "B3": 33
+    },
+    "disciplina": "História",
+    "conteudo_real": "Partilha da Palestina e criação de Israel",
+    "operacao": "Relacionar plano de 1947, distribuição territorial e conflito",
+    "dificuldade": 2,
+    "fundamento": "Mapas precisam ser articulados a cronologia e composição populacional não quantificada no suporte.",
+    "trabalhosidade": "média",
+    "suporte": "Dois mapas históricos/contemporâneos",
+    "distratores": "Percentual inventado, inversão demográfica e negação de proposta internacional.",
+    "pagina_pdf": {
+      "B2": 22,
+      "B3": 21
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-MAT-61",
+    "numeros_por_bloco": {
+      "B3": 38,
+      "B4": 38
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Áreas laterais de cilindro e cone",
+    "operacao": "Calcular geratriz e somar áreas",
+    "dificuldade": 2,
+    "fundamento": "É preciso distinguir lateral de volume/base e obter geratriz 5 antes de 48π+15π.",
+    "trabalhosidade": "média: etapas dependentes",
+    "suporte": "Descrição verbal de silo, sem figura",
+    "distratores": "Áreas parciais e uso da altura no lugar da geratriz.",
+    "pagina_pdf": {
+      "B3": 22,
+      "B4": 19
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-MAT-62",
+    "numeros_por_bloco": {
+      "B3": 39,
+      "B4": 39
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Algoritmo de coordenadas e área de triângulo",
+    "operacao": "Executar translações e calcular área por determinante",
+    "dificuldade": 2,
+    "fundamento": "Produz P2=(5,5), P3=(3,10) e calcula área 13; algoritmo é fornecido.",
+    "trabalhosidade": "média: sequenciamento e conta",
+    "suporte": "Passos I–III",
+    "distratores": "Áreas numéricas decorrentes de erros de coordenadas/cálculo.",
+    "pagina_pdf": {
+      "B3": 22,
+      "B4": 19
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-MAT-63",
+    "numeros_por_bloco": {
+      "B3": 40,
+      "B4": 40
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Conversões de unidades e taxa de transferência",
+    "operacao": "Converter armazenamento em bits e tempo em minutos",
+    "dificuldade": 2,
+    "fundamento": "Encadeia KB/MB/GB, bytes/bits e segundos/minutos; cerca de 2,6 min.",
+    "trabalhosidade": "alta de cálculo, média conceitual",
+    "suporte": "Problema tecnológico com convenções explícitas",
+    "distratores": "Omissão de fator 8 e outras conversões/parcelas.",
+    "pagina_pdf": {
+      "B3": 23,
+      "B4": 20
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-MAT-64",
+    "numeros_por_bloco": {
+      "B3": 41,
+      "B4": 41
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Reflexão e translação no plano cartesiano",
+    "operacao": "Aplicar duas transformações ordenadas",
+    "dificuldade": 1,
+    "fundamento": "Trocar sinal de x e somar (3,-1): (2,3)→(-2,3)→(1,2).",
+    "trabalhosidade": "baixa",
+    "suporte": "Duas instruções sequenciais",
+    "distratores": "Invertem eixo/sinais ou ordem de transformação.",
+    "pagina_pdf": {
+      "B3": 23,
+      "B4": 20
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-MAT-65",
+    "numeros_por_bloco": {
+      "B3": 42,
+      "B4": 42
+    },
+    "disciplina": "Matemática",
+    "conteudo_real": "Distribuição normal e regra 68–95–99,7",
+    "operacao": "Padronizar limiar e calcular uma cauda",
+    "dificuldade": 2,
+    "fundamento": "492 está 2σ abaixo da média; metade dos 5% externos produz 250.",
+    "trabalhosidade": "média",
+    "suporte": "Dados estatísticos e regra empírica indicada",
+    "distratores": "Confundem 1/2 cauda e 2σ/3σ.",
+    "pagina_pdf": {
+      "B3": 23,
+      "B4": 20
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-FIS-66",
+    "numeros_por_bloco": {
+      "B4": 21
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Campo elétrico e força",
+    "operacao": "Aplicar F=qE",
+    "dificuldade": 1,
+    "fundamento": "Dados na mesma distância permitem q=10/10, sem necessidade de lei de Coulomb explícita.",
+    "trabalhosidade": "baixa",
+    "suporte": "Enunciado quantitativo curto",
+    "distratores": "Valores inteiros próximos sem mecanismo inequívoco.",
+    "pagina_pdf": {
+      "B4": 13
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-FIS-67",
+    "numeros_por_bloco": {
+      "B4": 22
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Potência em resistores série/paralelo",
+    "operacao": "Comparar dissipação à mesma tensão",
+    "dificuldade": 2,
+    "fundamento": "Tensão por elemento cai à metade; potência cai a um quarto. Referente de potência pode gerar leitura ambígua.",
+    "trabalhosidade": "média",
+    "suporte": "Problema verbal sem circuito",
+    "distratores": "Valores quantitativos; redação alterna um elemento e ambos.",
+    "pagina_pdf": {
+      "B4": 13
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-FIS-68",
+    "numeros_por_bloco": {
+      "B4": 23
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Espectro eletromagnético",
+    "operacao": "Ordenar micro-ondas, infravermelho e visível",
+    "dificuldade": 1,
+    "fundamento": "Associação cotidiana e ordem canônica de frequência.",
+    "trabalhosidade": "baixa",
+    "suporte": "Descrição de três aparelhos",
+    "distratores": "Permutações da sequência dos aparelhos.",
+    "pagina_pdf": {
+      "B4": 14
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-FIS-69",
+    "numeros_por_bloco": {
+      "B4": 24
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Indução eletromagnética e lei de Lenz",
+    "operacao": "Determinar sentido da corrente induzida",
+    "dificuldade": 2,
+    "fundamento": "Combina fluxo para fora crescente, oposição para dentro e regra da mão direita.",
+    "trabalhosidade": "baixa a média",
+    "suporte": "Diagrama autoral de espira e campo",
+    "distratores": "Ausência, sentido oposto e alternância sem motivo.",
+    "pagina_pdf": {
+      "B4": 14
+    },
+    "anulada": false
+  },
+  {
+    "id": "PAES3-ESP-FIS-70",
+    "numeros_por_bloco": {
+      "B4": 25
+    },
+    "disciplina": "Física",
+    "conteudo_real": "Física quântica: quantização",
+    "operacao": "Reconhecer caráter discreto de grandezas",
+    "dificuldade": 1,
+    "fundamento": "Reconhecimento conceitual, sem modelo atômico ou cálculo.",
+    "trabalhosidade": "baixa",
+    "suporte": "Exposição histórico-científica",
+    "distratores": "Continuidade e determinismo macroscópico.",
+    "pagina_pdf": {
+      "B4": 14
+    },
+    "anulada": false
+  }
+]
