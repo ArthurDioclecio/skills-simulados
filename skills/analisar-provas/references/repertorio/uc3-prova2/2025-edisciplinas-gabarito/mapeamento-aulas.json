@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "exam_id": "uc3-prova2",
+  "exam_edition": 2025,
+  "sources": [
+    {
+      "id": "exam",
+      "path": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Prova II - UC3-2025 - Final com Gabarito-Edisciplinas.pdf",
+      "sha256": "88b809925f3f2b31dbc9ba334006e097e1c8fabd5539853d6a9d85eaef380e1a",
+      "pages": 16,
+      "role": "exam_and_inline_answer_key"
+    },
+    {
+      "id": "course_material",
+      "path": "C:\\Users\\arthu\\Documents\\Codex\\2026-09-03\\files-pasted-by-the-user-quero\\nebli\\arquivos-trabalho\\materiais\\uc3-p2-integrada\\qa-material-completo-final.pdf",
+      "sha256": "58932c6c0cb17c54687ef912b2fa452f88e38bb15126f5cc68693bc0140971dd",
+      "pages": 369,
+      "role": "course_material"
+    }
+  ],
+  "coverage_definitions": {
+    "direta": "O material fornece os conceitos e o percurso necessários para o núcleo pontuável.",
+    "parcial": "O material fornece a base, mas falta uma aplicação, técnica, agente ou detalhe específico.",
+    "lacuna": "O conteúdo central não aparece nas vinte aulas nem nas questões cumulativas."
+  },
+  "summary": {
+    "unique_exam_items": 24,
+    "declared_exam_points": 11.0,
+    "direct_items": 17,
+    "partial_items": 6,
+    "gap_items": 1,
+    "direct_points": 7.7,
+    "partial_points": 3.05,
+    "gap_points": 0.25,
+    "lessons_with_conceptual_link": 18,
+    "lessons_without_direct_exam_item": [4, 20]
+  },
+  "lesson_ranges": [
+    {"lesson": 1, "pages": [7, 18]},
+    {"lesson": 2, "pages": [19, 32]},
+    {"lesson": 3, "pages": [33, 51]},
+    {"lesson": 4, "pages": [52, 67]},
+    {"lesson": 5, "pages": [68, 89]},
+    {"lesson": 6, "pages": [90, 110]},
+    {"lesson": 7, "pages": [111, 130]},
+    {"lesson": 8, "pages": [131, 147]},
+    {"lesson": 9, "pages": [148, 168]},
+    {"lesson": 10, "pages": [169, 185]},
+    {"lesson": 11, "pages": [186, 205]},
+    {"lesson": 12, "pages": [206, 225]},
+    {"lesson": 13, "pages": [226, 246]},
+    {"lesson": 14, "pages": [247, 264]},
+    {"lesson": 15, "pages": [265, 279]},
+    {"lesson": 16, "pages": [280, 294]},
+    {"lesson": 17, "pages": [295, 307]},
+    {"lesson": 18, "pages": [308, 323]},
+    {"lesson": 19, "pages": [324, 340]},
+    {"lesson": 20, "pages": [341, 357]}
+  ],
+  "items": [
+    {"id": "1.1", "points": 0.75, "coverage": "parcial", "lessons": [{"lesson": 17, "sections": ["17.1", "17.4"], "pages": [295, 298]}], "gap": "Vantagens operacionais das modalidades não são explicitadas."},
+    {"id": "1.2", "points": 0.3, "coverage": "direta", "lessons": [{"lesson": 12, "sections": ["12.5", "12.6"], "pages": [211, 212]}, {"lesson": 15, "sections": ["15.6"], "pages": [269]}]},
+    {"id": "1.3", "points": 0.4, "coverage": "direta", "lessons": [{"lesson": 2, "sections": ["2.6", "2.7"], "pages": [26, 27]}, {"lesson": 5, "sections": ["5.4", "5.6"], "pages": [73, 75]}, {"lesson": 6, "sections": ["6.3"], "pages": [92, 93]}]},
+    {"id": "1.4", "points": 0.4, "coverage": "direta", "lessons": [{"lesson": 11, "sections": ["11.8", "11.16"], "pages": [194, 195, 203, 204]}]},
+    {"id": "1.5", "points": 0.45, "coverage": "direta", "lessons": [{"lesson": 11, "sections": ["11.2", "11.14", "11.16"], "pages": [187, 201, 203, 204]}]},
+    {"id": "1.6", "points": 0.3, "coverage": "direta", "lessons": [{"lesson": 12, "sections": ["12.6"], "pages": [212]}, {"lesson": 13, "sections": ["13.7", "13.12"], "pages": [233, 238]}]},
+    {"id": "1.7", "points": 0.25, "coverage": "direta", "lessons": [{"lesson": 14, "sections": ["14.15", "14.17"], "pages": [260, 263]}]},
+    {"id": "1.8", "points": 1.0, "coverage": "direta", "lessons": [{"lesson": 18, "sections": ["18.10", "18.17", "18.18"], "pages": [316, 322]}, {"lesson": 19, "sections": ["19.13"], "pages": [334, 335]}]},
+    {"id": "1.9", "points": 1.25, "coverage": "direta", "lessons": [{"lesson": 10, "sections": ["10.5", "10.12"], "pages": [173, 181]}]},
+    {"id": "2.1", "points": 0.75, "coverage": "direta", "lessons": [{"lesson": 17, "sections": ["17.1", "17.4"], "pages": [295, 298]}]},
+    {"id": "2.2", "points": 0.3, "coverage": "direta", "lessons": [{"lesson": 12, "sections": ["12.13", "12.14"], "pages": [221, 223]}]},
+    {"id": "2.3", "points": 0.4, "coverage": "direta", "lessons": [{"lesson": 3, "sections": ["3.8"], "pages": [43, 45]}, {"lesson": 6, "sections": ["6.6", "6.8"], "pages": [97, 100]}, {"lesson": 12, "sections": ["12.14"], "pages": [223]}]},
+    {"id": "2.4", "points": 0.25, "coverage": "direta", "lessons": [{"lesson": 12, "sections": ["12.10", "12.12"], "pages": [217, 220]}, {"lesson": 13, "sections": ["13.6", "13.16"], "pages": [232, 243]}]},
+    {"id": "3.1", "points": 0.75, "coverage": "parcial", "lessons": [{"lesson": 17, "sections": ["17.1", "17.4"], "pages": [295, 298]}], "gap": "Anatomia e padrão vertebral tuberculoso não são abordados."},
+    {"id": "3.2", "points": 0.4, "coverage": "direta", "lessons": [{"lesson": 7, "sections": ["7.1", "7.3"], "pages": [111, 114]}]},
+    {"id": "3.3", "points": 0.45, "coverage": "parcial", "lessons": [{"lesson": 8, "sections": ["8.3", "8.7", "8.14"], "pages": [133, 146]}], "gap": "Faltam os métodos específicos para materiais termossensíveis usados no gabarito."},
+    {"id": "3.4", "points": 0.4, "coverage": "parcial", "lessons": [{"lesson": 6, "sections": ["6.5", "6.9"], "pages": [95, 103]}], "gap": "Faltam fatores específicos de M. tuberculosis, como PtpA, SapM e ESX-1."},
+    {"id": "4.1", "points": 0.4, "coverage": "direta", "lessons": [{"lesson": 1, "sections": ["1.4"], "pages": [12, 13]}, {"lesson": 5, "sections": ["5.1"], "pages": [68, 69]}]},
+    {"id": "4.2", "points": 0.45, "coverage": "parcial", "lessons": [{"lesson": 2, "sections": ["2.10"], "pages": [31, 32]}, {"lesson": 7, "sections": ["7.14"], "pages": [127, 128]}, {"lesson": 9, "sections": ["9.16"], "pages": [168]}, {"lesson": 11, "sections": ["11.8", "11.16"], "pages": [194, 204]}], "gap": "Faltam alinhamento/BLAST e marcadores específicos de H. influenzae."},
+    {"id": "4.3", "points": 0.35, "coverage": "direta", "lessons": [{"lesson": 16, "sections": ["16.8", "16.14"], "pages": [287, 292]}]},
+    {"id": "5.1", "points": 0.25, "coverage": "lacuna", "lessons": [], "gap": "PPD, IGRA/QuantiFERON, IFN-gama, ESAT-6, CFP-10 e BCG não são ensinados no material."},
+    {"id": "6.1", "points": 0.25, "coverage": "direta", "lessons": [{"lesson": 14, "sections": ["14.7", "14.15", "14.17"], "pages": [253, 260, 263]}]},
+    {"id": "6.2", "points": 0.25, "coverage": "direta", "lessons": [{"lesson": 14, "sections": ["14.8", "14.16"], "pages": [253, 262]}]},
+    {"id": "7.1", "points": 0.25, "coverage": "parcial", "lessons": [{"lesson": 13, "sections": ["13.2", "13.3"], "pages": [226, 228]}], "gap": "O conceito de imunidade treinada aparece, mas não a aplicação BCG/Spike/SARS-CoV-2."}
+  ],
+  "complete_gap_topics": [
+    "PPD/Mantoux",
+    "IGRA/QuantiFERON",
+    "IFN-gama no diagnóstico de tuberculose",
+    "ESAT-6 e CFP-10",
+    "efeito da BCG sobre PPD e IGRA",
+    "limites para distinguir tuberculose ativa de latente"
+  ],
+  "review": {
+    "text_pages_read": 369,
+    "visually_inspected_key_pages": 48,
+    "reviewer": "mesmo analista em segunda passagem",
+    "independent_review": false
+  }
+}

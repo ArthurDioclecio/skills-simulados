@@ -41,6 +41,56 @@
       "limitations": [
         "Perfil legado; confirmar etapa e edição; sem cobertura integral declarada."
       ]
+    },
+    {
+      "exam_id": "seriado-ufmg",
+      "name": "Seriado UFMG",
+      "aliases": [
+        "UFMG",
+        "Seriado UFMG",
+        "Processo Seletivo Seriado UFMG"
+      ],
+      "version": "2025-ciclo2025-2027-etapa1",
+      "exam_editions": [
+        2025
+      ],
+      "cycle": "2025–2027",
+      "stages": [
+        1
+      ],
+      "coverage": "98_unique_147_occurrences_documentary_complete_C1_C2_deduplicated_S_separate",
+      "path": "references/repertorio/seriado-ufmg/2025-ciclo2025-2027-etapa1/perfil.md",
+      "analysis": "references/repertorio/seriado-ufmg/2025-ciclo2025-2027-etapa1/analise.json",
+      "limitations": [
+        "Somente etapa 1 observada; etapas 2/3 têm apenas referências institucionais.",
+        "C1/C2 são uma família; natureza administrativa e origem do S não confirmadas.",
+        "Dificuldade estimada; ressalvas de construção/chave registradas; sem auditoria independente integral."
+      ]
+    },
+    {
+      "exam_id": "uc3-prova2",
+      "name": "Prova II - UC3",
+      "aliases": [
+        "UC3",
+        "Prova 2 UC3",
+        "Prova II UC3"
+      ],
+      "version": "2025-edisciplinas-gabarito",
+      "exam_editions": [
+        2025
+      ],
+      "stages": [
+        "UC3 - Prova II"
+      ],
+      "coverage": "24_unique_24_occurrences_documentary_complete_visual_checked_20_lessons_mapped",
+      "path": "references/repertorio/uc3-prova2/2025-edisciplinas-gabarito/perfil.md",
+      "analysis": "references/repertorio/uc3-prova2/2025-edisciplinas-gabarito/analise.json",
+      "limitations": [
+        "Uma edição de prova; sem representatividade histórica.",
+        "Vinte aulas mapeadas; seis itens com cobertura parcial e um com lacuna completa.",
+        "Dificuldade estimada; sem taxas de acerto.",
+        "Auditoria em segunda passagem pelo mesmo analista, sem revisor independente."
+      ]
     }
   ]
 }

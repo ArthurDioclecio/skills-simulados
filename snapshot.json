@@ -1,46 +1,35 @@
 {
-  "date": "2026-09-22",
-  "scope": "Skills pessoais e contratos dos agentes; arquivos originais preservados, excluídos caches.",
+  "date": "2026-10-05",
+  "scope": "Skills oficiais pessoais, contratos dos agentes e repertório local. Sem versão limpa de compartilhamento, arquivos originais de provas, controles ou simulados.",
+  "hash_convention": "SHA-256 dos arquivos UTF-8 sem BOM, com fins de linha LF, como versionados no Git.",
   "files": [
     {
-      "path": "skills/analisar-provas/SKILL.md",
-      "sha256": "e6c4387ecb21f9f086fb6705a6c5aa7276b2ab5800f03e3e8b3b213e9c7b0326"
-    },
-    {
       "path": "skills/analisar-provas/agents/openai.yaml",
-      "sha256": "346579efda9058c5cb2e4eeb621b5464ce4af031f6ec2bd44361263798d56616"
+      "sha256": "96667ca37f0a97666ddca8dab66c68d5f7ed69d4a5692a91cf5853a8d252f281"
     },
     {
       "path": "skills/analisar-provas/references/contrato.md",
-      "sha256": "64e9934d493088ba41b5ed36c659fd515cbdf2069e0425a9eaf93f5854bb8f3a"
+      "sha256": "a55e38cbd36ba0c5542cbb43ca75a4f38a9afb47751ea8e27f6e183cb06bedb6"
     },
     {
       "path": "skills/analisar-provas/references/manutencao.md",
-      "sha256": "1fb784073e0b2f4fbd0f2a20a20911208c975dc1aa2861d936a7929e69f06b37"
+      "sha256": "76d8b2e5b247ed23fa737a7e11309f1fdd36d61cebc36aaa35f3528c07fc30b8"
     },
     {
       "path": "skills/analisar-provas/references/metodo.md",
-      "sha256": "021fa7f5e317276b95601f83fd06cbfa52c8c01535867a0f449878e4599259f9"
-    },
-    {
-      "path": "skills/analisar-provas/scripts/repertorio.py",
-      "sha256": "00281d0889c89f9fc3bb0f78f72fbc60130f0682ac13692f9bf3291f15609d6c"
+      "sha256": "995ac70388d521b9024b4f0dafd25ca1e6c13ec9ae6d97dffb1c81c7544282e9"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/index.json",
-      "sha256": "4d40c6912d37a0b13000f6572dd14fe409537b62e65857ba618b3767bfa447d9"
-    },
-    {
-      "path": "skills/analisar-provas/references/repertorio/ssa-upe/perfil.md",
-      "sha256": "50a19c692f5b8071885126b19e6258a2b0975fe777be9c95f5fc92187e3cc595"
+      "sha256": "bb70f4aab322b63c8d23a367ccdb2e8b2c424d8258aa4825c025dc8ad8087973"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/analise.json",
-      "sha256": "20d207925824964cc156558eb82b263e1cf463b906e2f7065ea44a8fbdf2d857"
+      "sha256": "15d0acfd0c8a05c801c75ef6fd555cded3f5fe994e97a606e94d4fd15a0bb5c4"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/analysis_verification.json",
-      "sha256": "7b8a152bcc43709cfebb41bdc18b98b7e47feee3939e20b436d72f39cd882a8c"
+      "sha256": "35852166ff14e75993a647e7aa37ab59a7120fb4a4d8c0e5cb4084d45409df43"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/itens_paes1.json",
@@ -48,19 +37,19 @@
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/itens_paes2.json",
-      "sha256": "65a3da17d8d059438771522efd752d79925560b4822ca03af6f159f324a6f0e9"
+      "sha256": "cc313742cb1283717e540ec418abf750abad4fa2657c64d9e579ec007c2e0fde"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/itens_paes3.json",
-      "sha256": "9cbbd1e000316ed75c57dd644ebb2a7c59b1cf23861c00bdb0afa97c9dd5d4b9"
+      "sha256": "aed22f2f452869624810606a13be462e60b50fc2307e02dc063f8bd1d663ffee"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/metrics_summary.json",
-      "sha256": "208f3bae562ffe74f577308d256e899702143270fd800438b8686ac692e1a8eb"
+      "sha256": "db508f49f92ae51271f1128cc1d21455bbfa8b86bfb6b235691c45a4ce474e9b"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/padroes-gerais.md",
-      "sha256": "b28f679a0bcba6d790811ff324bd0c8fdb3ebcad3ea6ec8325dc002dea9288cb"
+      "sha256": "6bdae87bf15de4bc91f5f2c2c9ac0c04af9a0c3688bde1db97ae2d640f0a01c1"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/parecer_paes1.md",
@@ -72,35 +61,83 @@
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/parecer_paes3.md",
-      "sha256": "6cc3a41c1f132a87ec92fa5cf8ddb735be6ccab6cbb55bdd6f45ad1a4c1d5ecb"
+      "sha256": "9388db94abc8491994caf11070bcbac8c1bb1ffc4d4f662c363009435290c448"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/perfil.md",
-      "sha256": "07946ca8719331d60d765530af54847f86c662eddecc36382c96a83eee5d298d"
+      "sha256": "5407e639b6012478603d75222ee895f882ad29459aab884e3a6a388ee26f2658"
     },
     {
       "path": "skills/analisar-provas/references/repertorio/paes-unimontes/2025-prog2026/sources.json",
-      "sha256": "96d61e3e0584bf5578c1ba277937e7405dd3f46716482c029f913298e2a60ce8"
+      "sha256": "d02969d8e629eda3dd10e7fce9e7ada400a31166c33943682e6fc74b3db35e7d"
     },
     {
-      "path": "skills/questoes-espelho/SKILL.md",
-      "sha256": "7221fa3cc70661b44842f3cb07e3e99fc407c9fe82a551691063d6b8289d0820"
+      "path": "skills/analisar-provas/references/repertorio/seriado-ufmg/2025-ciclo2025-2027-etapa1/analise.json",
+      "sha256": "1b532c9ab119d1c50dc30e64dd9b5084f151d257aef03464f7f28735cc9db07f"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/seriado-ufmg/2025-ciclo2025-2027-etapa1/equivalencia_cadernos_1_2.json",
+      "sha256": "83773a5dc08dbbf25e23be7a601d4b652a7c19f93e243df271188985da73296a"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/seriado-ufmg/2025-ciclo2025-2027-etapa1/parecer_caderno_s.md",
+      "sha256": "462bf38ca517941834f438c478a627839207ab57b373f147980088791b623e53"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/seriado-ufmg/2025-ciclo2025-2027-etapa1/perfil.md",
+      "sha256": "6cd639b88da7a8a6549cd41fa1036f90ee34d638bd15906d117e151d955e6c51"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/seriado-ufmg/2025-ciclo2025-2027-etapa1/validacao.json",
+      "sha256": "aeef9744bc9fbd01d80025855f802f899d07ed8aa2c61482a243555b26125946"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/ssa-upe/perfil.md",
+      "sha256": "d940256b6e9a15a7e2dc475976e7cac35422c2e1334a5fa19a445541486ea461"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/uc3-prova2/2025-edisciplinas-gabarito/analise.json",
+      "sha256": "22997090edb14c4a473686253e02786c6083fde6d6473b16ff2a88ef7db83796"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/uc3-prova2/2025-edisciplinas-gabarito/mapeamento-aulas.json",
+      "sha256": "71437fd3ab9d6f2a41f77df29ef11d1185bf1d67a2f2de28920c8a19803bb86a"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/uc3-prova2/2025-edisciplinas-gabarito/mapeamento-aulas.md",
+      "sha256": "b7d4a65976a8656ecf4af74cc42422ffcd4621cc203760d2f5ac1937022807c2"
+    },
+    {
+      "path": "skills/analisar-provas/references/repertorio/uc3-prova2/2025-edisciplinas-gabarito/perfil.md",
+      "sha256": "0694a664f4b35662b66480dabe07c28d0c72e0c592107098a8535a93c4261926"
+    },
+    {
+      "path": "skills/analisar-provas/scripts/repertorio.py",
+      "sha256": "00281d0889c89f9fc3bb0f78f72fbc60130f0682ac13692f9bf3291f15609d6c"
+    },
+    {
+      "path": "skills/analisar-provas/SKILL.md",
+      "sha256": "77005db326f48376d6525371cfa14fcb923f1b2e3953c1b2fa7203acbaa89c9c"
     },
     {
       "path": "skills/questoes-espelho/agents/openai.yaml",
-      "sha256": "f9bb488562e1523b903b34484a52b22c7395588a60ad2dd34f8287ef7b7e9020"
+      "sha256": "d06370cab179933cfb8c7a806a4ac63e3f1e15049f69e97d2fc02cfd832a4b3e"
     },
     {
       "path": "skills/questoes-espelho/references/contrato-e-versoes.md",
-      "sha256": "2fd91ed4a6f50a55a17b299f57f0dbc6e01c87d16774e334db812511cbc66df4"
+      "sha256": "7ea1f81799e08970fd439edecd12e69036ebbd7327a7b0439ccf8abd54de7133"
     },
     {
       "path": "skills/questoes-espelho/references/criterios-editoriais.md",
-      "sha256": "457018040afc539244aadaef19d288d72bfffdddab70ea57a4e7556d10488ea0"
+      "sha256": "e04bbd5f418a65f15b8b4cb323e44303c57665ed20ddbd46e6f6ad7aa9d9c983"
     },
     {
       "path": "skills/questoes-espelho/references/entrada-planilha.md",
-      "sha256": "a5bbd57c51f5e08243923d2906ab4defb2273659f38a9a42454eea2591bca156"
+      "sha256": "563578bfedcebde306331bdb8e35e5f4f2e155eebc1e904a100182a8fdcd15d9"
+    },
+    {
+      "path": "skills/questoes-espelho/references/fidelidade-cognitiva.md",
+      "sha256": "02242b708cb6e8b671822655e017c756ce0b073ae03cd823b7ba4951ed4b6968"
     },
     {
       "path": "skills/questoes-espelho/references/formatador-local.md",
@@ -116,39 +153,15 @@
     },
     {
       "path": "skills/questoes-espelho/references/paes-unimontes.md",
-      "sha256": "d5c277fb2b1abb043f1793400cab85fdf721e563a302b97c8571a82d5011e0a5"
+      "sha256": "4d6a5633aa56ff5b161a146999d711cf6f3d8001a45dffc015b81ba39310458e"
     },
     {
       "path": "skills/questoes-espelho/references/papeis-de-agentes.md",
-      "sha256": "84567aba640e612131714d8be2a235f456df6d5af7de55ec971ae2bce87e4df8"
+      "sha256": "91effbb638241f41bbe910205c76168c4cc73fb08e2f579f934fb1ae6e826fc4"
     },
     {
       "path": "skills/questoes-espelho/references/perfis-de-prova.md",
-      "sha256": "e6111baf2f0bd611e4a1eb7ba0c29362f226d17e9d024c0ec969d1b04f8753df"
-    },
-    {
-      "path": "skills/questoes-espelho/references/qpack-semantica.md",
-      "sha256": "1330437c17ae3d60fe5d3b4e6d75372883466eaba2e7f2e61cbbb64bd8c7aa48"
-    },
-    {
-      "path": "skills/questoes-espelho/references/revisao-visual.md",
-      "sha256": "7e34bef10f3d858edb0b92ad11fe3e5ddd35c4f66c00df0db90be5e77fbf754d"
-    },
-    {
-      "path": "skills/questoes-espelho/references/ssa-upe.md",
-      "sha256": "06150cb885d5fc8edde796979087d2f2f8e69ba679202e697437a040b0039b62"
-    },
-    {
-      "path": "skills/questoes-espelho/scripts/plan_batches.py",
-      "sha256": "e7f0131fbed0481321da6fa0ad7525273351d798b7da751edef9da7976693541"
-    },
-    {
-      "path": "skills/questoes-espelho/scripts/review_state.py",
-      "sha256": "ac256366cc35cf540d7547f08eb00f4298b9e12325eba5b3a5afd20a2103c404"
-    },
-    {
-      "path": "skills/questoes-espelho/scripts/visual_preflight.py",
-      "sha256": "cc134ff0ca2903d57deda81ae2e55bc979a96c2ad254ac0c988a052970210b05"
+      "sha256": "630488771233bf7dbcbdbc15cfaf650f1ddcd71b041fb80e5122489a79343b8e"
     },
     {
       "path": "skills/questoes-espelho/references/qpack/manifest.schema.json",
@@ -167,16 +180,44 @@
       "sha256": "e4a4c515b9599322c9d533d20b2a6763c74a1ca68993ad3c7b003cbb62c754e9"
     },
     {
-      "path": "skills/humanizer/LICENSE",
-      "sha256": "caa1be9cba41c1afb88fe730ab1a4e04728295ea5b29ac2ee9f003a4ffbe3a77"
+      "path": "skills/questoes-espelho/references/qpack-semantica.md",
+      "sha256": "1330437c17ae3d60fe5d3b4e6d75372883466eaba2e7f2e61cbbb64bd8c7aa48"
     },
     {
-      "path": "skills/humanizer/SKILL.md",
-      "sha256": "5fd504ab8c910a4e59418fae143f6f7c6928822ffedf45fb525a9b3bb8d7a83b"
+      "path": "skills/questoes-espelho/references/revisao-visual.md",
+      "sha256": "c03801483f761c3b7e4ca683f2791ba3a82d8928c123da107f4ba4abc56bd5f1"
+    },
+    {
+      "path": "skills/questoes-espelho/references/ssa-upe.md",
+      "sha256": "06150cb885d5fc8edde796979087d2f2f8e69ba679202e697437a040b0039b62"
+    },
+    {
+      "path": "skills/questoes-espelho/scripts/plan_batches.py",
+      "sha256": "e7f0131fbed0481321da6fa0ad7525273351d798b7da751edef9da7976693541"
+    },
+    {
+      "path": "skills/questoes-espelho/scripts/review_state.py",
+      "sha256": "ac256366cc35cf540d7547f08eb00f4298b9e12325eba5b3a5afd20a2103c404"
+    },
+    {
+      "path": "skills/questoes-espelho/scripts/visual_preflight.py",
+      "sha256": "cc134ff0ca2903d57deda81ae2e55bc979a96c2ad254ac0c988a052970210b05"
+    },
+    {
+      "path": "skills/questoes-espelho/SKILL.md",
+      "sha256": "bd8f98aed5c75f73c8fb1130302f59674ca9624f350f9e880c7fed83e5b72d46"
     },
     {
       "path": "skills/humanizer/agents/openai.yaml",
-      "sha256": "d9ca04edb13bf6d7096e3b9127615e010d0c864652db2b6a080252fe5d00a08f"
+      "sha256": "9d87ff83149a04f86a372948b8ee35fa249de20923867bbc2a49304290aad736"
+    },
+    {
+      "path": "skills/humanizer/LICENSE",
+      "sha256": "4ac4810254ab36d45419141aeb8e69bf50652cfafe5b2dab947d06d44e5cbf96"
+    },
+    {
+      "path": "skills/humanizer/SKILL.md",
+      "sha256": "14fc8a965b6e0a8dc100ba4dffeab55cb94bbac112abbde7e014d5c15a35c202"
     }
   ]
 }

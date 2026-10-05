@@ -26,8 +26,24 @@ O programa2026 apresenta em Literatura Brasileira: PAES1 identidade,desigualdade
 
 ## Consulta e limites
 
+### Calibração editorial recebida em 25/09/2026
+
+Origem: comentários do responsável em `20Itens_PAES3_Arthur_revisar.docx`, referentes ao lote GOY, e mensagem encaminhada pelo usuário. É orientação editorial desse trabalho, não nova contagem dos cadernos nem regra oficial. O retorno valoriza conhecimento escolar específico com cobrança direta, distinguindo conteúdo de dificuldade; elogia itens diretos de fisiologia e pede reduzir interpretação experimental ou mera leitura do mapa em alguns itens. Na aplicação deste perfil, conferir o conceito indispensável e a forma de mobilizá-lo no espelho da mesma matéria/subtipo. Não impor memorização a todo item de interpretação nem concluir que todo PAES é fácil.
+
+Extensão, sintaxe, vocabulário, forma das alternativas e destaques devem ser comparados localmente com espelho e controle. “Cobrar mais conteúdo” não pede automaticamente mais etapas, texto ou ressalvas técnicas. Solicitações de usar Minas Gerais, trocar técnicas, reservar uma alteração ao revisor e ajustar pontuação ficam no contrato do lote; não se aplicam a todas as provas ou questões. Elogios não resolvem pendências de fonte ou correção. Esta calibração não altera as métricas e fichas históricas sem nova análise documentada.
+
 [Fontes e hashes](sources.json), [métricas extraídas](metrics_summary.json), [cobertura da análise anterior](analysis_verification.json). Os pareceres históricos incluem focos de lote e diagnósticos de itens; esses trechos são evidência contextual, não instruções ativas de produção. Não importar atribuições GOY, exclusão de línguas, quantidades ou pedidos de dificuldade deles.
 
 ## Cobertura e limites do registro migrado
+
+### Calibração editorial recebida em 29/09/2026
+
+Orientação do projeto recebida por três capturas e relato do usuário; não constitui nova análise estatística dos cadernos. O relato presencial pede enunciado próximo ao espelho. O usuário estende explicitamente essa preferência aos textos motivadores quando não houver necessidade/pedido de desvio; essa extensão não foi atribuída ao coordenador.
+
+O retorno que mostra a Q23 do lote GOY elogia sua proximidade com o estilo UNIMONTES e a melhora após os ajustes. Destaca preservar a linha de raciocínio com conteúdos diferentes, em vez de apenas igualar número de etapas ou rótulo de dificuldade. Usar Q23 como evidência positiva dessa dimensão, não como molde obrigatório nem certificação das demais questões.
+
+Outro retorno elogia planejamento, tamanho e fidelidade, mas pede mais consulta ao texto em inglês, variedade de exigência e revisão da coerência entre enunciado e alternativas. Não há identificação dos itens de inglês nem de uma versão exata; não afirmar que um item específico incorreu no problema sem examiná-lo. O comunicado coletivo do PAES 2 alerta para excesso de ponto e vírgula/dois-pontos, opções que não respondem diretamente ao comando e apresentação das fontes; não atribuir todos os defeitos coletivos ao lote GOY.
+
+Aplicação editorial: seguir a apresentação da referência do espelho local, com dados autênticos da fonte nova; conferir pontuação por função, sem proibições gerais; conservar extensão por componente e verificar o percurso e o encaixe comando–opções conforme [fidelidade cognitiva](../../../../../questoes-espelho/references/fidelidade-cognitiva.md). A recomendação de dificultar um pouco não estabelece quota, não revoga pedidos por item e não transforma todo PAES em prova difícil. Nenhuma questão é alterada automaticamente por esta atualização de orientações.
 
 A ficha analise.json preserva 201 itens únicos, 340 ocorrências e quatro itens anulados. A cobertura textual vem da análise anterior. O estado formal é parcial porque falta rastreabilidade individual da inspeção visual; não significa que os 201 itens foram relidos nesta atualização. As estimativas de dificuldade não são medidas de desempenho de estudantes.

@@ -12,3 +12,7 @@
 Completude exige inventário conhecido, ocorrências esperadas presentes e leitura integral de todos os itens, incluindo visuais necessários. Completude documental não transforma uma edição em regra histórica. O validador rejeita `complete` incompatível com cobertura e referências inválidas; `partial` é estado legítimo. Dificuldade indeterminada fica fora da distribuição classificada e deve aparecer como pendência.
 
 Para arquivos grandes, manter texto analítico por disciplina em Markdown separado e apontar seus caminhos no perfil. Não guardar textos integrais de provas dentro deste JSON: fichas, sínteses e referências bastam.
+
+## Diagnóstico editorial complementar
+
+Em novas análises ou revisões dos itens pertinentes, registrar em `items[].editorial_diagnostics` ou em ficha Markdown vinculada: `prior_knowledge`, `provided_information`, `effective_operation`, `curriculum_evidence` (fonte/trecho e se documentada, inferida ou ausente), `length_profile` (componentes separados, vetor de alternativas, unidade/convenção e empates), `information_blocks`, `answer_leakage`, `writing_features`, `preserve`, `vary` e `avoid`. Valores descritivos devem apontar evidências do item; campo não examinado fica explicitamente não avaliado. Esses registros complementam o schema v1 sem invalidar acervos antigos. O validador estrutural atual não certifica sua qualidade nem sua presença; não anunciar retroanálise dos perfis legados sem relê-los.

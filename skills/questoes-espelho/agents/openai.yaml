@@ -1,6 +1,6 @@
 interface:
   display_name: "Questões-espelho"
   short_description: "Questões adaptadas ao perfil de cada prova"
-  default_prompt: "Use $questoes-espelho para criar e revisar as questões dos espelhos ou da planilha enviada, consultando o repertório por prova, etapa e edição e aplicando o contrato vigente dos itens e concluindo o lote com revisão editorial e técnica."
+  default_prompt: "Use $questoes-espelho para elaborar e revisar o lote conforme espelhos, controle e feedback vigente, distinguindo conhecimento prévio, dificuldade e extensão, com revisão independente de conteúdo, fidelidade, pistas e apresentação."
 policy:
   allow_implicit_invocation: true

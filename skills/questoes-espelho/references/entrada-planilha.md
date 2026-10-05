@@ -59,6 +59,8 @@ Abas encontradas: `SSA1`, `SSA2`, `SSA3`, `PESSOAS`. Na aba `SSA3`, os cabeçalh
 
 ## Registro interno mínimo da linha selecionada
 
+Se houver colunas `Palavras A`, `Palavras B` etc., recuperar o vetor completo e comparar com cada alternativa, respeitando o significado das letras e reordenações autorizadas. Essas medidas orientam fidelidade, sem impor igualdade exata salvo pedido explícito; não substituí-las pela média nem tratá-las como licença para mudar respostas numéricas em frases. Registrar desvios materiais e verificar a contagem no espelho. Aplicar [fidelidade cognitiva](fidelidade-cognitiva.md).
+
 - Origem: arquivo/hash, aba, linha, ID e células usadas.
 - Seleção: critério solicitado e universo efetivamente incluído.
 - Identidade: prova, etapa, processo/ano, caderno/dia, língua, número do controle, número editorial e número oficial confirmado.

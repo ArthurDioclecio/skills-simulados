@@ -2,6 +2,8 @@
 
 Estas são regras operacionais consolidadas, não um banco de histórias de erros. O perfil da prova e o pedido individual definem o que é aplicável.
 
+Na leitura, autoria e revisão, aplicar [fidelidade da cobrança e da escrita](fidelidade-cognitiva.md): conhecimento indispensável, informação fornecida, operação efetiva, dificuldade e extensão são verificações distintas.
+
 ## Estados e leitura de feedback
 
 - Separar: solucionável, gabarito único, correto conceitualmente, fiel ao espelho, visualmente adequado, tecnicamente válido, pronto para prova e aprovado pelo usuário. Um estado não implica os seguintes.

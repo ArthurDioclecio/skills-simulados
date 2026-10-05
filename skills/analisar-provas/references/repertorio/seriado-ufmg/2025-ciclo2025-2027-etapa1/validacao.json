@@ -1,0 +1,111 @@
+{
+  "ok": true,
+  "coverage_status": "complete",
+  "unique_items": 98,
+  "physical_occurrences": 147,
+  "annulled_items": 0,
+  "unclassified_valid_items": 10,
+  "missing_occurrences": [],
+  "extra_occurrences": [],
+  "difficulty_by_stage_subject": {
+    "1 | Língua Portuguesa": {
+      "fácil": 7,
+      "média": 2,
+      "indeterminada": 1
+    },
+    "1 | Literatura": {
+      "média": 3,
+      "fácil": 1,
+      "indeterminada": 1
+    },
+    "1 | Educação Física": {
+      "média": 1,
+      "fácil": 1
+    },
+    "1 | Arte": {
+      "média": 1,
+      "fácil": 1
+    },
+    "1 | Arte / Música": {
+      "fácil": 2
+    },
+    "1 | Espanhol": {
+      "média": 2,
+      "fácil": 1
+    },
+    "1 | Inglês": {
+      "fácil": 2
+    },
+    "1 | Inglês / Educação Física": {
+      "média": 1
+    },
+    "1 | Matemática": {
+      "fácil": 5,
+      "média": 8,
+      "difícil": 1,
+      "indeterminada": 3
+    },
+    "1 | Matemática / Física": {
+      "média": 1
+    },
+    "1 | Biologia": {
+      "fácil": 4,
+      "média": 1,
+      "indeterminada": 2
+    },
+    "1 | Física": {
+      "média": 6,
+      "fácil": 2
+    },
+    "1 | Química": {
+      "fácil": 4,
+      "média": 4
+    },
+    "1 | Geografia": {
+      "fácil": 3,
+      "média": 4
+    },
+    "1 | História": {
+      "fácil": 5,
+      "indeterminada": 1
+    },
+    "1 | Filosofia": {
+      "fácil": 3
+    },
+    "1 | História / Sociologia": {
+      "fácil": 1
+    },
+    "1 | História / Filosofia": {
+      "fácil": 1,
+      "indeterminada": 1
+    },
+    "1 | Interdisciplinar: Linguagens / História": {
+      "média": 1
+    },
+    "1 | Língua Portuguesa / Arte": {
+      "fácil": 1
+    },
+    "1 | Língua Espanhola": {
+      "média": 1,
+      "fácil": 2
+    },
+    "1 | Língua Inglesa": {
+      "fácil": 2
+    },
+    "1 | Língua Inglesa / Literatura": {
+      "fácil": 1
+    },
+    "1 | Biologia / Química": {
+      "indeterminada": 1
+    },
+    "1 | Sociologia": {
+      "fácil": 1
+    },
+    "1 | Interdisciplinar: Linguagens / História / Geografia / Arte": {
+      "difícil": 1
+    }
+  },
+  "errors": [],
+  "warnings": [],
+  "note": "Validação estrutural; não certifica leitura, solução, qualidade editorial ou representatividade."
+}

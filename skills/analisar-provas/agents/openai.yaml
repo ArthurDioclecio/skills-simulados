@@ -1,4 +1,4 @@
 interface:
   display_name: "Análise e repertório de provas"
   short_description: "Perfis de provas com padrões e evidências"
-  default_prompt: "Use $analisar-provas para analisar os cadernos enviados e registrar seus padrões no repertório, sem elaborar questões."
+  default_prompt: "Use $analisar-provas para analisar os cadernos por etapa e matéria, distinguindo conhecimento prévio, interpretação, dificuldade, extensão, escrita e pistas, e registrar com evidências o que preservar, variar e evitar, sem elaborar questões."

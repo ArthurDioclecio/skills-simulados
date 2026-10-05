@@ -1,6 +1,6 @@
 # Skills para análise e confecção de simulados
 
-Repertório de provas e fluxo pessoal para criar, revisar e exportar questões a partir de espelhos e controles XLSX. Configuração multibanca, com perfil inicial PAES e referência parcial SSA.
+Repertório de provas e fluxo pessoal para criar, revisar e exportar questões a partir de espelhos e controles XLSX. Configuração multibanca, com repertório versionado e limites de cobertura por prova e etapa.
 
 ## Conteúdo
 
@@ -36,12 +36,12 @@ Essas ferramentas são fornecidas pelos respectivos plugins/ambiente e não fora
 
 ## Repertório e limites
 
-O [catálogo](skills/analisar-provas/references/repertorio/index.json) distingue prova, edição, etapa e cobertura. PAES: análise anterior de 201 itens únicos e 340 ocorrências dos cadernos de 2025, com programas de 2026 separados. A rastreabilidade visual individual está parcial. SSA: perfil legado parcial. Não há perfis presumidos de outras bancas.
+O [catálogo](skills/analisar-provas/references/repertorio/index.json) distingue prova, edição, etapa e cobertura. PAES: análise anterior de 201 itens únicos e 340 ocorrências dos cadernos de 2025, com programas de 2026 separados. A rastreabilidade visual individual está parcial. SSA: perfil legado parcial. Seriado UFMG: etapa 1 de 2025, com cadernos 1/2 equivalentes e caderno S separado. UC3: Prova II de 2025, com 24 itens discursivos e mapeamento das aulas. Consultar o catálogo para os limites específicos; não presumir cobertura de outras etapas ou edições.
 
 Inspeção visual, correção pedagógica e integridade do arquivo são verificações distintas. Dificuldade é estimativa editorial. Pedidos específicos do lote não viram regras universais. A preferência de imagens inéditas admite suporte único compartilhado quando autorizado.
 
 ## Manutenção
 
-Este repositório é uma cópia versionada da configuração em 22/09/2026; alterações locais posteriores não são sincronizadas automaticamente. Atualize os arquivos correspondentes, confira o diff e faça um novo commit/push. Não adicione credenciais, conversas completas, provas, planilhas de trabalho ou QPACKs por engano.
+Este repositório contém a versão oficial completa, sincronizada com a configuração local em 05/10/2026 (`questoes-espelho` 1.4.1, `analisar-provas` 1.1.1 e `humanizer` 2.11.2). A versão limpa `criar-questoes`, distribuída separadamente, não substitui estas skills. Alterações locais posteriores não são sincronizadas automaticamente. Atualize os arquivos correspondentes, confira o diff e faça um novo commit/push. Não adicione credenciais, conversas completas, provas, planilhas de trabalho ou QPACKs por engano.
 
-snapshot.json registra hashes das skills copiadas antes da normalização de fim de linha pelo Git; não é um mecanismo de sincronização. O histórico Git registra as revisões publicadas.
+snapshot.json registra hashes SHA-256 dos arquivos das skills em UTF-8 sem BOM e com fins de linha LF, como versionados no Git; não é um mecanismo de sincronização. O histórico Git registra as revisões publicadas.

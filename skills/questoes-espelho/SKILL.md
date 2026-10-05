@@ -2,7 +2,7 @@
 name: questoes-espelho
 description: Criar, revisar e corrigir questões de simulados a partir de espelhos de provas ou de uma planilha de encomenda, com instruções por item, revisão independente e processamento automático de lotes. Use também para continuar esses lotes; não para apenas resolver uma questão enviada pelo aluno.
 metadata:
-  version: "1.3.0"
+  version: "1.4.1"
 ---
 
 # Questões-espelho
@@ -15,6 +15,7 @@ Produzir questões com a cobrança, arquitetura e apresentação do espelho, inc
 - Sem tema substituto: escolher situação própria no mesmo conteúdo/competência e nível do espelho. Sem pedido de formato: entregar a questão completa, resolução e gabarito separados do material estudantil, usando o padrão do projeto quando estabelecido.
 - Precedência: pedido atual específico > instrução específica da linha selecionada > restrições do lote > ficha do espelho > perfil da prova > regras comuns. Uma mudança autorizada vale no eixo indicado; não apaga restrições independentes.
 - “Mais difícil/mais fácil” autoriza ajustar a exigência e registrar a diferença pretendida. Trabalhar por decisões, integração, pistas e percurso; não por texto inchado, números maiores ou conteúdo fora do programa. Não alegar dificuldade idêntica ao espelho quando houve mudança deliberada.
+- Por padrão, manter a extensão do enunciado e do motivador próxima à do espelho e preservar seu percurso cognitivo abstrato. Exceções seguem o pedido/necessidade documentada, não uma expansão automática para aumentar dificuldade. Aplicar os critérios de [fidelidade cognitiva](references/fidelidade-cognitiva.md).
 - Autoria, revisão e correção interna necessárias fazem parte da encomenda. Executar todos os microlotes sem exigir “continue” ou aprovação a cada um. Preservar uma pausa pedida expressamente pelo usuário. Um pedido completo de geração e entrega autoriza as exportações nele incluídas; não ressuscitar uma aprovação antiga já satisfeita ou substituída pelo pedido atual.
 - Não alterar o controle de encomenda. Criar/atualizar a fonte editorial e suas saídas conforme o pedido. Pedido de análise ou diagnóstico isolado não autoriza reescrever questões existentes.
 - Adjetivos comparativos ou relativos em feedback — como “sólido”, “melhor”, “mais próximo” ou “menos pior” — descrevem posição dentro do conjunto analisado. Só registrar aprovação, prontidão ou uso como modelo quando o usuário disser isso explicitamente.
@@ -22,7 +23,7 @@ Produzir questões com a cobrança, arquitetura e apresentação do espelho, inc
 ## Carregar apenas o necessário
 
 - Entrada por planilha: ler [entrada-planilha.md](references/entrada-planilha.md) e usar a skill Spreadsheets disponível.
-- Qualquer elaboração/revisão: ler [criterios-editoriais.md](references/criterios-editoriais.md).
+- Qualquer elaboração/revisão: ler [criterios-editoriais.md](references/criterios-editoriais.md) e [fidelidade cognitiva](references/fidelidade-cognitiva.md), separando conhecimento prévio, informação fornecida, operação, dificuldade e extensão. Ao retomar um lote, recuperar seu registro atual de feedback antes de usar contratos históricos.
 - Identificação/adaptação da prova: ler [perfis-de-prova.md](references/perfis-de-prova.md). SSA/UPE também exige [ssa-upe.md](references/ssa-upe.md). Para outra prova, consultar ou construir seu perfil no repertório com a skill analisar-provas, fundamentado nos espelhos/edital fornecidos, sem transportar números, tipografia, paginação ou cinco alternativas do SSA por padrão.
 - Consultar o [repertório de provas](../analisar-provas/references/repertorio/index.json) por exame/etapa/edição. Sem perfil suficiente, aplicar [analisar-provas](../analisar-provas/SKILL.md); análise isolada não inicia autoria. PAES/Unimontes: usar [acesso ao perfil](references/paes-unimontes.md), sem transformar pedidos de lote em regras da banca.
 - Imagens: aplicar [revisão visual](references/revisao-visual.md). Feedbacks, dificuldade e restaurações: aplicar [contrato e versões](references/contrato-e-versoes.md).

@@ -1,0 +1,866 @@
+[
+  {
+    "number": 1,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 2,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 3,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "D",
+      "B": "B",
+      "C": "C",
+      "D": "A"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 4,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "C"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 5,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 6,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "D",
+      "C": "C",
+      "D": "B"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 7,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 8,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 9,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "D",
+      "B": "B",
+      "C": "C",
+      "D": "A"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 10,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 11,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 12,
+    "language": "espanhol",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "D",
+      "C": "C",
+      "D": "B"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 13,
+    "language": "espanhol",
+    "stem_identical": true,
+    "mapping": {
+      "A": "D",
+      "B": "B",
+      "C": "C",
+      "D": "A"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 14,
+    "language": "espanhol",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 12,
+    "language": "inglês",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "D",
+      "C": "C",
+      "D": "B"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 13,
+    "language": "inglês",
+    "stem_identical": true,
+    "mapping": {
+      "A": "D",
+      "B": "B",
+      "C": "C",
+      "D": "A"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 14,
+    "language": "inglês",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 15,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "C"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 16,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 17,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 18,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "D",
+      "B": "B",
+      "C": "A",
+      "D": "C"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 19,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 20,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 21,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 22,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "D",
+      "C": "C",
+      "D": "B"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 23,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "visual_comparison_of_graphs_or_formulas"
+  },
+  {
+    "number": 24,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 25,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 26,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "C"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 27,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 28,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 29,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "D",
+      "C": "C",
+      "D": "B"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "visual_comparison_of_graphs_or_formulas"
+  },
+  {
+    "number": 30,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "D",
+      "B": "B",
+      "C": "C",
+      "D": "A"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 31,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 32,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 33,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "D",
+      "C": "C",
+      "D": "B"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 34,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "C"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 35,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 36,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 37,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "D",
+      "C": "C",
+      "D": "B"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 38,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "D",
+      "B": "B",
+      "C": "C",
+      "D": "A"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 39,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "D",
+      "C": "C",
+      "D": "B"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 40,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 41,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "C"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 42,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "D",
+      "B": "B",
+      "C": "C",
+      "D": "A"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 43,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "C",
+      "C": "B",
+      "D": "D"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 44,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "C"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  },
+  {
+    "number": 45,
+    "language": "comum",
+    "stem_identical": true,
+    "mapping": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "C"
+    },
+    "similarities": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0,
+      "D": 1.0
+    },
+    "method": "text_normalization"
+  }
+]

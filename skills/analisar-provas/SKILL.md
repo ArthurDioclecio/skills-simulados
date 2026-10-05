@@ -2,7 +2,7 @@
 name: analisar-provas
 description: Analisar provas e espelhos fornecidos e construir ou consultar um repertório de padrões por exame, edição, etapa, matéria e tipo de questão. Use para identificar estilo, escrita, estrutura e dificuldade; não inicia confecção de questões sem pedido de autoria.
 metadata:
-  version: "1.0.0"
+  version: "1.1.1"
 ---
 
 # Análise e repertório de provas
@@ -18,6 +18,10 @@ Receber cadernos, recortes, imagens ou documentos sem exigir formulário. Identi
 ## Analisar e consolidar
 
 Aplicar [método e registro](references/metodo.md) e [contrato dos dados](references/contrato.md). Separar voz da banca da voz da fonte, dificuldade de extensão, padrão de defeito editorial e conteúdo cobrado de conteúdo encomendado.
+
+Em cada item analisado, identificar conhecimento prévio indispensável versus informação fornecida, operação efetiva, extensão de cada componente/alternativa, blocos informativos, pistas das combinações e detalhes da escrita. Conferir vínculo com programa/etapa quando disponível. Entregar o que preservar, variar e evitar por subtipo, com evidência; não transformar feedback de um lote em característica universal da prova.
+
+Explicitar o percurso cognitivo abstrato, além da contagem de etapas: que relação deve ser percebida e a que tipo de conclusão leva. Medir enunciado e motivador separadamente e registrar o encaixe comando–alternativas e o formato local das referências. Ver [método](references/metodo.md).
 
 Em lotes extensos, pode delegar grupos independentes a analistas com pacote mínimo, mantendo um coordenador para IDs e consolidação. Um auditor deve procurar generalizações sem evidência e contagens duplicadas. Não criar agentes fixos por banca. Sem delegação disponível, realizar passagem separada e informar a limitação.
 
